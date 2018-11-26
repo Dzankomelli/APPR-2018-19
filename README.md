@@ -5,11 +5,15 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2018/19
 * [![Shiny](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/jaanos/APPR-2018-19/master?urlpath=shiny/APPR-2018-19/projekt.Rmd) Shiny
 * [![RStudio](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/jaanos/APPR-2018-19/master?urlpath=rstudio) RStudio
 
+## Analiza izobraževanja  v Sloveniji po regijah
+
 ## Tematika
 
 Analiziral bom, vključenost otrok v predšolsko vzgojo in vse nadalnje izobraževanje ljudi ter jih rangiral glede na vrsto izobraževanja, regijo v kateri živijo, starost, spol ipd. Pregledal bom tudi štipendije v Sloveniji, torej kako so razdeljene med študente in dijake.
 
 ## Spletne povezave do tabel
+
+Do tabel dostopam preko statističnega urada Republike Slovenije. Tabele lahko prenesem iz interneta na mnogo načino, med drugim CSV, HTML, XML, XLS itd.
 
 https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0952532S&ti=&path=../Database/Dem_soc/09_izobrazevanje/03_predsol_vzgoja/01_09525_otroci_vrtci/&lang=2
 

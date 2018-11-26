@@ -7,8 +7,8 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2018/19
 
 ## Tematika
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+Analiziral bom, vključenost otrok v predšolsko vzgojo in vse nadalnje izobraževanje ljudi ter jih rangiral glede na vrsto izobraževanja, regijo v kateri živijo, starost, spol ipd. Pregledal bom tudi štipendije v Sloveniji, torej kako so razdeljene med študente in dijake.
+
 
 ## Program
 

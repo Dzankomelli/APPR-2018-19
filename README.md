@@ -9,6 +9,17 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2018/19
 
 Analiziral bom, vključenost otrok v predšolsko vzgojo in vse nadalnje izobraževanje ljudi ter jih rangiral glede na vrsto izobraževanja, regijo v kateri živijo, starost, spol ipd. Pregledal bom tudi štipendije v Sloveniji, torej kako so razdeljene med študente in dijake.
 
+## Spletne povezave do tabel
+
+https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0952532S&ti=&path=../Database/Dem_soc/09_izobrazevanje/03_predsol_vzgoja/01_09525_otroci_vrtci/&lang=2
+
+https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0952751S&ti=&path=../Database/Dem_soc/09_izobrazevanje/04_osnovnosol_izobraz/01_09527_zac_sol_leta/&lang=2
+
+https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0953235S&ti=&path=../Database/Dem_soc/09_izobrazevanje/07_srednjesol_izobraz/01_09532_zac_sol_leta/&lang=2
+
+https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0955072S&ti=&path=../Database/Dem_soc/09_izobrazevanje/08_terciarno_izobraz/01_09550_vpisani_splosno/&lang=2
+
+https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0954306S&ti=&path=../Database/Dem_soc/09_izobrazevanje/90_Arhiv/02_09543_stipendisti/&lang=2
 
 ## Program
 

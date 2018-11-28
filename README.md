@@ -6,11 +6,14 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2018/19
 * [![RStudio](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/jaanos/APPR-2018-19/master?urlpath=rstudio) RStudio
 
 
-## Tematika
+## Tematika in analiza
 
-V mojem projektu bom analiziral vključenost ljudi v posamezni izobraževalni program v Sloveniji, od vrtcev pa vse do doktorskega študija. Podatke bom zbiral predvsem na spletni strani SURS-a. Podatke bom rangiral glede na izobraževalni program, spol, leto šolanja in regije, v katerih se ljudje šolajo. Prav tako bom analiziral dodeljene štipendije študentom in dijakom glede na regijo, leto šolanja ter spol.
+V svojem projektu bom analiziral vključenost ljudi v posamezni izobraževalni program v Sloveniji, od vrtcev pa vse do doktorskega študija. Podatke o številu ljudi, ki obiskujejo posamezni izobraževalni program sem dobil na spletni strani SURS-a. 
 
-Zanimale me bodo predvsem analize, kako sta povezani vključenost otrok v predšolski program in brezposelnost, dvig BDP glede na vključenost  v terciarno šolanje, delež aktivnega prebivalsta glede na število  diplomantov na 1000 ljudi.
+V dobljenih tabelah imam podatke o številu ljudi, ki so vključeni v določeno vrsto izobraževanja, ki jih ločim po spolu, letu šolanja in regiji v kateri se šolajo. Prav tako sem pridobil podatke o štipendijah, ki so dodeljene ljudem v posameznih regijah.
+
+Analiziral bom kako brezposelnost vpliva na vklkjučenost otrok v predšolske programe, kako sta povezana BDP per capita in terciarno šolanje, kako so povezane dodeljene  štipendije v posameznih občnih glede na število ljudi, ki se tam šola ter vpliv števila diplomantov na delež aktivnega prebivalsta.
+
 
 ## Spletne povezave do tabel
 

@@ -15,6 +15,8 @@ Zanimale me bodo analize, kako sta povezani vključenost otrok v predšolski pro
 
 Do tabel dostopam preko statističnega urada Republike Slovenije. Tabele lahko prenesem iz interneta na mnogo načino, med drugim CSV, HTML, XML, XLS itd.
 
+https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0775370S&ti=&path=../Database/Dem_soc/07_trg_dela/90_arhivski_podatki/03_akt_preb_let_arhiv/&lang=2
+
 https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0955481S&ti=&path=../Database/Dem_soc/09_izobrazevanje/08_terciarno_izobraz/02_09554_diplomanti_splosno/&lang=2
 
 https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0952532S&ti=&path=../Database/Dem_soc/09_izobrazevanje/03_predsol_vzgoja/01_09525_otroci_vrtci/&lang=2

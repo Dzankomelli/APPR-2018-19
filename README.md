@@ -9,6 +9,7 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2018/19
 ## Tematika
 
 V mojem projektu bom analiziral vključenost ljudi v posamezni izobraževalni program v Sloveniji, od vrtcev pa vse do doktorskega študija. Podatke bom zbiral predvsem na spletni strani SURS-a. Podatke bom rangiral glede na izobraževalni program, spol, leto šolanja in regije, v katerih se ljudje šolajo. Prav tako bom analiziral dodeljene štipendije študentom in dijakom glede na regijo, leto šolanja ter spol.
+
 Zanimale me bodo analize, kako sta povezani vključenost otrok v predšolski program in brezposelnost, dvig BDP glede na vključenost  v terciarno šolanje, delež aktivnega prebivalsta glede na število  diplomantov na 1000 ljudi.
 
 ## Spletne povezave do tabel
@@ -29,7 +30,6 @@ https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0955072S&ti=&path=../Database/D
 
 https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0954306S&ti=&path=../Database/Dem_soc/09_izobrazevanje/90_Arhiv/02_09543_stipendisti/&lang=2
 
-https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0954306S&ti=&path=../Database/Dem_soc/09_izobrazevanje/90_Arhiv/02_09543_stipendisti/&lang=2
 
 ## Program
 

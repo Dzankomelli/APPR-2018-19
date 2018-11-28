@@ -12,7 +12,7 @@ V svojem projektu bom analiziral vključenost ljudi v posamezni izobraževalni p
 
 V dobljenih tabelah imam podatke o številu ljudi, ki so vključeni v določeno vrsto izobraževanja, ki jih ločim po spolu, letu šolanja in regiji v kateri se šolajo. Prav tako sem pridobil podatke o štipendijah, ki so dodeljene ljudem v posameznih regijah.
 
-Analiziral bom kako brezposelnost vpliva na vklkjučenost otrok v predšolske programe, kako sta povezana BDP per capita in terciarno šolanje, v kakšni povezavi so dodeljene štipendije v občini glede na število ljudi, ki se tam šola ter vpliv števila diplomantov na delež aktivnega prebivalsta.
+Analiziral bom kako brezposelnost vpliva na vključenost otrok v predšolske programe, kako sta povezana BDP per capita in terciarno šolanje, v kakšni povezavi so dodeljene štipendije v občini glede na število ljudi, ki se tam šola ter vpliv števila diplomantov na delež aktivnega prebivalsta.
 
 
 ## Spletne povezave do tabel

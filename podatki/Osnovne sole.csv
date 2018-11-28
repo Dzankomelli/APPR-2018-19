@@ -1,0 +1,786 @@
+"Osnovne šole in uèenci po: ŠOLSKO LETO, VRSTA ŠOLE, STATISTIÈNA REGIJA"
+", MERITVE"
+
+" ";" ";" ";"Uèenci";"Deèki";"Deklice"
+"2000/01"
+" ";"Šole - SKUPAJ"
+" ";" ";"SLOVENIJA";183897;94500;89397
+" ";" ";"Pomurska";11139;5661;5478
+" ";" ";"Podravska";27608;14262;13346
+" ";" ";"Koroška";7353;3813;3540
+" ";" ";"Savinjska";24537;12580;11957
+" ";" ";"Zasavska";4082;2051;2031
+" ";" ";"Posavska";6595;3404;3191
+" ";" ";"Jugovzhodna Slovenija";14587;7503;7084
+" ";" ";"Osrednjeslovenska";45076;23170;21906
+" ";" ";"Gorenjska";19237;9873;9364
+" ";" ";"Primorsko-notranjska";4599;2354;2245
+" ";" ";"Goriška";10603;5450;5153
+" ";" ";"Obalno-kraška";8481;4379;4102
+" ";"Osnovne šole"
+" ";" ";"SLOVENIJA";181390;92920;88470
+" ";" ";"Pomurska";10998;5581;5417
+" ";" ";"Podravska";27185;13995;13190
+" ";" ";"Koroška";7228;3737;3491
+" ";" ";"Savinjska";24183;12362;11821
+" ";" ";"Zasavska";4019;2014;2005
+" ";" ";"Posavska";6507;3350;3157
+" ";" ";"Jugovzhodna Slovenija";14401;7370;7031
+" ";" ";"Osrednjeslovenska";44463;22781;21682
+" ";" ";"Gorenjska";19017;9740;9277
+" ";" ";"Primorsko-notranjska";4538;2308;2230
+" ";" ";"Goriška";10470;5359;5111
+" ";" ";"Obalno-kraška";8381;4323;4058
+" ";"Osnovne šole in zavodi s prilagojenim programom"
+" ";" ";"SLOVENIJA";2507;1580;927
+" ";" ";"Pomurska";141;80;61
+" ";" ";"Podravska";423;267;156
+" ";" ";"Koroška";125;76;49
+" ";" ";"Savinjska";354;218;136
+" ";" ";"Zasavska";63;37;26
+" ";" ";"Posavska";88;54;34
+" ";" ";"Jugovzhodna Slovenija";186;133;53
+" ";" ";"Osrednjeslovenska";613;389;224
+" ";" ";"Gorenjska";220;133;87
+" ";" ";"Primorsko-notranjska";61;46;15
+" ";" ";"Goriška";133;91;42
+" ";" ";"Obalno-kraška";100;56;44
+"2001/02"
+" ";"Šole - SKUPAJ"
+" ";" ";"SLOVENIJA";180692;92905;87787
+" ";" ";"Pomurska";10880;5539;5341
+" ";" ";"Podravska";27488;14176;13312
+" ";" ";"Koroška";7198;3738;3460
+" ";" ";"Savinjska";24283;12536;11747
+" ";" ";"Zasavska";4016;2013;2003
+" ";" ";"Posavska";6436;3396;3040
+" ";" ";"Jugovzhodna Slovenija";14195;7303;6892
+" ";" ";"Osrednjeslovenska";44297;22769;21528
+" ";" ";"Gorenjska";18820;9644;9176
+" ";" ";"Primorsko-notranjska";4441;2279;2162
+" ";" ";"Goriška";10422;5310;5112
+" ";" ";"Obalno-kraška";8216;4202;4014
+" ";"Osnovne šole"
+" ";" ";"SLOVENIJA";178345;91402;86943
+" ";" ";"Pomurska";10736;5456;5280
+" ";" ";"Podravska";27094;13925;13169
+" ";" ";"Koroška";7091;3674;3417
+" ";" ";"Savinjska";23977;12349;11628
+" ";" ";"Zasavska";3952;1977;1975
+" ";" ";"Posavska";6360;3350;3010
+" ";" ";"Jugovzhodna Slovenija";14004;7168;6836
+" ";" ";"Osrednjeslovenska";43704;22378;21326
+" ";" ";"Gorenjska";18611;9509;9102
+" ";" ";"Primorsko-notranjska";4383;2235;2148
+" ";" ";"Goriška";10304;5230;5074
+" ";" ";"Obalno-kraška";8129;4151;3978
+" ";"Osnovne šole in zavodi s prilagojenim programom"
+" ";" ";"SLOVENIJA";2347;1503;844
+" ";" ";"Pomurska";144;83;61
+" ";" ";"Podravska";394;251;143
+" ";" ";"Koroška";107;64;43
+" ";" ";"Savinjska";306;187;119
+" ";" ";"Zasavska";64;36;28
+" ";" ";"Posavska";76;46;30
+" ";" ";"Jugovzhodna Slovenija";191;135;56
+" ";" ";"Osrednjeslovenska";593;391;202
+" ";" ";"Gorenjska";209;135;74
+" ";" ";"Primorsko-notranjska";58;44;14
+" ";" ";"Goriška";118;80;38
+" ";" ";"Obalno-kraška";87;51;36
+"2002/03"
+" ";"Šole - SKUPAJ"
+" ";" ";"SLOVENIJA";177484;91266;86218
+" ";" ";"Pomurska";10752;5475;5277
+" ";" ";"Podravska";27284;13919;13365
+" ";" ";"Koroška";6980;3643;3337
+" ";" ";"Savinjska";23929;12395;11534
+" ";" ";"Zasavska";3893;1975;1918
+" ";" ";"Posavska";6353;3320;3033
+" ";" ";"Jugovzhodna Slovenija";13655;6988;6667
+" ";" ";"Osrednjeslovenska";43468;22392;21076
+" ";" ";"Gorenjska";18598;9566;9032
+" ";" ";"Primorsko-notranjska";4480;2305;2175
+" ";" ";"Goriška";10202;5224;4978
+" ";" ";"Obalno-kraška";7890;4064;3826
+" ";"Osnovne šole"
+" ";" ";"SLOVENIJA";175211;89846;85365
+" ";" ";"Pomurska";10621;5400;5221
+" ";" ";"Podravska";26928;13711;13217
+" ";" ";"Koroška";6888;3587;3301
+" ";" ";"Savinjska";23649;12225;11424
+" ";" ";"Zasavska";3833;1941;1892
+" ";" ";"Posavska";6283;3276;3007
+" ";" ";"Jugovzhodna Slovenija";13498;6876;6622
+" ";" ";"Osrednjeslovenska";42943;22040;20903
+" ";" ";"Gorenjska";18405;9443;8962
+" ";" ";"Primorsko-notranjska";4429;2268;2161
+" ";" ";"Goriška";9914;5061;4853
+" ";" ";"Obalno-kraška";7820;4018;3802
+" ";"Osnovne šole in zavodi s prilagojenim programom"
+" ";" ";"SLOVENIJA";2273;1420;853
+" ";" ";"Pomurska";131;75;56
+" ";" ";"Podravska";356;208;148
+" ";" ";"Koroška";92;56;36
+" ";" ";"Savinjska";280;170;110
+" ";" ";"Zasavska";60;34;26
+" ";" ";"Posavska";70;44;26
+" ";" ";"Jugovzhodna Slovenija";157;112;45
+" ";" ";"Osrednjeslovenska";525;352;173
+" ";" ";"Gorenjska";193;123;70
+" ";" ";"Primorsko-notranjska";51;37;14
+" ";" ";"Goriška";288;163;125
+" ";" ";"Obalno-kraška";70;46;24
+"2003/04"
+" ";"Šole - SKUPAJ"
+" ";" ";"SLOVENIJA";179532;92505;87027
+" ";" ";"Pomurska";10642;5375;5267
+" ";" ";"Podravska";26894;13888;13006
+" ";" ";"Koroška";6916;3594;3322
+" ";" ";"Savinjska";23844;12351;11493
+" ";" ";"Zasavska";3855;1950;1905
+" ";" ";"Posavska";6353;3354;2999
+" ";" ";"Jugovzhodna Slovenija";14081;7235;6846
+" ";" ";"Osrednjeslovenska";45209;23293;21916
+" ";" ";"Gorenjska";19063;9795;9268
+" ";" ";"Primorsko-notranjska";4424;2290;2134
+" ";" ";"Goriška";10432;5328;5104
+" ";" ";"Obalno-kraška";7819;4052;3767
+" ";"Osnovne šole"
+" ";" ";"SLOVENIJA";177535;91225;86310
+" ";" ";"Pomurska";10511;5296;5215
+" ";" ";"Podravska";26510;13655;12855
+" ";" ";"Koroška";6828;3538;3290
+" ";" ";"Savinjska";23598;12200;11398
+" ";" ";"Zasavska";3801;1917;1884
+" ";" ";"Posavska";6299;3319;2980
+" ";" ";"Jugovzhodna Slovenija";13947;7139;6808
+" ";" ";"Osrednjeslovenska";44712;22961;21751
+" ";" ";"Gorenjska";18875;9670;9205
+" ";" ";"Primorsko-notranjska";4386;2264;2122
+" ";" ";"Goriška";10315;5257;5058
+" ";" ";"Obalno-kraška";7753;4009;3744
+" ";"Osnovne šole in zavodi s prilagojenim programom"
+" ";" ";"SLOVENIJA";1997;1280;717
+" ";" ";"Pomurska";131;79;52
+" ";" ";"Podravska";384;233;151
+" ";" ";"Koroška";88;56;32
+" ";" ";"Savinjska";246;151;95
+" ";" ";"Zasavska";54;33;21
+" ";" ";"Posavska";54;35;19
+" ";" ";"Jugovzhodna Slovenija";134;96;38
+" ";" ";"Osrednjeslovenska";497;332;165
+" ";" ";"Gorenjska";188;125;63
+" ";" ";"Primorsko-notranjska";38;26;12
+" ";" ";"Goriška";117;71;46
+" ";" ";"Obalno-kraška";66;43;23
+"2004/05"
+" ";"Šole - SKUPAJ"
+" ";" ";"SLOVENIJA";174315;89930;84385
+" ";" ";"Pomurska";10296;5208;5088
+" ";" ";"Podravska";26040;13473;12567
+" ";" ";"Koroška";6732;3466;3266
+" ";" ";"Savinjska";23302;12146;11156
+" ";" ";"Zasavska";3697;1886;1811
+" ";" ";"Posavska";6077;3181;2896
+" ";" ";"Jugovzhodna Slovenija";13627;6974;6653
+" ";" ";"Osrednjeslovenska";44191;22848;21343
+" ";" ";"Gorenjska";18397;9485;8912
+" ";" ";"Primorsko-notranjska";4308;2209;2099
+" ";" ";"Goriška";10133;5179;4954
+" ";" ";"Obalno-kraška";7515;3875;3640
+" ";"Osnovne šole"
+" ";" ";"SLOVENIJA";172521;88788;83733
+" ";" ";"Pomurska";10163;5130;5033
+" ";" ";"Podravska";25742;13283;12459
+" ";" ";"Koroška";6662;3419;3243
+" ";" ";"Savinjska";23078;12011;11067
+" ";" ";"Zasavska";3643;1854;1789
+" ";" ";"Posavska";6024;3150;2874
+" ";" ";"Jugovzhodna Slovenija";13516;6902;6614
+" ";" ";"Osrednjeslovenska";43713;22524;21189
+" ";" ";"Gorenjska";18214;9369;8845
+" ";" ";"Primorsko-notranjska";4276;2187;2089
+" ";" ";"Goriška";10031;5118;4913
+" ";" ";"Obalno-kraška";7459;3841;3618
+" ";"Osnovne šole in zavodi s prilagojenim programom"
+" ";" ";"SLOVENIJA";1794;1142;652
+" ";" ";"Pomurska";133;78;55
+" ";" ";"Podravska";298;190;108
+" ";" ";"Koroška";70;47;23
+" ";" ";"Savinjska";224;135;89
+" ";" ";"Zasavska";54;32;22
+" ";" ";"Posavska";53;31;22
+" ";" ";"Jugovzhodna Slovenija";111;72;39
+" ";" ";"Osrednjeslovenska";478;324;154
+" ";" ";"Gorenjska";183;116;67
+" ";" ";"Primorsko-notranjska";32;22;10
+" ";" ";"Goriška";102;61;41
+" ";" ";"Obalno-kraška";56;34;22
+"2005/06"
+" ";"Šole - SKUPAJ"
+" ";" ";"SLOVENIJA";169599;87428;82171
+" ";" ";"Pomurska";9927;4996;4931
+" ";" ";"Podravska";25335;13039;12296
+" ";" ";"Koroška";6494;3347;3147
+" ";" ";"Savinjska";22688;11898;10790
+" ";" ";"Zasavska";3593;1839;1754
+" ";" ";"Posavska";5899;3089;2810
+" ";" ";"Jugovzhodna Slovenija";13105;6693;6412
+" ";" ";"Osrednjeslovenska";43246;22365;20881
+" ";" ";"Gorenjska";17947;9261;8686
+" ";" ";"Primorsko-notranjska";4223;2161;2062
+" ";" ";"Goriška";9893;5020;4873
+" ";" ";"Obalno-kraška";7249;3720;3529
+" ";"Osnovne šole"
+" ";" ";"SLOVENIJA";167890;86333;81557
+" ";" ";"Pomurska";9813;4924;4889
+" ";" ";"Podravska";25067;12869;12198
+" ";" ";"Koroška";6431;3304;3127
+" ";" ";"Savinjska";22470;11765;10705
+" ";" ";"Zasavska";3530;1802;1728
+" ";" ";"Posavska";5850;3065;2785
+" ";" ";"Jugovzhodna Slovenija";12994;6616;6378
+" ";" ";"Osrednjeslovenska";42785;22053;20732
+" ";" ";"Gorenjska";17778;9158;8620
+" ";" ";"Primorsko-notranjska";4187;2135;2052
+" ";" ";"Goriška";9790;4957;4833
+" ";" ";"Obalno-kraška";7195;3685;3510
+" ";"Osnovne šole in zavodi s prilagojenim programom"
+" ";" ";"SLOVENIJA";1709;1095;614
+" ";" ";"Pomurska";114;72;42
+" ";" ";"Podravska";268;170;98
+" ";" ";"Koroška";63;43;20
+" ";" ";"Savinjska";218;133;85
+" ";" ";"Zasavska";63;37;26
+" ";" ";"Posavska";49;24;25
+" ";" ";"Jugovzhodna Slovenija";111;77;34
+" ";" ";"Osrednjeslovenska";461;312;149
+" ";" ";"Gorenjska";169;103;66
+" ";" ";"Primorsko-notranjska";36;26;10
+" ";" ";"Goriška";103;63;40
+" ";" ";"Obalno-kraška";54;35;19
+"2006/07"
+" ";"Šole - SKUPAJ"
+" ";" ";"SLOVENIJA";166101;85608;80493
+" ";" ";"Pomurska";9716;4916;4800
+" ";" ";"Podravska";24747;12779;11968
+" ";" ";"Koroška";6400;3291;3109
+" ";" ";"Savinjska";22346;11610;10736
+" ";" ";"Zasavska";3474;1776;1698
+" ";" ";"Posavska";5788;3006;2782
+" ";" ";"Jugovzhodna Slovenija";12805;6551;6254
+" ";" ";"Osrednjeslovenska";42882;22155;20727
+" ";" ";"Gorenjska";17630;9126;8504
+" ";" ";"Primorsko-notranjska";4133;2120;2013
+" ";" ";"Goriška";9689;4921;4768
+" ";" ";"Obalno-kraška";6491;3357;3134
+" ";"Osnovne šole"
+" ";" ";"SLOVENIJA";164477;84567;79910
+" ";" ";"Pomurska";9614;4852;4762
+" ";" ";"Podravska";24482;12611;11871
+" ";" ";"Koroška";6344;3253;3091
+" ";" ";"Savinjska";22131;11477;10654
+" ";" ";"Zasavska";3415;1738;1677
+" ";" ";"Posavska";5738;2977;2761
+" ";" ";"Jugovzhodna Slovenija";12704;6481;6223
+" ";" ";"Osrednjeslovenska";42426;21846;20580
+" ";" ";"Gorenjska";17478;9040;8438
+" ";" ";"Primorsko-notranjska";4102;2095;2007
+" ";" ";"Goriška";9600;4871;4729
+" ";" ";"Obalno-kraška";6443;3326;3117
+" ";"Osnovne šole in zavodi s prilagojenim programom"
+" ";" ";"SLOVENIJA";1624;1041;583
+" ";" ";"Pomurska";102;64;38
+" ";" ";"Podravska";265;168;97
+" ";" ";"Koroška";56;38;18
+" ";" ";"Savinjska";215;133;82
+" ";" ";"Zasavska";59;38;21
+" ";" ";"Posavska";50;29;21
+" ";" ";"Jugovzhodna Slovenija";101;70;31
+" ";" ";"Osrednjeslovenska";456;309;147
+" ";" ";"Gorenjska";152;86;66
+" ";" ";"Primorsko-notranjska";31;25;6
+" ";" ";"Goriška";89;50;39
+" ";" ";"Obalno-kraška";48;31;17
+"2007/08"
+" ";"Šole - SKUPAJ"
+" ";" ";"SLOVENIJA";164768;84945;79823
+" ";" ";"Pomurska";9453;4773;4680
+" ";" ";"Podravska";24353;12567;11786
+" ";" ";"Koroška";6281;3219;3062
+" ";" ";"Savinjska";22074;11427;10647
+" ";" ";"Zasavska";3400;1729;1671
+" ";" ";"Posavska";5736;2969;2767
+" ";" ";"Jugovzhodna Slovenija";12642;6416;6226
+" ";" ";"Osrednjeslovenska";42525;22046;20479
+" ";" ";"Gorenjska";17416;9027;8389
+" ";" ";"Primorsko-notranjska";4137;2120;2017
+" ";" ";"Goriška";9545;4912;4633
+" ";" ";"Obalno-kraška";7206;3740;3466
+" ";"Osnovne šole"
+" ";" ";"SLOVENIJA";163208;83940;79268
+" ";" ";"Pomurska";9351;4708;4643
+" ";" ";"Podravska";24088;12398;11690
+" ";" ";"Koroška";6234;3187;3047
+" ";" ";"Savinjska";21867;11298;10569
+" ";" ";"Zasavska";3356;1703;1653
+" ";" ";"Posavska";5691;2940;2751
+" ";" ";"Jugovzhodna Slovenija";12542;6352;6190
+" ";" ";"Osrednjeslovenska";42074;21743;20331
+" ";" ";"Gorenjska";17286;8951;8335
+" ";" ";"Primorsko-notranjska";4110;2099;2011
+" ";" ";"Goriška";9453;4858;4595
+" ";" ";"Obalno-kraška";7156;3703;3453
+" ";"Osnovne šole in zavodi s prilagojenim programom"
+" ";" ";"SLOVENIJA";1560;1005;555
+" ";" ";"Pomurska";102;65;37
+" ";" ";"Podravska";265;169;96
+" ";" ";"Koroška";47;32;15
+" ";" ";"Savinjska";207;129;78
+" ";" ";"Zasavska";44;26;18
+" ";" ";"Posavska";45;29;16
+" ";" ";"Jugovzhodna Slovenija";100;64;36
+" ";" ";"Osrednjeslovenska";451;303;148
+" ";" ";"Gorenjska";130;76;54
+" ";" ";"Primorsko-notranjska";27;21;6
+" ";" ";"Goriška";92;54;38
+" ";" ";"Obalno-kraška";50;37;13
+"2008/09"
+" ";"Šole - SKUPAJ"
+" ";" ";"SLOVENIJA";163458;84233;79225
+" ";" ";"Pomurska";9202;4669;4533
+" ";" ";"Podravska";24187;12515;11672
+" ";" ";"Koroška";6145;3136;3009
+" ";" ";"Savinjska";21870;11279;10591
+" ";" ";"Zasavska";3274;1694;1580
+" ";" ";"Posavska";5683;2989;2694
+" ";" ";"Jugovzhodna Slovenija";12358;6306;6052
+" ";" ";"Osrednjeslovenska";42575;22018;20557
+" ";" ";"Gorenjska";17394;9007;8387
+" ";" ";"Primorsko-notranjska";4095;2094;2001
+" ";" ";"Goriška";9396;4764;4632
+" ";" ";"Obalno-kraška";7279;3762;3517
+" ";"Osnovne šole"
+" ";" ";"SLOVENIJA";161887;83242;78645
+" ";" ";"Pomurska";9101;4609;4492
+" ";" ";"Podravska";23937;12358;11579
+" ";" ";"Koroška";6089;3099;2990
+" ";" ";"Savinjska";21656;11152;10504
+" ";" ";"Zasavska";3225;1662;1563
+" ";" ";"Posavska";5636;2952;2684
+" ";" ";"Jugovzhodna Slovenija";12246;6233;6013
+" ";" ";"Osrednjeslovenska";42151;21746;20405
+" ";" ";"Gorenjska";17266;8935;8331
+" ";" ";"Primorsko-notranjska";4054;2064;1990
+" ";" ";"Goriška";9303;4711;4592
+" ";" ";"Obalno-kraška";7223;3721;3502
+" ";"Osnovne šole in zavodi s prilagojenim programom"
+" ";" ";"SLOVENIJA";1571;991;580
+" ";" ";"Pomurska";101;60;41
+" ";" ";"Podravska";250;157;93
+" ";" ";"Koroška";56;37;19
+" ";" ";"Savinjska";214;127;87
+" ";" ";"Zasavska";49;32;17
+" ";" ";"Posavska";47;37;10
+" ";" ";"Jugovzhodna Slovenija";112;73;39
+" ";" ";"Osrednjeslovenska";424;272;152
+" ";" ";"Gorenjska";128;72;56
+" ";" ";"Primorsko-notranjska";41;30;11
+" ";" ";"Goriška";93;53;40
+" ";" ";"Obalno-kraška";56;41;15
+"2009/10"
+" ";"Šole - SKUPAJ"
+" ";" ";"SLOVENIJA";161805;83441;78364
+" ";" ";"Pomurska";9095;4577;4518
+" ";" ";"Podravska";23881;12348;11533
+" ";" ";"Koroška";6038;3031;3007
+" ";" ";"Savinjska";21539;11088;10451
+" ";" ";"Zasavska";3214;1662;1552
+" ";" ";"Posavska";5594;2941;2653
+" ";" ";"Jugovzhodna Slovenija";12111;6168;5943
+" ";" ";"Osrednjeslovenska";42549;22134;20415
+" ";" ";"Gorenjska";17176;8901;8275
+" ";" ";"Primorsko-notranjska";4081;2079;2002
+" ";" ";"Goriška";9205;4718;4487
+" ";" ";"Obalno-kraška";7322;3794;3528
+" ";"Osnovne šole"
+" ";" ";"SLOVENIJA";160252;82457;77795
+" ";" ";"Pomurska";9014;4527;4487
+" ";" ";"Podravska";23640;12198;11442
+" ";" ";"Koroška";5983;2997;2986
+" ";" ";"Savinjska";21336;10966;10370
+" ";" ";"Zasavska";3163;1633;1530
+" ";" ";"Posavska";5547;2905;2642
+" ";" ";"Jugovzhodna Slovenija";12003;6097;5906
+" ";" ";"Osrednjeslovenska";42108;21835;20273
+" ";" ";"Gorenjska";17046;8830;8216
+" ";" ";"Primorsko-notranjska";4040;2056;1984
+" ";" ";"Goriška";9106;4660;4446
+" ";" ";"Obalno-kraška";7266;3753;3513
+" ";"Osnovne šole in zavodi s prilagojenim programom"
+" ";" ";"SLOVENIJA";1553;984;569
+" ";" ";"Pomurska";81;50;31
+" ";" ";"Podravska";241;150;91
+" ";" ";"Koroška";55;34;21
+" ";" ";"Savinjska";203;122;81
+" ";" ";"Zasavska";51;29;22
+" ";" ";"Posavska";47;36;11
+" ";" ";"Jugovzhodna Slovenija";108;71;37
+" ";" ";"Osrednjeslovenska";441;299;142
+" ";" ";"Gorenjska";130;71;59
+" ";" ";"Primorsko-notranjska";41;23;18
+" ";" ";"Goriška";99;58;41
+" ";" ";"Obalno-kraška";56;41;15
+"2010/11"
+" ";"Šole - SKUPAJ"
+" ";" ";"SLOVENIJA";161046;82934;78112
+" ";" ";"Pomurska";8967;4535;4432
+" ";" ";"Podravska";23624;12170;11454
+" ";" ";"Koroška";5968;2992;2976
+" ";" ";"Savinjska";21386;10981;10405
+" ";" ";"Zasavska";3148;1642;1506
+" ";" ";"Posavska";5573;2889;2684
+" ";" ";"Jugovzhodna Slovenija";11971;6103;5868
+" ";" ";"Osrednjeslovenska";42596;22146;20450
+" ";" ";"Gorenjska";17147;8871;8276
+" ";" ";"Primorsko-notranjska";4079;2062;2017
+" ";" ";"Goriška";9150;4686;4464
+" ";" ";"Obalno-kraška";7437;3857;3580
+" ";"Osnovne šole"
+" ";" ";"SLOVENIJA";159508;81956;77552
+" ";" ";"Pomurska";8881;4481;4400
+" ";" ";"Podravska";23367;12008;11359
+" ";" ";"Koroška";5913;2956;2957
+" ";" ";"Savinjska";21178;10858;10320
+" ";" ";"Zasavska";3100;1616;1484
+" ";" ";"Posavska";5524;2852;2672
+" ";" ";"Jugovzhodna Slovenija";11861;6033;5828
+" ";" ";"Osrednjeslovenska";42188;21863;20325
+" ";" ";"Gorenjska";17025;8804;8221
+" ";" ";"Primorsko-notranjska";4032;2034;1998
+" ";" ";"Goriška";9058;4634;4424
+" ";" ";"Obalno-kraška";7381;3817;3564
+" ";"Osnovne šole in zavodi s prilagojenim programom"
+" ";" ";"SLOVENIJA";1538;978;560
+" ";" ";"Pomurska";86;54;32
+" ";" ";"Podravska";257;162;95
+" ";" ";"Koroška";55;36;19
+" ";" ";"Savinjska";208;123;85
+" ";" ";"Zasavska";48;26;22
+" ";" ";"Posavska";49;37;12
+" ";" ";"Jugovzhodna Slovenija";110;70;40
+" ";" ";"Osrednjeslovenska";408;283;125
+" ";" ";"Gorenjska";122;67;55
+" ";" ";"Primorsko-notranjska";47;28;19
+" ";" ";"Goriška";92;52;40
+" ";" ";"Obalno-kraška";56;40;16
+"2011/12"
+" ";"Šole - SKUPAJ"
+" ";" ";"SLOVENIJA";161357;83009;78348
+" ";" ";"Pomurska";8811;4408;4403
+" ";" ";"Podravska";23507;12079;11428
+" ";" ";"Koroška";5893;2975;2918
+" ";" ";"Savinjska";21418;11038;10380
+" ";" ";"Zasavska";3106;1608;1498
+" ";" ";"Posavska";5550;2852;2698
+" ";" ";"Jugovzhodna Slovenija";11981;6115;5866
+" ";" ";"Osrednjeslovenska";43164;22375;20789
+" ";" ";"Gorenjska";17184;8917;8267
+" ";" ";"Primorsko-notranjska";4088;2075;2013
+" ";" ";"Goriška";9153;4666;4487
+" ";" ";"Obalno-kraška";7502;3901;3601
+" ";"Osnovne šole"
+" ";" ";"SLOVENIJA";159701;81969;77732
+" ";" ";"Pomurska";8704;4341;4363
+" ";" ";"Podravska";23231;11900;11331
+" ";" ";"Koroška";5834;2936;2898
+" ";" ";"Savinjska";21214;10920;10294
+" ";" ";"Zasavska";3054;1580;1474
+" ";" ";"Posavska";5501;2817;2684
+" ";" ";"Jugovzhodna Slovenija";11861;6040;5821
+" ";" ";"Osrednjeslovenska";42718;22084;20634
+" ";" ";"Gorenjska";17049;8837;8212
+" ";" ";"Primorsko-notranjska";4042;2044;1998
+" ";" ";"Goriška";9062;4619;4443
+" ";" ";"Obalno-kraška";7431;3851;3580
+" ";"Osnovne šole in zavodi s prilagojenim programom"
+" ";" ";"SLOVENIJA";1656;1040;616
+" ";" ";"Pomurska";107;67;40
+" ";" ";"Podravska";276;179;97
+" ";" ";"Koroška";59;39;20
+" ";" ";"Savinjska";204;118;86
+" ";" ";"Zasavska";52;28;24
+" ";" ";"Posavska";49;35;14
+" ";" ";"Jugovzhodna Slovenija";120;75;45
+" ";" ";"Osrednjeslovenska";446;291;155
+" ";" ";"Gorenjska";135;80;55
+" ";" ";"Primorsko-notranjska";46;31;15
+" ";" ";"Goriška";91;47;44
+" ";" ";"Obalno-kraška";71;50;21
+"2012/13"
+" ";"Šole - SKUPAJ"
+" ";" ";"SLOVENIJA";162775;83720;79055
+" ";" ";"Pomurska";8741;4391;4350
+" ";" ";"Podravska";23726;12168;11558
+" ";" ";"Koroška";5848;2939;2909
+" ";" ";"Savinjska";21486;11162;10324
+" ";" ";"Zasavska";3084;1601;1483
+" ";" ";"Posavska";5547;2823;2724
+" ";" ";"Jugovzhodna Slovenija";11980;6101;5879
+" ";" ";"Osrednjeslovenska";44118;22875;21243
+" ";" ";"Gorenjska";17381;8998;8383
+" ";" ";"Primorsko-notranjska";4128;2078;2050
+" ";" ";"Goriška";9087;4633;4454
+" ";" ";"Obalno-kraška";7649;3951;3698
+" ";"Osnovne šole"
+" ";" ";"SLOVENIJA";161051;82642;78409
+" ";" ";"Pomurska";8637;4322;4315
+" ";" ";"Podravska";23445;11992;11453
+" ";" ";"Koroška";5788;2901;2887
+" ";" ";"Savinjska";21263;11033;10230
+" ";" ";"Zasavska";3039;1579;1460
+" ";" ";"Posavska";5487;2784;2703
+" ";" ";"Jugovzhodna Slovenija";11851;6016;5835
+" ";" ";"Osrednjeslovenska";43664;22580;21084
+" ";" ";"Gorenjska";17237;8911;8326
+" ";" ";"Primorsko-notranjska";4078;2044;2034
+" ";" ";"Goriška";8995;4585;4410
+" ";" ";"Obalno-kraška";7567;3895;3672
+" ";"Osnovne šole in zavodi s prilagojenim programom"
+" ";" ";"SLOVENIJA";1724;1078;646
+" ";" ";"Pomurska";104;69;35
+" ";" ";"Podravska";281;176;105
+" ";" ";"Koroška";60;38;22
+" ";" ";"Savinjska";223;129;94
+" ";" ";"Zasavska";45;22;23
+" ";" ";"Posavska";60;39;21
+" ";" ";"Jugovzhodna Slovenija";129;85;44
+" ";" ";"Osrednjeslovenska";454;295;159
+" ";" ";"Gorenjska";144;87;57
+" ";" ";"Primorsko-notranjska";50;34;16
+" ";" ";"Goriška";92;48;44
+" ";" ";"Obalno-kraška";82;56;26
+"2013/14"
+" ";"Šole - SKUPAJ"
+" ";" ";"SLOVENIJA";165036;84859;80177
+" ";" ";"Pomurska";8724;4407;4317
+" ";" ";"Podravska";23879;12280;11599
+" ";" ";"Koroška";5754;2901;2853
+" ";" ";"Savinjska";21652;11156;10496
+" ";" ";"Zasavska";3100;1618;1482
+" ";" ";"Posavska";5576;2852;2724
+" ";" ";"Jugovzhodna Slovenija";12137;6197;5940
+" ";" ";"Osrednjeslovenska";45282;23402;21880
+" ";" ";"Gorenjska";17644;9135;8509
+" ";" ";"Primorsko-notranjska";4231;2156;2075
+" ";" ";"Goriška";9206;4692;4514
+" ";" ";"Obalno-kraška";7851;4063;3788
+" ";"Osnovne šole"
+" ";" ";"SLOVENIJA";163229;83733;79496
+" ";" ";"Pomurska";8623;4339;4284
+" ";" ";"Podravska";23590;12103;11487
+" ";" ";"Koroška";5699;2868;2831
+" ";" ";"Savinjska";21425;11024;10401
+" ";" ";"Zasavska";3051;1592;1459
+" ";" ";"Posavska";5512;2814;2698
+" ";" ";"Jugovzhodna Slovenija";12010;6114;5896
+" ";" ";"Osrednjeslovenska";44775;23073;21702
+" ";" ";"Gorenjska";17496;9046;8450
+" ";" ";"Primorsko-notranjska";4181;2125;2056
+" ";" ";"Goriška";9113;4637;4476
+" ";" ";"Obalno-kraška";7754;3998;3756
+" ";"Osnovne šole in zavodi s prilagojenim programom"
+" ";" ";"SLOVENIJA";1807;1126;681
+" ";" ";"Pomurska";101;68;33
+" ";" ";"Podravska";289;177;112
+" ";" ";"Koroška";55;33;22
+" ";" ";"Savinjska";227;132;95
+" ";" ";"Zasavska";49;26;23
+" ";" ";"Posavska";64;38;26
+" ";" ";"Jugovzhodna Slovenija";127;83;44
+" ";" ";"Osrednjeslovenska";507;329;178
+" ";" ";"Gorenjska";148;89;59
+" ";" ";"Primorsko-notranjska";50;31;19
+" ";" ";"Goriška";93;55;38
+" ";" ";"Obalno-kraška";97;65;32
+"2014/15"
+" ";"Šole - SKUPAJ"
+" ";" ";"SLOVENIJA";169101;86815;82286
+" ";" ";"Pomurska";8806;4392;4414
+" ";" ";"Podravska";24365;12504;11861
+" ";" ";"Koroška";5884;2987;2897
+" ";" ";"Savinjska";22060;11331;10729
+" ";" ";"Zasavska";3114;1631;1483
+" ";" ";"Posavska";5693;2917;2776
+" ";" ";"Jugovzhodna Slovenija";12367;6354;6013
+" ";" ";"Osrednjeslovenska";46825;24103;22722
+" ";" ";"Gorenjska";18010;9298;8712
+" ";" ";"Primorsko-notranjska";4301;2195;2106
+" ";" ";"Goriška";9396;4802;4594
+" ";" ";"Obalno-kraška";8280;4301;3979
+" ";"Osnovne šole"
+" ";" ";"SLOVENIJA";167249;85660;81589
+" ";" ";"Pomurska";8715;4330;4385
+" ";" ";"Podravska";24065;12325;11740
+" ";" ";"Koroška";5827;2953;2874
+" ";" ";"Savinjska";21807;11188;10619
+" ";" ";"Zasavska";3065;1608;1457
+" ";" ";"Posavska";5624;2878;2746
+" ";" ";"Jugovzhodna Slovenija";12242;6274;5968
+" ";" ";"Osrednjeslovenska";46299;23747;22552
+" ";" ";"Gorenjska";17849;9202;8647
+" ";" ";"Primorsko-notranjska";4261;2171;2090
+" ";" ";"Goriška";9305;4747;4558
+" ";" ";"Obalno-kraška";8190;4237;3953
+" ";"Osnovne šole in zavodi s prilagojenim programom"
+" ";" ";"SLOVENIJA";1852;1155;697
+" ";" ";"Pomurska";91;62;29
+" ";" ";"Podravska";300;179;121
+" ";" ";"Koroška";57;34;23
+" ";" ";"Savinjska";253;143;110
+" ";" ";"Zasavska";49;23;26
+" ";" ";"Posavska";69;39;30
+" ";" ";"Jugovzhodna Slovenija";125;80;45
+" ";" ";"Osrednjeslovenska";526;356;170
+" ";" ";"Gorenjska";161;96;65
+" ";" ";"Primorsko-notranjska";40;24;16
+" ";" ";"Goriška";91;55;36
+" ";" ";"Obalno-kraška";90;64;26
+"2015/16"
+" ";"Šole - SKUPAJ"
+" ";" ";"SLOVENIJA";172013;88340;83673
+" ";" ";"Pomurska";8881;4462;4419
+" ";" ";"Podravska";24763;12671;12092
+" ";" ";"Koroška";5901;2981;2920
+" ";" ";"Savinjska";22423;11563;10860
+" ";" ";"Zasavska";3202;1667;1535
+" ";" ";"Posavska";5744;2956;2788
+" ";" ";"Jugovzhodna Slovenija";12461;6443;6018
+" ";" ";"Osrednjeslovenska";47731;24579;23152
+" ";" ";"Gorenjska";18352;9433;8919
+" ";" ";"Primorsko-notranjska";4390;2249;2141
+" ";" ";"Goriška";9584;4931;4653
+" ";" ";"Obalno-kraška";8581;4405;4176
+" ";"Osnovne šole"
+" ";" ";"SLOVENIJA";170067;87120;82947
+" ";" ";"Pomurska";8793;4403;4390
+" ";" ";"Podravska";24431;12479;11952
+" ";" ";"Koroška";5851;2952;2899
+" ";" ";"Savinjska";22156;11407;10749
+" ";" ";"Zasavska";3161;1648;1513
+" ";" ";"Posavska";5668;2909;2759
+" ";" ";"Jugovzhodna Slovenija";12329;6357;5972
+" ";" ";"Osrednjeslovenska";47177;24206;22971
+" ";" ";"Gorenjska";18181;9327;8854
+" ";" ";"Primorsko-notranjska";4344;2222;2122
+" ";" ";"Goriška";9483;4865;4618
+" ";" ";"Obalno-kraška";8493;4345;4148
+" ";"Osnovne šole in zavodi s prilagojenim programom"
+" ";" ";"SLOVENIJA";1946;1220;726
+" ";" ";"Pomurska";88;59;29
+" ";" ";"Podravska";332;192;140
+" ";" ";"Koroška";50;29;21
+" ";" ";"Savinjska";267;156;111
+" ";" ";"Zasavska";41;19;22
+" ";" ";"Posavska";76;47;29
+" ";" ";"Jugovzhodna Slovenija";132;86;46
+" ";" ";"Osrednjeslovenska";554;373;181
+" ";" ";"Gorenjska";171;106;65
+" ";" ";"Primorsko-notranjska";46;27;19
+" ";" ";"Goriška";101;66;35
+" ";" ";"Obalno-kraška";88;60;28
+"2016/17"
+" ";"Šole - SKUPAJ"
+" ";" ";"SLOVENIJA";176898;90857;86041
+" ";" ";"Pomurska";8931;4493;4438
+" ";" ";"Podravska";25324;12936;12388
+" ";" ";"Koroška";5968;3016;2952
+" ";" ";"Savinjska";22362;11513;10849
+" ";" ";"Zasavska";4529;2354;2175
+" ";" ";"Posavska";6353;3240;3113
+" ";" ";"Jugovzhodna Slovenija";12750;6617;6133
+" ";" ";"Osrednjeslovenska";48623;25117;23506
+" ";" ";"Gorenjska";18826;9656;9170
+" ";" ";"Primorsko-notranjska";4517;2313;2204
+" ";" ";"Goriška";9827;5051;4776
+" ";" ";"Obalno-kraška";8888;4551;4337
+" ";"Osnovne šole"
+" ";" ";"SLOVENIJA";174996;89600;85396
+" ";" ";"Pomurska";8844;4433;4411
+" ";" ";"Podravska";25011;12742;12269
+" ";" ";"Koroška";5917;2982;2935
+" ";" ";"Savinjska";22142;11371;10771
+" ";" ";"Zasavska";4468;2318;2150
+" ";" ";"Posavska";6297;3202;3095
+" ";" ";"Jugovzhodna Slovenija";12613;6529;6084
+" ";" ";"Osrednjeslovenska";48060;24730;23330
+" ";" ";"Gorenjska";18636;9529;9107
+" ";" ";"Primorsko-notranjska";4479;2287;2192
+" ";" ";"Goriška";9730;4990;4740
+" ";" ";"Obalno-kraška";8799;4487;4312
+" ";"Osnovne šole in zavodi s prilagojenim programom"
+" ";" ";"SLOVENIJA";1902;1257;645
+" ";" ";"Pomurska";87;60;27
+" ";" ";"Podravska";313;194;119
+" ";" ";"Koroška";51;34;17
+" ";" ";"Savinjska";220;142;78
+" ";" ";"Zasavska";61;36;25
+" ";" ";"Posavska";56;38;18
+" ";" ";"Jugovzhodna Slovenija";137;88;49
+" ";" ";"Osrednjeslovenska";563;387;176
+" ";" ";"Gorenjska";190;127;63
+" ";" ";"Primorsko-notranjska";38;26;12
+" ";" ";"Goriška";97;61;36
+" ";" ";"Obalno-kraška";89;64;25
+"2017/18"
+" ";"Šole - SKUPAJ"
+" ";" ";"SLOVENIJA";181301;93075;88226
+" ";" ";"Pomurska";8985;4530;4455
+" ";" ";"Podravska";25868;13194;12674
+" ";" ";"Koroška";5983;3035;2948
+" ";" ";"Savinjska";22719;11693;11026
+" ";" ";"Zasavska";4662;2404;2258
+" ";" ";"Posavska";6439;3241;3198
+" ";" ";"Jugovzhodna Slovenija";13126;6787;6339
+" ";" ";"Osrednjeslovenska";50260;25952;24308
+" ";" ";"Gorenjska";19164;9852;9312
+" ";" ";"Primorsko-notranjska";4702;2391;2311
+" ";" ";"Goriška";10146;5237;4909
+" ";" ";"Obalno-kraška";9247;4759;4488
+" ";"Osnovne šole"
+" ";" ";"SLOVENIJA";179230;91691;87539
+" ";" ";"Pomurska";8892;4464;4428
+" ";" ";"Podravska";25513;12950;12563
+" ";" ";"Koroška";5937;3001;2936
+" ";" ";"Savinjska";22481;11541;10940
+" ";" ";"Zasavska";4600;2363;2237
+" ";" ";"Posavska";6382;3203;3179
+" ";" ";"Jugovzhodna Slovenija";12980;6691;6289
+" ";" ";"Osrednjeslovenska";49645;25539;24106
+" ";" ";"Gorenjska";18957;9718;9239
+" ";" ";"Primorsko-notranjska";4658;2360;2298
+" ";" ";"Goriška";10033;5168;4865
+" ";" ";"Obalno-kraška";9152;4693;4459
+" ";"Osnovne šole in zavodi s prilagojenim programom"
+" ";" ";"SLOVENIJA";2071;1384;687
+" ";" ";"Pomurska";93;66;27
+" ";" ";"Podravska";355;244;111
+" ";" ";"Koroška";46;34;12
+" ";" ";"Savinjska";238;152;86
+" ";" ";"Zasavska";62;41;21
+" ";" ";"Posavska";57;38;19
+" ";" ";"Jugovzhodna Slovenija";146;96;50
+" ";" ";"Osrednjeslovenska";615;413;202
+" ";" ";"Gorenjska";207;134;73
+" ";" ";"Primorsko-notranjska";44;31;13
+" ";" ";"Goriška";113;69;44
+" ";" ";"Obalno-kraška";95;66;29
+
+"Vir: Statistièni urad Republike Slovenije."
+
+"Povezane vsebine: "
+"- (seznam HREF= "
+"http://www.stat.si/StatWeb/Common/PrikaziDokument.ashx?IdDatoteke=9586"
+"target=_blank) Metodološka pojasnila"
+

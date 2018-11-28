@@ -8,7 +8,7 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2018/19
 
 ## Tematika
 
-Analiziral bom, vključenost otrok v predšolsko vzgojo in vse nadalnje izobraževanje ljudi ter jih rangiral glede na vrsto izobraževanja, regijo v kateri živijo, starost, spol ipd. Pregledal bom tudi štipendije v Sloveniji, torej kako so razdeljene med študente in dijake.
+V mojem projektu bom analiziral vključenost ljudi v posamezni izobraževalni program v Sloveniji, od vrtcev pa vse do doktorskega študija. Podatke bom zbiral predvsem na spletni strani SURS-a. Podatke bom rangiral glede na izobraževalni program, spol, leto šolanja in regije, v katerih se ljudje šolajo. Prav tako bom analiziral dodeljene štipendije študentom in dijakom glede na regijo, leto šolanja ter spol.
 
 ## Spletne povezave do tabel
 
@@ -18,7 +18,7 @@ https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0952532S&ti=&path=../Database/D
 
 https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0952751S&ti=&path=../Database/Dem_soc/09_izobrazevanje/04_osnovnosol_izobraz/01_09527_zac_sol_leta/&lang=2
 
-https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0953235S&ti=&path=../Database/Dem_soc/09_izobrazevanje/07_srednjesol_izobraz/01_09532_zac_sol_leta/&lang=2
+https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0953237S&ti=&path=../Database/Dem_soc/09_izobrazevanje/07_srednjesol_izobraz/01_09532_zac_sol_leta/&lang=2
 
 https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0955072S&ti=&path=../Database/Dem_soc/09_izobrazevanje/08_terciarno_izobraz/01_09550_vpisani_splosno/&lang=2
 

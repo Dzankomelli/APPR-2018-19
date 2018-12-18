@@ -19,20 +19,19 @@ Analiziral bom kako brezposelnost vpliva na vključenost otrok v predšolske pro
 
 Do tabel dostopam preko statističnega urada Republike Slovenije. Tabele lahko prenesem iz interneta na mnogo načino, med drugim CSV, HTML, XML, XLS itd. Tabelo o BDP per capita sem našel na eurostat-u vendar zaradi težav spletno stranjo ne nisem uspel prenesti.
 
-https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0775370S&ti=&path=../Database/Dem_soc/07_trg_dela/90_arhivski_podatki/03_akt_preb_let_arhiv/&lang=2
-
-https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0955481S&ti=&path=../Database/Dem_soc/09_izobrazevanje/08_terciarno_izobraz/02_09554_diplomanti_splosno/&lang=2
-
-https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0952532S&ti=&path=../Database/Dem_soc/09_izobrazevanje/03_predsol_vzgoja/01_09525_otroci_vrtci/&lang=2
-
-https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0952751S&ti=&path=../Database/Dem_soc/09_izobrazevanje/04_osnovnosol_izobraz/01_09527_zac_sol_leta/&lang=2
-
-https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0953237S&ti=&path=../Database/Dem_soc/09_izobrazevanje/07_srednjesol_izobraz/01_09532_zac_sol_leta/&lang=2
+https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0954306S&ti=&path=../Database/Dem_soc/09_izobrazevanje/90_Arhiv/02_09543_stipendisti/&lang=2
 
 https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0955072S&ti=&path=../Database/Dem_soc/09_izobrazevanje/08_terciarno_izobraz/01_09550_vpisani_splosno/&lang=2
 
-https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0954306S&ti=&path=../Database/Dem_soc/09_izobrazevanje/90_Arhiv/02_09543_stipendisti/&lang=2
+https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0953237S&ti=&path=../Database/Dem_soc/09_izobrazevanje/07_srednjesol_izobraz/01_09532_zac_sol_leta/&lang=2
 
+https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0952751S&ti=&path=../Database/Dem_soc/09_izobrazevanje/04_osnovnosol_izobraz/01_09527_zac_sol_leta/&lang=2
+
+https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0952532S&ti=&path=../Database/Dem_soc/09_izobrazevanje/03_predsol_vzgoja/01_09525_otroci_vrtci/&lang=2
+
+https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0955481S&ti=&path=../Database/Dem_soc/09_izobrazevanje/08_terciarno_izobraz/02_09554_diplomanti_splosno/&lang=2
+
+https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0775370S&ti=&path=../Database/Dem_soc/07_trg_dela/90_arhivski_podatki/03_akt_preb_let_arhiv/&lang=2
 
 ## Program
 

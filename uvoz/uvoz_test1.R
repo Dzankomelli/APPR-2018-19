@@ -66,7 +66,7 @@ terciarno <- terciarno %>% fill(1:3)
 
 
 
-#7. tabela
+#7. tabela.... tukaj imam tezave
 stipendisti <- read.csv(file = 'podatki/stipendisti.csv', skip = 2, na = c(' ','-'),
                         header = FALSE, encoding = 'Windows-1250', sep = ';')
 

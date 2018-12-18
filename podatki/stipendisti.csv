@@ -1,0 +1,1041 @@
+"Študenti in dijaki štipendisti po: LETO, REGIJA STALNEGA BIVALIŠÈA,"
+"VRSTA ŠTIPENDIJE, ŠTIPENDISTI, SPOL , MERITVE"
+
+"2008"
+" ";"SLOVENIJA IN TUJINA"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";54722
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";24836
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";29886
+" ";"Tujina"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";466
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";218
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";248
+" ";"SLOVENIJA"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";54256
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";24618
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";29638
+" ";"Pomurska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";4003
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1782
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";2221
+" ";"Podravska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";9077
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";4160
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";4917
+" ";"Koroška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";2471
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1147
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1324
+" ";"Savinjska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";8987
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";4170
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";4817
+" ";"Zasavska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";1211
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";514
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";697
+" ";"Spodnjeposavska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";2504
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1153
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1351
+" ";"Jugovzhodna Slovenija"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";4273
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1938
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";2335
+" ";"Osrednjeslovenska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";10408
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";4566
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";5842
+" ";"Gorenjska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";5042
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";2307
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";2735
+" ";"Notranjsko-kraška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";1346
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";625
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";721
+" ";"Goriška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";3068
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1426
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1642
+" ";"Obalno-kraška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";1861
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";828
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1033
+" ";"Neznano"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";5
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";2
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";3
+"2009"
+" ";"SLOVENIJA IN TUJINA"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";61110
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";27353
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";33757
+" ";"Tujina"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";758
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";344
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";414
+" ";"SLOVENIJA"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";60352
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";27009
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";33343
+" ";"Pomurska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";4570
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";2040
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";2530
+" ";"Podravska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";10270
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";4618
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";5652
+" ";"Koroška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";2728
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1231
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1497
+" ";"Savinjska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";9796
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";4464
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";5332
+" ";"Zasavska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";1265
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";527
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";738
+" ";"Spodnjeposavska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";2639
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1215
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1424
+" ";"Jugovzhodna Slovenija"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";4766
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";2163
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";2603
+" ";"Osrednjeslovenska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";11857
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";5113
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";6744
+" ";"Gorenjska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";5540
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";2524
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";3016
+" ";"Notranjsko-kraška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";1417
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";644
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";773
+" ";"Goriška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";3449
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1572
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1877
+" ";"Obalno-kraška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";2045
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";896
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1149
+" ";"Neznano"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";10
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";2
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";8
+"2010"
+" ";"SLOVENIJA IN TUJINA"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";62692
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";27822
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";34870
+" ";"Tujina"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";1499
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";671
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";828
+" ";"SLOVENIJA"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";61193
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";27151
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";34042
+" ";"Pomurska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";4455
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1934
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";2521
+" ";"Podravska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";10375
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";4692
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";5683
+" ";"Koroška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";2930
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1318
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1612
+" ";"Savinjska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";9879
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";4420
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";5459
+" ";"Zasavska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";1215
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";493
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";722
+" ";"Spodnjeposavska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";2591
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1192
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1399
+" ";"Jugovzhodna Slovenija"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";4784
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";2113
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";2671
+" ";"Osrednjeslovenska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";12256
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";5341
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";6915
+" ";"Gorenjska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";5767
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";2557
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";3210
+" ";"Notranjsko-kraška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";1432
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";659
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";773
+" ";"Goriška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";3515
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1549
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1966
+" ";"Obalno-kraška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";1978
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";881
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1097
+" ";"Neznano"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";16
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";2
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";14
+"2011"
+" ";"SLOVENIJA IN TUJINA"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";69169
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";30648
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";38521
+" ";"Tujina"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";2026
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";936
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1090
+" ";"SLOVENIJA"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";67143
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";29712
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";37431
+" ";"Pomurska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";4904
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";2141
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";2763
+" ";"Podravska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";11202
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";5108
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";6094
+" ";"Koroška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";3163
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1425
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1738
+" ";"Savinjska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";10694
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";4760
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";5934
+" ";"Zasavska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";1418
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";556
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";862
+" ";"Spodnjeposavska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";2757
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1244
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1513
+" ";"Jugovzhodna Slovenija"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";5302
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";2348
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";2954
+" ";"Osrednjeslovenska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";13332
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";5813
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";7519
+" ";"Gorenjska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";6502
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";2899
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";3603
+" ";"Notranjsko-kraška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";1682
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";741
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";941
+" ";"Goriška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";3971
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1722
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";2249
+" ";"Obalno-kraška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";2175
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";944
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1231
+" ";"Neznano"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";41
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";11
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";30
+"2012"
+" ";"SLOVENIJA IN TUJINA"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";41994
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";17177
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";24817
+" ";"Tujina"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";179
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";64
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";115
+" ";"SLOVENIJA"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";41815
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";17113
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";24702
+" ";"Pomurska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";2914
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1156
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1758
+" ";"Podravska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";7000
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";2886
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";4114
+" ";"Koroška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";2009
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";862
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1147
+" ";"Savinjska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";6652
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";2790
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";3862
+" ";"Zasavska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";855
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";308
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";547
+" ";"Spodnjeposavska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";1665
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";713
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";952
+" ";"Jugovzhodna Slovenija"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";3036
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1220
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1816
+" ";"Osrednjeslovenska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";8908
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";3543
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";5365
+" ";"Gorenjska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";3812
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1595
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";2217
+" ";"Notranjsko-kraška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";978
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";399
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";579
+" ";"Goriška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";2609
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1085
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1524
+" ";"Obalno-kraška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";1325
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";542
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";783
+" ";"Neznano"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";52
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";14
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";38
+"2013"
+" ";"SLOVENIJA IN TUJINA"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";39813
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";16417
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";23385
+" ";"Tujina"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";235
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";106
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";129
+" ";"SLOVENIJA"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";39578
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";16311
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";23256
+" ";"Pomurska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";2612
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";989
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1622
+" ";"Podravska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";6646
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";2794
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";3851
+" ";"Koroška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";1835
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";781
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1054
+" ";"Savinjska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";6228
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";2622
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";3606
+" ";"Zasavska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";819
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";301
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";518
+" ";"Spodnjeposavska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";1562
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";691
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";871
+" ";"Jugovzhodna Slovenija"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";2858
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1159
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1699
+" ";"Osrednjeslovenska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";8708
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";3494
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";5211
+" ";"Gorenjska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";3664
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1536
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";2126
+" ";"Notranjsko-kraška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";882
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";380
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";502
+" ";"Goriška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";2456
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1052
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1401
+" ";"Obalno-kraška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";1243
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";495
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";747
+" ";"Neznano"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";65
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";17
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";48
+"2014"
+" ";"SLOVENIJA IN TUJINA"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";57335
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";25615
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";31720
+" ";"Tujina"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";247
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";123
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";124
+" ";"SLOVENIJA"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";57088
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";25492
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";31596
+" ";"Pomurska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";3905
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1669
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";2236
+" ";"Podravska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";9612
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";4400
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";5212
+" ";"Koroška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";2518
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1147
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1371
+" ";"Savinjska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";9281
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";4221
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";5060
+" ";"Zasavska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";1260
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";537
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";723
+" ";"Spodnjeposavska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";2388
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1042
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1346
+" ";"Jugovzhodna Slovenija"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";4378
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1953
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";2425
+" ";"Osrednjeslovenska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";11707
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";5180
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";6527
+" ";"Gorenjska"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";5291
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";2363
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";2928
+" ";"Notranjsko-kraška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";1458
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";649
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";809
+" ";"Goriška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";3387
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";1494
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1893
+" ";"Obalno-kraška"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";1872
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";823
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";1049
+" ";"Neznano"
+" ";" ";"Vrsta štipendije - SKUPAJ"
+" ";" ";" ";"Štipendije - SKUPAJ"
+" ";" ";" ";" ";"Spol - SKUPAJ"
+" ";" ";" ";" ";" ";"Število";31
+" ";" ";" ";" ";"Moški"
+" ";" ";" ";" ";" ";"Število";14
+" ";" ";" ";" ";"Ženske"
+" ";" ";" ";" ";" ";"Število";17
+
+"Med druge štipendije so zajete tudi štipendije sklada Ad futura, ki "
+"vkljuèujejo tudi del šolnine, v letih 2010, 2012 in 2013 pa tudi "
+"štipendije Erasmus. "
+" "
+"Viri: Ministrstvo za delo, družino, socialne zadeve in enake možnosti "
+"[Javni sklad Republike Slovenije za razvoj kadrov in štipendije], "
+"Statistièni urad Republike Slovenije. "
+" "
+"Povezane vsebine: "
+"   Metodološka pojasnila"
+
+"Podatki so teritorialno razvršèeni po Klasifikaciji statistiènih "
+"teritorialnih enot v Evropski uniji [The Classification  of "
+"Territorial Units for Statistics] – NUTS [(seznam "
+"HREF=../database/Meta/Klas/NUTS.htm TARGET=_blank) opis in "
+"pojasnila], raven NUTS 3. "
+"Opombe o spremembah posameznih regij so zapisane k vsaki spremenjeni "
+"regiji in so ob izpisu tabele na zaslon dostopne s klikom na ikono za "
+"opombe [zvezdica]. V opombah je na zaèetku naveden datum, s katerim "
+"je opisana teritorialna sprememba upoštevana pri teritorialnem "
+"razvršèanju enot za statistiène namene.  "
+

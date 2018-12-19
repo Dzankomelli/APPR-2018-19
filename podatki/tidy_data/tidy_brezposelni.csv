@@ -1,0 +1,211 @@
+"","Leto","Regija","Aktivnost","Stevilo"
+"1","2010","SLOVENIJA","Delovno aktivno prebivalstvo - SKUPAJ",835039
+"2","2010","SLOVENIJA","Registrirano brezposelne osebe - SKUPAJ",100504
+"3","2010","Vzhodna Slovenija","Delovno aktivno prebivalstvo - SKUPAJ",431530
+"4","2010","Vzhodna Slovenija","Registrirano brezposelne osebe - SKUPAJ",63290
+"5","2010","Pomurska","Delovno aktivno prebivalstvo - SKUPAJ",43482
+"6","2010","Pomurska","Registrirano brezposelne osebe - SKUPAJ",10179
+"7","2010","Podravska","Delovno aktivno prebivalstvo - SKUPAJ",124895
+"8","2010","Podravska","Registrirano brezposelne osebe - SKUPAJ",19467
+"9","2010","Koroška","Delovno aktivno prebivalstvo - SKUPAJ",28189
+"10","2010","Koroška","Registrirano brezposelne osebe - SKUPAJ",4245
+"11","2010","Savinjska","Delovno aktivno prebivalstvo - SKUPAJ",106677
+"12","2010","Savinjska","Registrirano brezposelne osebe - SKUPAJ",14332
+"13","2010","Zasavska","Delovno aktivno prebivalstvo - SKUPAJ",17307
+"14","2010","Zasavska","Registrirano brezposelne osebe - SKUPAJ",2339
+"15","2010","Posavska","Delovno aktivno prebivalstvo - SKUPAJ",28565
+"16","2010","Posavska","Registrirano brezposelne osebe - SKUPAJ",3982
+"17","2010","Jugovzhodna Slovenija","Delovno aktivno prebivalstvo - SKUPAJ",59813
+"18","2010","Jugovzhodna Slovenija","Registrirano brezposelne osebe - SKUPAJ",6653
+"19","2010","Primorsko-notranjska","Delovno aktivno prebivalstvo - SKUPAJ",22603
+"20","2010","Primorsko-notranjska","Registrirano brezposelne osebe - SKUPAJ",2094
+"21","2010","Zahodna Slovenija","Delovno aktivno prebivalstvo - SKUPAJ",403509
+"22","2010","Zahodna Slovenija","Registrirano brezposelne osebe - SKUPAJ",36760
+"23","2010","Osrednjeslovenska","Delovno aktivno prebivalstvo - SKUPAJ",224742
+"24","2010","Osrednjeslovenska","Registrirano brezposelne osebe - SKUPAJ",20879
+"25","2010","Gorenjska","Delovno aktivno prebivalstvo - SKUPAJ",83175
+"26","2010","Gorenjska","Registrirano brezposelne osebe - SKUPAJ",7322
+"27","2010","Goriška","Delovno aktivno prebivalstvo - SKUPAJ",48377
+"28","2010","Goriška","Registrirano brezposelne osebe - SKUPAJ",4528
+"29","2010","Obalno-kraška","Delovno aktivno prebivalstvo - SKUPAJ",47215
+"30","2010","Obalno-kraška","Registrirano brezposelne osebe - SKUPAJ",4031
+"31","2011","SLOVENIJA","Delovno aktivno prebivalstvo - SKUPAJ",823967
+"32","2011","SLOVENIJA","Registrirano brezposelne osebe - SKUPAJ",110692
+"33","2011","Vzhodna Slovenija","Delovno aktivno prebivalstvo - SKUPAJ",426943
+"34","2011","Vzhodna Slovenija","Registrirano brezposelne osebe - SKUPAJ",67301
+"35","2011","Pomurska","Delovno aktivno prebivalstvo - SKUPAJ",43945
+"36","2011","Pomurska","Registrirano brezposelne osebe - SKUPAJ",9665
+"37","2011","Podravska","Delovno aktivno prebivalstvo - SKUPAJ",122915
+"38","2011","Podravska","Registrirano brezposelne osebe - SKUPAJ",20830
+"39","2011","Koroška","Delovno aktivno prebivalstvo - SKUPAJ",28057
+"40","2011","Koroška","Registrirano brezposelne osebe - SKUPAJ",4303
+"41","2011","Savinjska","Delovno aktivno prebivalstvo - SKUPAJ",105746
+"42","2011","Savinjska","Registrirano brezposelne osebe - SKUPAJ",15358
+"43","2011","Zasavska","Delovno aktivno prebivalstvo - SKUPAJ",16825
+"44","2011","Zasavska","Registrirano brezposelne osebe - SKUPAJ",2586
+"45","2011","Posavska","Delovno aktivno prebivalstvo - SKUPAJ",28272
+"46","2011","Posavska","Registrirano brezposelne osebe - SKUPAJ",4367
+"47","2011","Jugovzhodna Slovenija","Delovno aktivno prebivalstvo - SKUPAJ",58976
+"48","2011","Jugovzhodna Slovenija","Registrirano brezposelne osebe - SKUPAJ",7735
+"49","2011","Primorsko-notranjska","Delovno aktivno prebivalstvo - SKUPAJ",22207
+"50","2011","Primorsko-notranjska","Registrirano brezposelne osebe - SKUPAJ",2457
+"51","2011","Zahodna Slovenija","Delovno aktivno prebivalstvo - SKUPAJ",397024
+"52","2011","Zahodna Slovenija","Registrirano brezposelne osebe - SKUPAJ",42318
+"53","2011","Osrednjeslovenska","Delovno aktivno prebivalstvo - SKUPAJ",221471
+"54","2011","Osrednjeslovenska","Registrirano brezposelne osebe - SKUPAJ",24255
+"55","2011","Gorenjska","Delovno aktivno prebivalstvo - SKUPAJ",82197
+"56","2011","Gorenjska","Registrirano brezposelne osebe - SKUPAJ",7963
+"57","2011","Goriška","Delovno aktivno prebivalstvo - SKUPAJ",47305
+"58","2011","Goriška","Registrirano brezposelne osebe - SKUPAJ",5228
+"59","2011","Obalno-kraška","Delovno aktivno prebivalstvo - SKUPAJ",46051
+"60","2011","Obalno-kraška","Registrirano brezposelne osebe - SKUPAJ",4873
+"61","2012","SLOVENIJA","Delovno aktivno prebivalstvo - SKUPAJ",810001
+"62","2012","SLOVENIJA","Registrirano brezposelne osebe - SKUPAJ",110183
+"63","2012","Vzhodna Slovenija","Delovno aktivno prebivalstvo - SKUPAJ",418163
+"64","2012","Vzhodna Slovenija","Registrirano brezposelne osebe - SKUPAJ",65901
+"65","2012","Pomurska","Delovno aktivno prebivalstvo - SKUPAJ",41877
+"66","2012","Pomurska","Registrirano brezposelne osebe - SKUPAJ",8790
+"67","2012","Podravska","Delovno aktivno prebivalstvo - SKUPAJ",120135
+"68","2012","Podravska","Registrirano brezposelne osebe - SKUPAJ",19668
+"69","2012","Koroška","Delovno aktivno prebivalstvo - SKUPAJ",27978
+"70","2012","Koroška","Registrirano brezposelne osebe - SKUPAJ",3889
+"71","2012","Savinjska","Delovno aktivno prebivalstvo - SKUPAJ",104428
+"72","2012","Savinjska","Registrirano brezposelne osebe - SKUPAJ",15232
+"73","2012","Zasavska","Delovno aktivno prebivalstvo - SKUPAJ",16443
+"74","2012","Zasavska","Registrirano brezposelne osebe - SKUPAJ",2825
+"75","2012","Posavska","Delovno aktivno prebivalstvo - SKUPAJ",27830
+"76","2012","Posavska","Registrirano brezposelne osebe - SKUPAJ",4493
+"77","2012","Jugovzhodna Slovenija","Delovno aktivno prebivalstvo - SKUPAJ",57671
+"78","2012","Jugovzhodna Slovenija","Registrirano brezposelne osebe - SKUPAJ",8470
+"79","2012","Primorsko-notranjska","Delovno aktivno prebivalstvo - SKUPAJ",21803
+"80","2012","Primorsko-notranjska","Registrirano brezposelne osebe - SKUPAJ",2534
+"81","2012","Zahodna Slovenija","Delovno aktivno prebivalstvo - SKUPAJ",391838
+"82","2012","Zahodna Slovenija","Registrirano brezposelne osebe - SKUPAJ",43030
+"83","2012","Osrednjeslovenska","Delovno aktivno prebivalstvo - SKUPAJ",218775
+"84","2012","Osrednjeslovenska","Registrirano brezposelne osebe - SKUPAJ",24575
+"85","2012","Gorenjska","Delovno aktivno prebivalstvo - SKUPAJ",81567
+"86","2012","Gorenjska","Registrirano brezposelne osebe - SKUPAJ",7991
+"87","2012","Goriška","Delovno aktivno prebivalstvo - SKUPAJ",46345
+"88","2012","Goriška","Registrirano brezposelne osebe - SKUPAJ",5323
+"89","2012","Obalno-kraška","Delovno aktivno prebivalstvo - SKUPAJ",45150
+"90","2012","Obalno-kraška","Registrirano brezposelne osebe - SKUPAJ",5142
+"91","2013","SLOVENIJA","Delovno aktivno prebivalstvo - SKUPAJ",793597
+"92","2013","SLOVENIJA","Registrirano brezposelne osebe - SKUPAJ",119827
+"93","2013","Vzhodna Slovenija","Delovno aktivno prebivalstvo - SKUPAJ",409547
+"94","2013","Vzhodna Slovenija","Registrirano brezposelne osebe - SKUPAJ",70307
+"95","2013","Pomurska","Delovno aktivno prebivalstvo - SKUPAJ",40783
+"96","2013","Pomurska","Registrirano brezposelne osebe - SKUPAJ",8842
+"97","2013","Podravska","Delovno aktivno prebivalstvo - SKUPAJ",117887
+"98","2013","Podravska","Registrirano brezposelne osebe - SKUPAJ",20375
+"99","2013","Koroška","Delovno aktivno prebivalstvo - SKUPAJ",27044
+"100","2013","Koroška","Registrirano brezposelne osebe - SKUPAJ",4368
+"101","2013","Savinjska","Delovno aktivno prebivalstvo - SKUPAJ",102554
+"102","2013","Savinjska","Registrirano brezposelne osebe - SKUPAJ",16499
+"103","2013","Zasavska","Delovno aktivno prebivalstvo - SKUPAJ",15974
+"104","2013","Zasavska","Registrirano brezposelne osebe - SKUPAJ",3173
+"105","2013","Posavska","Delovno aktivno prebivalstvo - SKUPAJ",27423
+"106","2013","Posavska","Registrirano brezposelne osebe - SKUPAJ",4750
+"107","2013","Jugovzhodna Slovenija","Delovno aktivno prebivalstvo - SKUPAJ",56672
+"108","2013","Jugovzhodna Slovenija","Registrirano brezposelne osebe - SKUPAJ",9328
+"109","2013","Primorsko-notranjska","Delovno aktivno prebivalstvo - SKUPAJ",21209
+"110","2013","Primorsko-notranjska","Registrirano brezposelne osebe - SKUPAJ",2973
+"111","2013","Zahodna Slovenija","Delovno aktivno prebivalstvo - SKUPAJ",384049
+"112","2013","Zahodna Slovenija","Registrirano brezposelne osebe - SKUPAJ",48472
+"113","2013","Osrednjeslovenska","Delovno aktivno prebivalstvo - SKUPAJ",214996
+"114","2013","Osrednjeslovenska","Registrirano brezposelne osebe - SKUPAJ",27958
+"115","2013","Gorenjska","Delovno aktivno prebivalstvo - SKUPAJ",80277
+"116","2013","Gorenjska","Registrirano brezposelne osebe - SKUPAJ",8740
+"117","2013","Goriška","Delovno aktivno prebivalstvo - SKUPAJ",45083
+"118","2013","Goriška","Registrirano brezposelne osebe - SKUPAJ",5962
+"119","2013","Obalno-kraška","Delovno aktivno prebivalstvo - SKUPAJ",43694
+"120","2013","Obalno-kraška","Registrirano brezposelne osebe - SKUPAJ",5812
+"121","2014","SLOVENIJA","Delovno aktivno prebivalstvo - SKUPAJ",797792
+"122","2014","SLOVENIJA","Registrirano brezposelne osebe - SKUPAJ",120109
+"123","2014","Vzhodna Slovenija","Delovno aktivno prebivalstvo - SKUPAJ",410433
+"124","2014","Vzhodna Slovenija","Registrirano brezposelne osebe - SKUPAJ",69974
+"125","2014","Pomurska","Delovno aktivno prebivalstvo - SKUPAJ",40283
+"126","2014","Pomurska","Registrirano brezposelne osebe - SKUPAJ",9094
+"127","2014","Podravska","Delovno aktivno prebivalstvo - SKUPAJ",119013
+"128","2014","Podravska","Registrirano brezposelne osebe - SKUPAJ",20061
+"129","2014","Koroška","Delovno aktivno prebivalstvo - SKUPAJ",27088
+"130","2014","Koroška","Registrirano brezposelne osebe - SKUPAJ",4050
+"131","2014","Savinjska","Delovno aktivno prebivalstvo - SKUPAJ",102594
+"132","2014","Savinjska","Registrirano brezposelne osebe - SKUPAJ",16583
+"133","2014","Zasavska","Delovno aktivno prebivalstvo - SKUPAJ",15679
+"134","2014","Zasavska","Registrirano brezposelne osebe - SKUPAJ",3374
+"135","2014","Posavska","Delovno aktivno prebivalstvo - SKUPAJ",27316
+"136","2014","Posavska","Registrirano brezposelne osebe - SKUPAJ",4695
+"137","2014","Jugovzhodna Slovenija","Delovno aktivno prebivalstvo - SKUPAJ",57094
+"138","2014","Jugovzhodna Slovenija","Registrirano brezposelne osebe - SKUPAJ",9224
+"139","2014","Primorsko-notranjska","Delovno aktivno prebivalstvo - SKUPAJ",21367
+"140","2014","Primorsko-notranjska","Registrirano brezposelne osebe - SKUPAJ",2893
+"141","2014","Zahodna Slovenija","Delovno aktivno prebivalstvo - SKUPAJ",387359
+"142","2014","Zahodna Slovenija","Registrirano brezposelne osebe - SKUPAJ",49227
+"143","2014","Osrednjeslovenska","Delovno aktivno prebivalstvo - SKUPAJ",217145
+"144","2014","Osrednjeslovenska","Registrirano brezposelne osebe - SKUPAJ",28899
+"145","2014","Gorenjska","Delovno aktivno prebivalstvo - SKUPAJ",81155
+"146","2014","Gorenjska","Registrirano brezposelne osebe - SKUPAJ",8549
+"147","2014","Goriška","Delovno aktivno prebivalstvo - SKUPAJ",45173
+"148","2014","Goriška","Registrirano brezposelne osebe - SKUPAJ",5722
+"149","2014","Obalno-kraška","Delovno aktivno prebivalstvo - SKUPAJ",43886
+"150","2014","Obalno-kraška","Registrirano brezposelne osebe - SKUPAJ",6056
+"151","2015","SLOVENIJA","Delovno aktivno prebivalstvo - SKUPAJ",804637
+"152","2015","SLOVENIJA","Registrirano brezposelne osebe - SKUPAJ",112726
+"153","2015","Vzhodna Slovenija","Delovno aktivno prebivalstvo - SKUPAJ",417469
+"154","2015","Vzhodna Slovenija","Registrirano brezposelne osebe - SKUPAJ",66853
+"155","2015","Pomurska","Delovno aktivno prebivalstvo - SKUPAJ",39600
+"156","2015","Pomurska","Registrirano brezposelne osebe - SKUPAJ",9233
+"157","2015","Podravska","Delovno aktivno prebivalstvo - SKUPAJ",119587
+"158","2015","Podravska","Registrirano brezposelne osebe - SKUPAJ",18828
+"159","2015","Koroška","Delovno aktivno prebivalstvo - SKUPAJ",27048
+"160","2015","Koroška","Registrirano brezposelne osebe - SKUPAJ",3517
+"161","2015","Savinjska","Delovno aktivno prebivalstvo - SKUPAJ",100482
+"162","2015","Savinjska","Registrirano brezposelne osebe - SKUPAJ",15361
+"163","2015","Zasavska","Delovno aktivno prebivalstvo - SKUPAJ",22013
+"164","2015","Zasavska","Registrirano brezposelne osebe - SKUPAJ",3956
+"165","2015","Posavska","Delovno aktivno prebivalstvo - SKUPAJ",29662
+"166","2015","Posavska","Registrirano brezposelne osebe - SKUPAJ",4658
+"167","2015","Jugovzhodna Slovenija","Delovno aktivno prebivalstvo - SKUPAJ",57571
+"168","2015","Jugovzhodna Slovenija","Registrirano brezposelne osebe - SKUPAJ",8613
+"169","2015","Primorsko-notranjska","Delovno aktivno prebivalstvo - SKUPAJ",21507
+"170","2015","Primorsko-notranjska","Registrirano brezposelne osebe - SKUPAJ",2686
+"171","2015","Zahodna Slovenija","Delovno aktivno prebivalstvo - SKUPAJ",387168
+"172","2015","Zahodna Slovenija","Registrirano brezposelne osebe - SKUPAJ",45147
+"173","2015","Osrednjeslovenska","Delovno aktivno prebivalstvo - SKUPAJ",214873
+"174","2015","Osrednjeslovenska","Registrirano brezposelne osebe - SKUPAJ",26664
+"175","2015","Gorenjska","Delovno aktivno prebivalstvo - SKUPAJ",82235
+"176","2015","Gorenjska","Registrirano brezposelne osebe - SKUPAJ",7751
+"177","2015","Goriška","Delovno aktivno prebivalstvo - SKUPAJ",45571
+"178","2015","Goriška","Registrirano brezposelne osebe - SKUPAJ",5206
+"179","2015","Obalno-kraška","Delovno aktivno prebivalstvo - SKUPAJ",44489
+"180","2015","Obalno-kraška","Registrirano brezposelne osebe - SKUPAJ",5525
+"181","2016","SLOVENIJA","Delovno aktivno prebivalstvo - SKUPAJ",817209
+"182","2016","SLOVENIJA","Registrirano brezposelne osebe - SKUPAJ",103152
+"183","2016","Vzhodna Slovenija","Delovno aktivno prebivalstvo - SKUPAJ",420715
+"184","2016","Vzhodna Slovenija","Registrirano brezposelne osebe - SKUPAJ",61325
+"185","2016","Pomurska","Delovno aktivno prebivalstvo - SKUPAJ",39523
+"186","2016","Pomurska","Registrirano brezposelne osebe - SKUPAJ",8300
+"187","2016","Podravska","Delovno aktivno prebivalstvo - SKUPAJ",120013
+"188","2016","Podravska","Registrirano brezposelne osebe - SKUPAJ",17149
+"189","2016","Koroška","Delovno aktivno prebivalstvo - SKUPAJ",27014
+"190","2016","Koroška","Registrirano brezposelne osebe - SKUPAJ",3219
+"191","2016","Savinjska","Delovno aktivno prebivalstvo - SKUPAJ",101920
+"192","2016","Savinjska","Registrirano brezposelne osebe - SKUPAJ",14479
+"193","2016","Zasavska","Delovno aktivno prebivalstvo - SKUPAJ",22246
+"194","2016","Zasavska","Registrirano brezposelne osebe - SKUPAJ",3585
+"195","2016","Posavska","Delovno aktivno prebivalstvo - SKUPAJ",29828
+"196","2016","Posavska","Registrirano brezposelne osebe - SKUPAJ",4382
+"197","2016","Jugovzhodna Slovenija","Delovno aktivno prebivalstvo - SKUPAJ",58415
+"198","2016","Jugovzhodna Slovenija","Registrirano brezposelne osebe - SKUPAJ",7754
+"199","2016","Primorsko-notranjska","Delovno aktivno prebivalstvo - SKUPAJ",21757
+"200","2016","Primorsko-notranjska","Registrirano brezposelne osebe - SKUPAJ",2457
+"201","2016","Zahodna Slovenija","Delovno aktivno prebivalstvo - SKUPAJ",396494
+"202","2016","Zahodna Slovenija","Registrirano brezposelne osebe - SKUPAJ",41291
+"203","2016","Osrednjeslovenska","Delovno aktivno prebivalstvo - SKUPAJ",220847
+"204","2016","Osrednjeslovenska","Registrirano brezposelne osebe - SKUPAJ",24845
+"205","2016","Gorenjska","Delovno aktivno prebivalstvo - SKUPAJ",83789
+"206","2016","Gorenjska","Registrirano brezposelne osebe - SKUPAJ",6920
+"207","2016","Goriška","Delovno aktivno prebivalstvo - SKUPAJ",46335
+"208","2016","Goriška","Registrirano brezposelne osebe - SKUPAJ",4408
+"209","2016","Obalno-kraška","Delovno aktivno prebivalstvo - SKUPAJ",45523
+"210","2016","Obalno-kraška","Registrirano brezposelne osebe - SKUPAJ",5119

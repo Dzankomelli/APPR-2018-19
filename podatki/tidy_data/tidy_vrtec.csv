@@ -1,0 +1,463 @@
+"","Leto","Regija","Spol","Stevilo"
+"1","2007/08","SLOVENIJA","Spol - SKUPAJ",61344
+"2","2007/08","SLOVENIJA","Deèki",32035
+"3","2007/08","SLOVENIJA","Deklice",29309
+"4","2007/08","Pomurska","Spol - SKUPAJ",3321
+"5","2007/08","Pomurska","Deèki",1664
+"6","2007/08","Pomurska","Deklice",1657
+"7","2007/08","Podravska","Spol - SKUPAJ",8794
+"8","2007/08","Podravska","Deèki",4593
+"9","2007/08","Podravska","Deklice",4201
+"10","2007/08","Koroška","Spol - SKUPAJ",1869
+"11","2007/08","Koroška","Deèki",941
+"12","2007/08","Koroška","Deklice",928
+"13","2007/08","Savinjska","Spol - SKUPAJ",8024
+"14","2007/08","Savinjska","Deèki",4193
+"15","2007/08","Savinjska","Deklice",3831
+"16","2007/08","Zasavska","Spol - SKUPAJ",981
+"17","2007/08","Zasavska","Deèki",532
+"18","2007/08","Zasavska","Deklice",449
+"19","2007/08","Posavska","Spol - SKUPAJ",1935
+"20","2007/08","Posavska","Deèki",1021
+"21","2007/08","Posavska","Deklice",914
+"22","2007/08","Jugovzhodna Slovenija","Spol - SKUPAJ",4293
+"23","2007/08","Jugovzhodna Slovenija","Deèki",2270
+"24","2007/08","Jugovzhodna Slovenija","Deklice",2023
+"25","2007/08","Osrednjeslovenska","Spol - SKUPAJ",18549
+"26","2007/08","Osrednjeslovenska","Deèki",9736
+"27","2007/08","Osrednjeslovenska","Deklice",8813
+"28","2007/08","Gorenjska","Spol - SKUPAJ",6013
+"29","2007/08","Gorenjska","Deèki",3130
+"30","2007/08","Gorenjska","Deklice",2883
+"31","2007/08","Primorsko-notranjska","Spol - SKUPAJ",1333
+"32","2007/08","Primorsko-notranjska","Deèki",669
+"33","2007/08","Primorsko-notranjska","Deklice",664
+"34","2007/08","Goriška","Spol - SKUPAJ",3056
+"35","2007/08","Goriška","Deèki",1635
+"36","2007/08","Goriška","Deklice",1421
+"37","2007/08","Obalno-kraška","Spol - SKUPAJ",3176
+"38","2007/08","Obalno-kraška","Deèki",1651
+"39","2007/08","Obalno-kraška","Deklice",1525
+"40","2007/08","stalno prebivališèe neznano ali v tujini","Spol - SKUPAJ",15
+"41","2007/08","stalno prebivališèe neznano ali v tujini","Deèki",9
+"42","2007/08","stalno prebivališèe neznano ali v tujini","Deklice",6
+"43","2008/09","SLOVENIJA","Spol - SKUPAJ",65950
+"44","2008/09","SLOVENIJA","Deèki",34139
+"45","2008/09","SLOVENIJA","Deklice",31811
+"46","2008/09","Pomurska","Spol - SKUPAJ",3514
+"47","2008/09","Pomurska","Deèki",1710
+"48","2008/09","Pomurska","Deklice",1804
+"49","2008/09","Podravska","Spol - SKUPAJ",9366
+"50","2008/09","Podravska","Deèki",4823
+"51","2008/09","Podravska","Deklice",4543
+"52","2008/09","Koroška","Spol - SKUPAJ",2016
+"53","2008/09","Koroška","Deèki",1011
+"54","2008/09","Koroška","Deklice",1005
+"55","2008/09","Savinjska","Spol - SKUPAJ",8643
+"56","2008/09","Savinjska","Deèki",4432
+"57","2008/09","Savinjska","Deklice",4211
+"58","2008/09","Zasavska","Spol - SKUPAJ",1118
+"59","2008/09","Zasavska","Deèki",589
+"60","2008/09","Zasavska","Deklice",529
+"61","2008/09","Posavska","Spol - SKUPAJ",2042
+"62","2008/09","Posavska","Deèki",1050
+"63","2008/09","Posavska","Deklice",992
+"64","2008/09","Jugovzhodna Slovenija","Spol - SKUPAJ",4760
+"65","2008/09","Jugovzhodna Slovenija","Deèki",2444
+"66","2008/09","Jugovzhodna Slovenija","Deklice",2316
+"67","2008/09","Osrednjeslovenska","Spol - SKUPAJ",19728
+"68","2008/09","Osrednjeslovenska","Deèki",10326
+"69","2008/09","Osrednjeslovenska","Deklice",9402
+"70","2008/09","Gorenjska","Spol - SKUPAJ",6418
+"71","2008/09","Gorenjska","Deèki",3393
+"72","2008/09","Gorenjska","Deklice",3025
+"73","2008/09","Primorsko-notranjska","Spol - SKUPAJ",1550
+"74","2008/09","Primorsko-notranjska","Deèki",800
+"75","2008/09","Primorsko-notranjska","Deklice",750
+"76","2008/09","Goriška","Spol - SKUPAJ",3402
+"77","2008/09","Goriška","Deèki",1814
+"78","2008/09","Goriška","Deklice",1588
+"79","2008/09","Obalno-kraška","Spol - SKUPAJ",3393
+"80","2008/09","Obalno-kraška","Deèki",1747
+"81","2008/09","Obalno-kraška","Deklice",1646
+"82","2008/09","stalno prebivališèe neznano ali v tujini","Spol - SKUPAJ",16
+"83","2008/09","stalno prebivališèe neznano ali v tujini","Deèki",11
+"84","2008/09","stalno prebivališèe neznano ali v tujini","Deklice",5
+"85","2009/10","SLOVENIJA","Spol - SKUPAJ",71109
+"86","2009/10","SLOVENIJA","Deèki",36959
+"87","2009/10","SLOVENIJA","Deklice",34150
+"88","2009/10","Pomurska","Spol - SKUPAJ",3757
+"89","2009/10","Pomurska","Deèki",1877
+"90","2009/10","Pomurska","Deklice",1880
+"91","2009/10","Podravska","Spol - SKUPAJ",10105
+"92","2009/10","Podravska","Deèki",5238
+"93","2009/10","Podravska","Deklice",4867
+"94","2009/10","Koroška","Spol - SKUPAJ",2200
+"95","2009/10","Koroška","Deèki",1149
+"96","2009/10","Koroška","Deklice",1051
+"97","2009/10","Savinjska","Spol - SKUPAJ",9088
+"98","2009/10","Savinjska","Deèki",4760
+"99","2009/10","Savinjska","Deklice",4328
+"100","2009/10","Zasavska","Spol - SKUPAJ",1195
+"101","2009/10","Zasavska","Deèki",626
+"102","2009/10","Zasavska","Deklice",569
+"103","2009/10","Posavska","Spol - SKUPAJ",2201
+"104","2009/10","Posavska","Deèki",1114
+"105","2009/10","Posavska","Deklice",1087
+"106","2009/10","Jugovzhodna Slovenija","Spol - SKUPAJ",5103
+"107","2009/10","Jugovzhodna Slovenija","Deèki",2630
+"108","2009/10","Jugovzhodna Slovenija","Deklice",2473
+"109","2009/10","Osrednjeslovenska","Spol - SKUPAJ",21278
+"110","2009/10","Osrednjeslovenska","Deèki",11135
+"111","2009/10","Osrednjeslovenska","Deklice",10143
+"112","2009/10","Gorenjska","Spol - SKUPAJ",7209
+"113","2009/10","Gorenjska","Deèki",3821
+"114","2009/10","Gorenjska","Deklice",3388
+"115","2009/10","Primorsko-notranjska","Spol - SKUPAJ",1586
+"116","2009/10","Primorsko-notranjska","Deèki",804
+"117","2009/10","Primorsko-notranjska","Deklice",782
+"118","2009/10","Goriška","Spol - SKUPAJ",3682
+"119","2009/10","Goriška","Deèki",1888
+"120","2009/10","Goriška","Deklice",1794
+"121","2009/10","Obalno-kraška","Spol - SKUPAJ",3705
+"122","2009/10","Obalno-kraška","Deèki",1917
+"123","2009/10","Obalno-kraška","Deklice",1788
+"124","2009/10","stalno prebivališèe neznano ali v tujini","Spol - SKUPAJ",15
+"125","2009/10","stalno prebivališèe neznano ali v tujini","Deèki",7
+"126","2009/10","stalno prebivališèe neznano ali v tujini","Deklice",8
+"127","2010/11","SLOVENIJA","Spol - SKUPAJ",75934
+"128","2010/11","SLOVENIJA","Deèki",39585
+"129","2010/11","SLOVENIJA","Deklice",36349
+"130","2010/11","Pomurska","Spol - SKUPAJ",3961
+"131","2010/11","Pomurska","Deèki",2000
+"132","2010/11","Pomurska","Deklice",1961
+"133","2010/11","Podravska","Spol - SKUPAJ",10638
+"134","2010/11","Podravska","Deèki",5476
+"135","2010/11","Podravska","Deklice",5162
+"136","2010/11","Koroška","Spol - SKUPAJ",2290
+"137","2010/11","Koroška","Deèki",1212
+"138","2010/11","Koroška","Deklice",1078
+"139","2010/11","Savinjska","Spol - SKUPAJ",9814
+"140","2010/11","Savinjska","Deèki",5205
+"141","2010/11","Savinjska","Deklice",4609
+"142","2010/11","Zasavska","Spol - SKUPAJ",1287
+"143","2010/11","Zasavska","Deèki",672
+"144","2010/11","Zasavska","Deklice",615
+"145","2010/11","Posavska","Spol - SKUPAJ",2325
+"146","2010/11","Posavska","Deèki",1201
+"147","2010/11","Posavska","Deklice",1124
+"148","2010/11","Jugovzhodna Slovenija","Spol - SKUPAJ",5378
+"149","2010/11","Jugovzhodna Slovenija","Deèki",2854
+"150","2010/11","Jugovzhodna Slovenija","Deklice",2524
+"151","2010/11","Osrednjeslovenska","Spol - SKUPAJ",22757
+"152","2010/11","Osrednjeslovenska","Deèki",11857
+"153","2010/11","Osrednjeslovenska","Deklice",10900
+"154","2010/11","Gorenjska","Spol - SKUPAJ",7622
+"155","2010/11","Gorenjska","Deèki",4009
+"156","2010/11","Gorenjska","Deklice",3613
+"157","2010/11","Primorsko-notranjska","Spol - SKUPAJ",1795
+"158","2010/11","Primorsko-notranjska","Deèki",934
+"159","2010/11","Primorsko-notranjska","Deklice",861
+"160","2010/11","Goriška","Spol - SKUPAJ",4031
+"161","2010/11","Goriška","Deèki",2083
+"162","2010/11","Goriška","Deklice",1948
+"163","2010/11","Obalno-kraška","Spol - SKUPAJ",4036
+"164","2010/11","Obalno-kraška","Deèki",2082
+"165","2010/11","Obalno-kraška","Deklice",1954
+"166","2010/11","stalno prebivališèe neznano ali v tujini","Spol - SKUPAJ",38
+"167","2010/11","stalno prebivališèe neznano ali v tujini","Deèki",20
+"168","2010/11","stalno prebivališèe neznano ali v tujini","Deklice",18
+"169","2011/12","SLOVENIJA","Spol - SKUPAJ",81121
+"170","2011/12","SLOVENIJA","Deèki",42060
+"171","2011/12","SLOVENIJA","Deklice",39061
+"172","2011/12","Pomurska","Spol - SKUPAJ",4105
+"173","2011/12","Pomurska","Deèki",2111
+"174","2011/12","Pomurska","Deklice",1994
+"175","2011/12","Podravska","Spol - SKUPAJ",11395
+"176","2011/12","Podravska","Deèki",5831
+"177","2011/12","Podravska","Deklice",5564
+"178","2011/12","Koroška","Spol - SKUPAJ",2513
+"179","2011/12","Koroška","Deèki",1291
+"180","2011/12","Koroška","Deklice",1222
+"181","2011/12","Savinjska","Spol - SKUPAJ",10400
+"182","2011/12","Savinjska","Deèki",5398
+"183","2011/12","Savinjska","Deklice",5002
+"184","2011/12","Zasavska","Spol - SKUPAJ",1427
+"185","2011/12","Zasavska","Deèki",759
+"186","2011/12","Zasavska","Deklice",668
+"187","2011/12","Posavska","Spol - SKUPAJ",2508
+"188","2011/12","Posavska","Deèki",1276
+"189","2011/12","Posavska","Deklice",1232
+"190","2011/12","Jugovzhodna Slovenija","Spol - SKUPAJ",5698
+"191","2011/12","Jugovzhodna Slovenija","Deèki",2981
+"192","2011/12","Jugovzhodna Slovenija","Deklice",2717
+"193","2011/12","Osrednjeslovenska","Spol - SKUPAJ",24454
+"194","2011/12","Osrednjeslovenska","Deèki",12757
+"195","2011/12","Osrednjeslovenska","Deklice",11697
+"196","2011/12","Gorenjska","Spol - SKUPAJ",8060
+"197","2011/12","Gorenjska","Deèki",4191
+"198","2011/12","Gorenjska","Deklice",3869
+"199","2011/12","Primorsko-notranjska","Spol - SKUPAJ",1875
+"200","2011/12","Primorsko-notranjska","Deèki",980
+"201","2011/12","Primorsko-notranjska","Deklice",895
+"202","2011/12","Goriška","Spol - SKUPAJ",4350
+"203","2011/12","Goriška","Deèki",2244
+"204","2011/12","Goriška","Deklice",2106
+"205","2011/12","Obalno-kraška","Spol - SKUPAJ",4336
+"206","2011/12","Obalno-kraška","Deèki",2241
+"207","2011/12","Obalno-kraška","Deklice",2095
+"208","2011/12","stalno prebivališèe neznano ali v tujini","Spol - SKUPAJ",100
+"209","2011/12","stalno prebivališèe neznano ali v tujini","Deèki",56
+"210","2011/12","stalno prebivališèe neznano ali v tujini","Deklice",44
+"211","2012/13","SLOVENIJA","Spol - SKUPAJ",82888
+"212","2012/13","SLOVENIJA","Deèki",42956
+"213","2012/13","SLOVENIJA","Deklice",39932
+"214","2012/13","Pomurska","Spol - SKUPAJ",4029
+"215","2012/13","Pomurska","Deèki",2077
+"216","2012/13","Pomurska","Deklice",1952
+"217","2012/13","Podravska","Spol - SKUPAJ",11456
+"218","2012/13","Podravska","Deèki",5897
+"219","2012/13","Podravska","Deklice",5559
+"220","2012/13","Koroška","Spol - SKUPAJ",2541
+"221","2012/13","Koroška","Deèki",1283
+"222","2012/13","Koroška","Deklice",1258
+"223","2012/13","Savinjska","Spol - SKUPAJ",10610
+"224","2012/13","Savinjska","Deèki",5460
+"225","2012/13","Savinjska","Deklice",5150
+"226","2012/13","Zasavska","Spol - SKUPAJ",1426
+"227","2012/13","Zasavska","Deèki",746
+"228","2012/13","Zasavska","Deklice",680
+"229","2012/13","Posavska","Spol - SKUPAJ",2549
+"230","2012/13","Posavska","Deèki",1299
+"231","2012/13","Posavska","Deklice",1250
+"232","2012/13","Jugovzhodna Slovenija","Spol - SKUPAJ",5949
+"233","2012/13","Jugovzhodna Slovenija","Deèki",3154
+"234","2012/13","Jugovzhodna Slovenija","Deklice",2795
+"235","2012/13","Osrednjeslovenska","Spol - SKUPAJ",25204
+"236","2012/13","Osrednjeslovenska","Deèki",13128
+"237","2012/13","Osrednjeslovenska","Deklice",12076
+"238","2012/13","Gorenjska","Spol - SKUPAJ",8218
+"239","2012/13","Gorenjska","Deèki",4305
+"240","2012/13","Gorenjska","Deklice",3913
+"241","2012/13","Primorsko-notranjska","Spol - SKUPAJ",1932
+"242","2012/13","Primorsko-notranjska","Deèki",1000
+"243","2012/13","Primorsko-notranjska","Deklice",932
+"244","2012/13","Goriška","Spol - SKUPAJ",4519
+"245","2012/13","Goriška","Deèki",2351
+"246","2012/13","Goriška","Deklice",2168
+"247","2012/13","Obalno-kraška","Spol - SKUPAJ",4455
+"248","2012/13","Obalno-kraška","Deèki",2256
+"249","2012/13","Obalno-kraška","Deklice",2199
+"250","2012/13","stalno prebivališèe neznano ali v tujini","Spol - SKUPAJ",202
+"251","2012/13","stalno prebivališèe neznano ali v tujini","Deèki",103
+"252","2012/13","stalno prebivališèe neznano ali v tujini","Deklice",99
+"253","2013/14","SLOVENIJA","Spol - SKUPAJ",83478
+"254","2013/14","SLOVENIJA","Deèki",43340
+"255","2013/14","SLOVENIJA","Deklice",40138
+"256","2013/14","Pomurska","Spol - SKUPAJ",4008
+"257","2013/14","Pomurska","Deèki",2073
+"258","2013/14","Pomurska","Deklice",1935
+"259","2013/14","Podravska","Spol - SKUPAJ",11620
+"260","2013/14","Podravska","Deèki",6016
+"261","2013/14","Podravska","Deklice",5604
+"262","2013/14","Koroška","Spol - SKUPAJ",2514
+"263","2013/14","Koroška","Deèki",1287
+"264","2013/14","Koroška","Deklice",1227
+"265","2013/14","Savinjska","Spol - SKUPAJ",10667
+"266","2013/14","Savinjska","Deèki",5504
+"267","2013/14","Savinjska","Deklice",5163
+"268","2013/14","Zasavska","Spol - SKUPAJ",1360
+"269","2013/14","Zasavska","Deèki",730
+"270","2013/14","Zasavska","Deklice",630
+"271","2013/14","Posavska","Spol - SKUPAJ",2446
+"272","2013/14","Posavska","Deèki",1263
+"273","2013/14","Posavska","Deklice",1183
+"274","2013/14","Jugovzhodna Slovenija","Spol - SKUPAJ",5920
+"275","2013/14","Jugovzhodna Slovenija","Deèki",3144
+"276","2013/14","Jugovzhodna Slovenija","Deklice",2776
+"277","2013/14","Osrednjeslovenska","Spol - SKUPAJ",25648
+"278","2013/14","Osrednjeslovenska","Deèki",13337
+"279","2013/14","Osrednjeslovenska","Deklice",12311
+"280","2013/14","Gorenjska","Spol - SKUPAJ",8255
+"281","2013/14","Gorenjska","Deèki",4307
+"282","2013/14","Gorenjska","Deklice",3948
+"283","2013/14","Primorsko-notranjska","Spol - SKUPAJ",1963
+"284","2013/14","Primorsko-notranjska","Deèki",1002
+"285","2013/14","Primorsko-notranjska","Deklice",961
+"286","2013/14","Goriška","Spol - SKUPAJ",4582
+"287","2013/14","Goriška","Deèki",2383
+"288","2013/14","Goriška","Deklice",2199
+"289","2013/14","Obalno-kraška","Spol - SKUPAJ",4495
+"290","2013/14","Obalno-kraška","Deèki",2294
+"291","2013/14","Obalno-kraška","Deklice",2201
+"292","2013/14","stalno prebivališèe neznano ali v tujini","Spol - SKUPAJ",222
+"293","2013/14","stalno prebivališèe neznano ali v tujini","Deèki",103
+"294","2013/14","stalno prebivališèe neznano ali v tujini","Deklice",119
+"295","2014/15","SLOVENIJA","Spol - SKUPAJ",84462
+"296","2014/15","SLOVENIJA","Deèki",43774
+"297","2014/15","SLOVENIJA","Deklice",40688
+"298","2014/15","Pomurska","Spol - SKUPAJ",3932
+"299","2014/15","Pomurska","Deèki",2055
+"300","2014/15","Pomurska","Deklice",1877
+"301","2014/15","Podravska","Spol - SKUPAJ",11727
+"302","2014/15","Podravska","Deèki",6040
+"303","2014/15","Podravska","Deklice",5687
+"304","2014/15","Koroška","Spol - SKUPAJ",2465
+"305","2014/15","Koroška","Deèki",1262
+"306","2014/15","Koroška","Deklice",1203
+"307","2014/15","Savinjska","Spol - SKUPAJ",10629
+"308","2014/15","Savinjska","Deèki",5412
+"309","2014/15","Savinjska","Deklice",5217
+"310","2014/15","Zasavska","Spol - SKUPAJ",1396
+"311","2014/15","Zasavska","Deèki",757
+"312","2014/15","Zasavska","Deklice",639
+"313","2014/15","Posavska","Spol - SKUPAJ",2595
+"314","2014/15","Posavska","Deèki",1328
+"315","2014/15","Posavska","Deklice",1267
+"316","2014/15","Jugovzhodna Slovenija","Spol - SKUPAJ",6137
+"317","2014/15","Jugovzhodna Slovenija","Deèki",3203
+"318","2014/15","Jugovzhodna Slovenija","Deklice",2934
+"319","2014/15","Osrednjeslovenska","Spol - SKUPAJ",25903
+"320","2014/15","Osrednjeslovenska","Deèki",13435
+"321","2014/15","Osrednjeslovenska","Deklice",12468
+"322","2014/15","Gorenjska","Spol - SKUPAJ",8428
+"323","2014/15","Gorenjska","Deèki",4457
+"324","2014/15","Gorenjska","Deklice",3971
+"325","2014/15","Primorsko-notranjska","Spol - SKUPAJ",2054
+"326","2014/15","Primorsko-notranjska","Deèki",1065
+"327","2014/15","Primorsko-notranjska","Deklice",989
+"328","2014/15","Goriška","Spol - SKUPAJ",4657
+"329","2014/15","Goriška","Deèki",2441
+"330","2014/15","Goriška","Deklice",2216
+"331","2014/15","Obalno-kraška","Spol - SKUPAJ",4539
+"332","2014/15","Obalno-kraška","Deèki",2319
+"333","2014/15","Obalno-kraška","Deklice",2220
+"334","2014/15","stalno prebivališèe neznano ali v tujini","Spol - SKUPAJ",288
+"335","2014/15","stalno prebivališèe neznano ali v tujini","Deèki",146
+"336","2014/15","stalno prebivališèe neznano ali v tujini","Deklice",142
+"337","2015/16","SLOVENIJA","Spol - SKUPAJ",84961
+"338","2015/16","SLOVENIJA","Deèki",44275
+"339","2015/16","SLOVENIJA","Deklice",40686
+"340","2015/16","Pomurska","Spol - SKUPAJ",3909
+"341","2015/16","Pomurska","Deèki",2044
+"342","2015/16","Pomurska","Deklice",1865
+"343","2015/16","Podravska","Spol - SKUPAJ",11787
+"344","2015/16","Podravska","Deèki",6136
+"345","2015/16","Podravska","Deklice",5651
+"346","2015/16","Koroška","Spol - SKUPAJ",2495
+"347","2015/16","Koroška","Deèki",1290
+"348","2015/16","Koroška","Deklice",1205
+"349","2015/16","Savinjska","Spol - SKUPAJ",10476
+"350","2015/16","Savinjska","Deèki",5419
+"351","2015/16","Savinjska","Deklice",5057
+"352","2015/16","Zasavska","Spol - SKUPAJ",1923
+"353","2015/16","Zasavska","Deèki",1028
+"354","2015/16","Zasavska","Deklice",895
+"355","2015/16","Posavska","Spol - SKUPAJ",2858
+"356","2015/16","Posavska","Deèki",1468
+"357","2015/16","Posavska","Deklice",1390
+"358","2015/16","Jugovzhodna Slovenija","Spol - SKUPAJ",6346
+"359","2015/16","Jugovzhodna Slovenija","Deèki",3320
+"360","2015/16","Jugovzhodna Slovenija","Deklice",3026
+"361","2015/16","Osrednjeslovenska","Spol - SKUPAJ",25416
+"362","2015/16","Osrednjeslovenska","Deèki",13223
+"363","2015/16","Osrednjeslovenska","Deklice",12193
+"364","2015/16","Gorenjska","Spol - SKUPAJ",8509
+"365","2015/16","Gorenjska","Deèki",4519
+"366","2015/16","Gorenjska","Deklice",3990
+"367","2015/16","Primorsko-notranjska","Spol - SKUPAJ",2076
+"368","2015/16","Primorsko-notranjska","Deèki",1071
+"369","2015/16","Primorsko-notranjska","Deklice",1005
+"370","2015/16","Goriška","Spol - SKUPAJ",4641
+"371","2015/16","Goriška","Deèki",2380
+"372","2015/16","Goriška","Deklice",2261
+"373","2015/16","Obalno-kraška","Spol - SKUPAJ",4525
+"374","2015/16","Obalno-kraška","Deèki",2377
+"375","2015/16","Obalno-kraška","Deklice",2148
+"376","2015/16","stalno prebivališèe neznano ali v tujini","Spol - SKUPAJ",446
+"377","2015/16","stalno prebivališèe neznano ali v tujini","Deèki",229
+"378","2015/16","stalno prebivališèe neznano ali v tujini","Deklice",217
+"379","2016/17","SLOVENIJA","Spol - SKUPAJ",86284
+"380","2016/17","SLOVENIJA","Deèki",44672
+"381","2016/17","SLOVENIJA","Deklice",41612
+"382","2016/17","Pomurska","Spol - SKUPAJ",3917
+"383","2016/17","Pomurska","Deèki",2024
+"384","2016/17","Pomurska","Deklice",1893
+"385","2016/17","Podravska","Spol - SKUPAJ",11797
+"386","2016/17","Podravska","Deèki",6111
+"387","2016/17","Podravska","Deklice",5686
+"388","2016/17","Koroška","Spol - SKUPAJ",2538
+"389","2016/17","Koroška","Deèki",1297
+"390","2016/17","Koroška","Deklice",1241
+"391","2016/17","Savinjska","Spol - SKUPAJ",10512
+"392","2016/17","Savinjska","Deèki",5431
+"393","2016/17","Savinjska","Deklice",5081
+"394","2016/17","Zasavska","Spol - SKUPAJ",2147
+"395","2016/17","Zasavska","Deèki",1140
+"396","2016/17","Zasavska","Deklice",1007
+"397","2016/17","Posavska","Spol - SKUPAJ",3065
+"398","2016/17","Posavska","Deèki",1562
+"399","2016/17","Posavska","Deklice",1503
+"400","2016/17","Jugovzhodna Slovenija","Spol - SKUPAJ",6348
+"401","2016/17","Jugovzhodna Slovenija","Deèki",3307
+"402","2016/17","Jugovzhodna Slovenija","Deklice",3041
+"403","2016/17","Osrednjeslovenska","Spol - SKUPAJ",25390
+"404","2016/17","Osrednjeslovenska","Deèki",13152
+"405","2016/17","Osrednjeslovenska","Deklice",12238
+"406","2016/17","Gorenjska","Spol - SKUPAJ",8465
+"407","2016/17","Gorenjska","Deèki",4477
+"408","2016/17","Gorenjska","Deklice",3988
+"409","2016/17","Primorsko-notranjska","Spol - SKUPAJ",2136
+"410","2016/17","Primorsko-notranjska","Deèki",1086
+"411","2016/17","Primorsko-notranjska","Deklice",1050
+"412","2016/17","Goriška","Spol - SKUPAJ",4651
+"413","2016/17","Goriška","Deèki",2360
+"414","2016/17","Goriška","Deklice",2291
+"415","2016/17","Obalno-kraška","Spol - SKUPAJ",4410
+"416","2016/17","Obalno-kraška","Deèki",2262
+"417","2016/17","Obalno-kraška","Deklice",2148
+"418","2016/17","stalno prebivališèe neznano ali v tujini","Spol - SKUPAJ",908
+"419","2016/17","stalno prebivališèe neznano ali v tujini","Deèki",463
+"420","2016/17","stalno prebivališèe neznano ali v tujini","Deklice",445
+"421","2017/18","SLOVENIJA","Spol - SKUPAJ",86703
+"422","2017/18","SLOVENIJA","Deèki",44855
+"423","2017/18","SLOVENIJA","Deklice",41848
+"424","2017/18","Pomurska","Spol - SKUPAJ",4049
+"425","2017/18","Pomurska","Deèki",2104
+"426","2017/18","Pomurska","Deklice",1945
+"427","2017/18","Podravska","Spol - SKUPAJ",11945
+"428","2017/18","Podravska","Deèki",6212
+"429","2017/18","Podravska","Deklice",5733
+"430","2017/18","Koroška","Spol - SKUPAJ",2619
+"431","2017/18","Koroška","Deèki",1321
+"432","2017/18","Koroška","Deklice",1298
+"433","2017/18","Savinjska","Spol - SKUPAJ",10638
+"434","2017/18","Savinjska","Deèki",5492
+"435","2017/18","Savinjska","Deklice",5146
+"436","2017/18","Zasavska","Spol - SKUPAJ",2132
+"437","2017/18","Zasavska","Deèki",1128
+"438","2017/18","Zasavska","Deklice",1004
+"439","2017/18","Posavska","Spol - SKUPAJ",3049
+"440","2017/18","Posavska","Deèki",1548
+"441","2017/18","Posavska","Deklice",1501
+"442","2017/18","Jugovzhodna Slovenija","Spol - SKUPAJ",6390
+"443","2017/18","Jugovzhodna Slovenija","Deèki",3317
+"444","2017/18","Jugovzhodna Slovenija","Deklice",3073
+"445","2017/18","Osrednjeslovenska","Spol - SKUPAJ",25327
+"446","2017/18","Osrednjeslovenska","Deèki",13065
+"447","2017/18","Osrednjeslovenska","Deklice",12262
+"448","2017/18","Gorenjska","Spol - SKUPAJ",8498
+"449","2017/18","Gorenjska","Deèki",4473
+"450","2017/18","Gorenjska","Deklice",4025
+"451","2017/18","Primorsko-notranjska","Spol - SKUPAJ",2142
+"452","2017/18","Primorsko-notranjska","Deèki",1118
+"453","2017/18","Primorsko-notranjska","Deklice",1024
+"454","2017/18","Goriška","Spol - SKUPAJ",4585
+"455","2017/18","Goriška","Deèki",2341
+"456","2017/18","Goriška","Deklice",2244
+"457","2017/18","Obalno-kraška","Spol - SKUPAJ",4319
+"458","2017/18","Obalno-kraška","Deèki",2210
+"459","2017/18","Obalno-kraška","Deklice",2109
+"460","2017/18","stalno prebivališèe neznano ali v tujini","Spol - SKUPAJ",1010
+"461","2017/18","stalno prebivališèe neznano ali v tujini","Deèki",526
+"462","2017/18","stalno prebivališèe neznano ali v tujini","Deklice",484

@@ -74,3 +74,23 @@ bruto <- read.csv2(file = 'podatki/bruto_proizvod.csv', skip = 0, header = FALSE
 bruto <- bruto %>% fill(1:2)%>% filter(complete.cases(.))
 bruto <- bruto[,-3]
 
+
+#shranjene tabele (tidy data):
+
+write.csv(brezposelni, file = 'podatki/tidy_data/tidy_brezposelni.csv')
+write.csv(bruto, file = 'podatki/tidy_data/tidy_bruto.csv')
+write.csv(dijaki, file = 'podatki/tidy_data/tidy_dijaki.csv')
+write.csv(diplomanti, file = 'podatki/tidy_data/tidy_diplomanti.csv')
+write.csv(osnovne_sole, file = 'podatki/tidy_data/tidy_osnovne_sole.csv')
+write.csv(terciarno, file = 'podatki/tidy_data/tidy_terciarno.csv')
+write.csv(vrtec, file = 'podatki/tidy_data/tidy_vrtec.csv')
+
+
+
+
+
+
+
+
+
+

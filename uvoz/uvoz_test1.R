@@ -66,8 +66,3 @@ terciarno <- terciarno %>% spread(Vrsta, Stevilo)
 
 
 
-#7. tabela.... tukaj imam tezave
-stipendisti <- read.csv(file = 'podatki/stipendisti.csv', skip = 2, na = c(' ','-'),
-                        header = FALSE, encoding = 'Windows-1250', sep = ';')
-
-stipendisti <- stipendisti %>% fill(1:2)%>% filter(complete.cases(.))

@@ -53,6 +53,11 @@ Analiziral bom kako brezposelnost vpliva na vključenost otrok v predšolske pro
 - 4. stolpec: Spol
 - 5. stoplec: Število
 
+7. TABELA: (Bruto proizvod na prebivalca)
+- 1. stoplec: Leto
+- 2. stoplec: Regija
+- 3. stoplec: BDP
+
 
 
 ## Spletne povezave do tabel

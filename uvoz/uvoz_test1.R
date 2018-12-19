@@ -65,4 +65,12 @@ terciarno <- terciarno %>% fill(1:3)%>% filter(complete.cases(.))
 terciarno <- terciarno %>% spread(Vrsta, Stevilo)
 
 
+#7. tabela
+bruto <- read.csv2(file = 'podatki/bruto_proizvod.csv', skip = 0, header = FALSE,
+                   encoding = 'Windows-1250', sep = ';', na = c(' ','-'),
+                   col.names = c('Leto', 'Regija', 'Krneki', 'BDP'))
+
+
+bruto <- bruto %>% fill(1:2)%>% filter(complete.cases(.))
+bruto <- bruto[,-3]
 

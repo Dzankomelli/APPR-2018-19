@@ -20,7 +20,7 @@ brezposelni <- read.csv2(file = 'podatki/brezposelni.csv', skip = 2, header = FA
                          encoding = 'Windows-1250', sep = ';', dec = '.', na = c(' ','-'),
                          col.names = c('Leto', 'Regija', 'Aktivnost', 'Vrednost'))
 
-brezposelni <- brezposelni %>% fill(1:2)
+brezposelni <- brezposelni %>% fill(1:2)%>% filter(complete.cases(.))
 
 
 
@@ -31,7 +31,7 @@ diplomanti <- read.csv2(file = 'podatki/diplomanti.csv', skip = 2, header = FALS
                         encoding = 'Windows-1250', sep = ';', dec = '.', na = c(' ','-'),
                         col.names = c('Leto', 'Regija', 'Meritev', 'Vrednost'))
 
-diplomanti <- diplomanti %>% fill(1:2)
+diplomanti <- diplomanti %>% fill(1:2)%>% filter(complete.cases(.))
 
 
 
@@ -42,7 +42,7 @@ vrtec <- read.csv2(file = 'podatki/vrtec.csv', skip = 1, header = FALSE,
                    encoding = 'Windows-1250', sep = ';', na = c(' ','-'),
                    col.names = c('Leto', 'Regija', 'Spol', 'Vrednost'))
 
-vrtec <- vrtec %>% fill(1:2)
+vrtec <- vrtec %>% fill(1:2)%>% filter(complete.cases(.))
 
 
 
@@ -52,7 +52,7 @@ dijaki <- read.csv2(file = 'podatki/dijaki.csv', skip = 3, header = FALSE,
                     col.names = c('Leto', 'Regija', 'krneki', 'Stevilo dijakov'))
 
 dijaki <- dijaki[,-3]
-dijaki <- dijaki %>% fill(1:2)
+dijaki <- dijaki %>% fill(1:2)%>% filter(complete.cases(.))
 
 
 
@@ -61,7 +61,7 @@ terciarno <- read.csv2(file = 'podatki/terciarno.csv', skip = 2, header = FALSE,
                        encoding = 'Windows-1250', sep = ';', na = c(' ','-'),
                        col.names = c('Leto', 'Regija', 'Vrsta', 'Spol', 'Vrednost'))
 
-terciarno <- terciarno %>% fill(1:3)
+terciarno <- terciarno %>% fill(1:3)%>% filter(complete.cases(.))
 
 
 
@@ -69,4 +69,4 @@ terciarno <- terciarno %>% fill(1:3)
 stipendisti <- read.csv(file = 'podatki/stipendisti.csv', skip = 2, na = c(' ','-'),
                         header = FALSE, encoding = 'Windows-1250', sep = ';')
 
-stipendisti <- stipendisti %>% fill(1:2)
+stipendisti <- stipendisti %>% fill(1:2)%>% filter(complete.cases(.))

@@ -10,9 +10,9 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2018/19
 
 V svojem projektu bom analiziral vključenost ljudi v posamezni izobraževalni program v Sloveniji, od vrtcev pa vse do doktorskega študija. Podatke o številu ljudi, ki obiskujejo posamezni izobraževalni program sem dobil na spletni strani SURS-a. 
 
-V dobljenih tabelah imam podatke o številu ljudi, ki so vključeni v določeno vrsto izobraževanja, ki jih ločim po spolu, letu šolanja in regiji v kateri se šolajo. Prav tako sem pridobil podatke o štipendijah, ki so dodeljene ljudem v posameznih regijah. Razpon let za katere imam podatke se razlikuje od tabele do tabele, vendar jih ima večina podatke od vključno leta 2007 naprej.
+V dobljenih tabelah imam podatke o številu ljudi, ki so vključeni v določeno vrsto izobraževanja, ki jih ločim po spolu, letu šolanja in regiji v kateri se šolajo. Prav tako sem pridobil podatke o diplomantih na 1000 ljudi v posameznih regijah. Podatke imam od leta 2007 naprej.
 
-Analiziral bom kako brezposelnost vpliva na vključenost otrok v predšolske programe, kako sta povezana BDP per capita in terciarno šolanje, v kakšni povezavi so dodeljene štipendije v občini glede na število ljudi, ki se tam šola ter vpliv števila diplomantov na delež aktivnega prebivalsta.
+Analiziral bom kako brezposelnost vpliva na vključenost otrok v predšolske programe, kako sta povezana BDP in terciarno šolanje, vpliv števila diplomantov na delež aktivnega prebivalsta.
 
 ## Podatki
 
@@ -53,13 +53,18 @@ Analiziral bom kako brezposelnost vpliva na vključenost otrok v predšolske pro
 - 4. stolpec: Spol
 - 5. stoplec: Število
 
+7. TABELA: (Bruto proizvod na prebivalca)
+- 1. stoplec: Leto
+- 2. stoplec: Regija
+- 3. stoplec: BDP
+
 
 
 ## Spletne povezave do tabel
 
 Do tabel dostopam preko statističnega urada Republike Slovenije. Tabele lahko prenesem iz interneta na mnogo načino, med drugim CSV, HTML, XML, XLS itd. Tabelo o BDP per capita sem našel na eurostat-u vendar zaradi težav spletno stranjo ne nisem uspel prenesti.
 
-https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0954306S&ti=&path=../Database/Dem_soc/09_izobrazevanje/90_Arhiv/02_09543_stipendisti/&lang=2
+https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0309250S&ti=&path=../Database/Ekonomsko/03_nacionalni_racuni/30_03092_regionalni_rac/&lang=2
 
 https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0955072S&ti=&path=../Database/Dem_soc/09_izobrazevanje/08_terciarno_izobraz/01_09550_vpisani_splosno/&lang=2
 

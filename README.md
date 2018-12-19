@@ -59,7 +59,7 @@ Analiziral bom kako brezposelnost vpliva na vključenost otrok v predšolske pro
 
 Do tabel dostopam preko statističnega urada Republike Slovenije. Tabele lahko prenesem iz interneta na mnogo načino, med drugim CSV, HTML, XML, XLS itd. Tabelo o BDP per capita sem našel na eurostat-u vendar zaradi težav spletno stranjo ne nisem uspel prenesti.
 
-https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0954306S&ti=&path=../Database/Dem_soc/09_izobrazevanje/90_Arhiv/02_09543_stipendisti/&lang=2
+https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0309250S&ti=&path=../Database/Ekonomsko/03_nacionalni_racuni/30_03092_regionalni_rac/&lang=2
 
 https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0955072S&ti=&path=../Database/Dem_soc/09_izobrazevanje/08_terciarno_izobraz/01_09550_vpisani_splosno/&lang=2
 

@@ -46,7 +46,6 @@ vrtec <- vrtec %>% fill(1:2)
 
 
 
-
 #5. tabela
 dijaki <- read.csv2(file = 'podatki/dijaki.csv', skip = 3, header = FALSE, 
                     encoding = 'Windows-1250', sep = ';', na = c(' ','-'),

@@ -14,6 +14,46 @@ V dobljenih tabelah imam podatke o številu ljudi, ki so vključeni v določeno 
 
 Analiziral bom kako brezposelnost vpliva na vključenost otrok v predšolske programe, kako sta povezana BDP per capita in terciarno šolanje, v kakšni povezavi so dodeljene štipendije v občini glede na število ljudi, ki se tam šola ter vpliv števila diplomantov na delež aktivnega prebivalsta.
 
+## Podatki
+
+1. TABELA: (Osnovne šole)
+- 1. stoplec: Leto
+- 2. stoplec: Regija
+- 3. stoplec: Spol
+- 4. stoplec: Število
+
+2. TABELA: (Brezposelni)
+- 1. stoplec: Leto
+- 1. stoplec: Regija
+- 1. stoplec: Aktivnost
+- 1. stoplec: Število
+
+3. TABELA: (Diplomanti)
+- 1. stoplec: Leto
+- 2. stoplec: Regija
+- 3. stoplec: Meritev
+- 4. stoplec: Število
+
+4. TABELA: (Predšolska vzgoja)
+- 1. stoplec: Leto
+- 2. stoplec: Regija
+- 3. stoplec: Spol
+- 4. stoplec: Število
+
+5. TABELA: (Dijaki)
+- 1. stoplec: Leto
+- 2. stoplec: Regija
+- 3. stoplec: Število
+
+
+6. TABELA: (Terciarno izobraževanje)
+- 1. stoplec: Leto
+- 2. stoplec: Regija
+- 3. stoplec: Vrsta izobraževanja
+- 4. stolpec: Spol
+- 5. stoplec: Število
+
+
 
 ## Spletne povezave do tabel
 

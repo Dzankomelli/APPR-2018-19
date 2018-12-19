@@ -9,7 +9,7 @@ osnovne_sole <- read.csv2(file = 'podatki/osnovnesole.csv', skip = 3, na = c(' '
                           col.names = c('Leto', 'brezveze', 'Regija', 'Spol', 'Vrednost'))
 
 osnovne_sole <- osnovne_sole[,-2]
-osnovne_sole <- osnovne_sole %>% fill(1:2)
+osnovne_sole <- osnovne_sole %>% fill(1:2)%>% filter(complete.cases(.))
 
 
 

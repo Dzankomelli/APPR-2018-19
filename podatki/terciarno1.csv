@@ -1,0 +1,5277 @@
+"Študenti terciarnega izobraževanja po: ŠTUDIJSKO LETO, STATISTIÈNA"
+"REGIJA, VRSTA IZOBRAŽEVANJA , SPOL"
+
+"2007/08"
+" ";"SLOVENIJA"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";8439
+" ";" ";" ";"Ženske";7985
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";11808
+" ";" ";" ";"Ženske";13904
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";4333
+" ";" ";" ";"Ženske";6867
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";4350
+" ";" ";" ";"Ženske";6673
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";15222
+" ";" ";" ";"Ženske";26180
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";109
+" ";" ";" ";"Ženske";112
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";1160
+" ";" ";" ";"Ženske";1749
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";260
+" ";" ";" ";"Ženske";235
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";1840
+" ";" ";" ";"Ženske";2637
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";661
+" ";" ";" ";"Ženske";595
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";140
+" ";" ";" ";"Ženske";186
+" ";"Pomurska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";478
+" ";" ";" ";"Ženske";480
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";531
+" ";" ";" ";"Ženske";725
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";220
+" ";" ";" ";"Ženske";272
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";200
+" ";" ";" ";"Ženske";243
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";714
+" ";" ";" ";"Ženske";1312
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";4
+" ";" ";" ";"Ženske";2
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";35
+" ";" ";" ";"Ženske";62
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";7
+" ";" ";" ";"Ženske";9
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";79
+" ";" ";" ";"Ženske";89
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";23
+" ";" ";" ";"Ženske";18
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";6
+" ";" ";" ";"Ženske";8
+" ";"Podravska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1430
+" ";" ";" ";"Ženske";1282
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";1360
+" ";" ";" ";"Ženske";1820
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";677
+" ";" ";" ";"Ženske";845
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";711
+" ";" ";" ";"Ženske";680
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";2017
+" ";" ";" ";"Ženske";3740
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";6
+" ";" ";" ";"Ženske";5
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";137
+" ";" ";" ";"Ženske";253
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";26
+" ";" ";" ";"Ženske";15
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";265
+" ";" ";" ";"Ženske";402
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";91
+" ";" ";" ";"Ženske";72
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";36
+" ";" ";" ";"Ženske";49
+" ";"Koroška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";454
+" ";" ";" ";"Ženske";405
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";401
+" ";" ";" ";"Ženske";455
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";135
+" ";" ";" ";"Ženske";158
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";148
+" ";" ";" ";"Ženske";210
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";545
+" ";" ";" ";"Ženske";1019
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";7
+" ";" ";" ";"Ženske";3
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";39
+" ";" ";" ";"Ženske";64
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";3
+" ";" ";" ";"Ženske";2
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";57
+" ";" ";" ";"Ženske";103
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";26
+" ";" ";" ";"Ženske";11
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";6
+" ";" ";" ";"Ženske";8
+" ";"Savinjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1292
+" ";" ";" ";"Ženske";1251
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";1489
+" ";" ";" ";"Ženske";2205
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";558
+" ";" ";" ";"Ženske";894
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";551
+" ";" ";" ";"Ženske";712
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";1731
+" ";" ";" ";"Ženske";3139
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";5
+" ";" ";" ";"Ženske";9
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";105
+" ";" ";" ";"Ženske";212
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";24
+" ";" ";" ";"Ženske";20
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";238
+" ";" ";" ";"Ženske";349
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";66
+" ";" ";" ";"Ženske";51
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";18
+" ";" ";" ";"Ženske";13
+" ";"Zasavska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";216
+" ";" ";" ";"Ženske";174
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";260
+" ";" ";" ";"Ženske";324
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";68
+" ";" ";" ";"Ženske";156
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";78
+" ";" ";" ";"Ženske";149
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";267
+" ";" ";" ";"Ženske";525
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";15
+" ";" ";" ";"Ženske";30
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";7
+" ";" ";" ";"Ženske";8
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";33
+" ";" ";" ";"Ženske";56
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";6
+" ";" ";" ";"Ženske";10
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";2
+" ";"Posavska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";292
+" ";" ";" ";"Ženske";230
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";448
+" ";" ";" ";"Ženske";532
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";189
+" ";" ";" ";"Ženske";266
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";116
+" ";" ";" ";"Ženske";200
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";517
+" ";" ";" ";"Ženske";886
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";3
+" ";" ";" ";"Ženske";3
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";23
+" ";" ";" ";"Ženske";46
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";9
+" ";" ";" ";"Ženske";5
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";48
+" ";" ";" ";"Ženske";59
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";16
+" ";" ";" ";"Ženske";6
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";2
+" ";"Jugovzhodna Slovenija"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";543
+" ";" ";" ";"Ženske";549
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";1062
+" ";" ";" ";"Ženske";1217
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";300
+" ";" ";" ";"Ženske";490
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";231
+" ";" ";" ";"Ženske";421
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";1021
+" ";" ";" ";"Ženske";1868
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";5
+" ";" ";" ";"Ženske";2
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";95
+" ";" ";" ";"Ženske";165
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";15
+" ";" ";" ";"Ženske";8
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";90
+" ";" ";" ";"Ženske";142
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";23
+" ";" ";" ";"Ženske";16
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";3
+" ";" ";" ";"Ženske";4
+" ";"Osrednjeslovenska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1723
+" ";" ";" ";"Ženske";1928
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";3097
+" ";" ";" ";"Ženske";3412
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1137
+" ";" ";" ";"Ženske";1947
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1248
+" ";" ";" ";"Ženske";2090
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";4503
+" ";" ";" ";"Ženske";7070
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";47
+" ";" ";" ";"Ženske";43
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";379
+" ";" ";" ";"Ženske";469
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";65
+" ";" ";" ";"Ženske";74
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";572
+" ";" ";" ";"Ženske";800
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";232
+" ";" ";" ";"Ženske";219
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";33
+" ";" ";" ";"Ženske";56
+" ";"Gorenjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1008
+" ";" ";" ";"Ženske";884
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";1172
+" ";" ";" ";"Ženske";1330
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";437
+" ";" ";" ";"Ženske";778
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";422
+" ";" ";" ";"Ženske";770
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";1613
+" ";" ";" ";"Ženske";2722
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";14
+" ";" ";" ";"Ženske";21
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";120
+" ";" ";" ";"Ženske";161
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";28
+" ";" ";" ";"Ženske";32
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";169
+" ";" ";" ";"Ženske";235
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";68
+" ";" ";" ";"Ženske";55
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";12
+" ";" ";" ";"Ženske";12
+" ";"Primorsko-notranjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";266
+" ";" ";" ";"Ženske";204
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";376
+" ";" ";" ";"Ženske";393
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";83
+" ";" ";" ";"Ženske";198
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";79
+" ";" ";" ";"Ženske";170
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";373
+" ";" ";" ";"Ženske";677
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";5
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";24
+" ";" ";" ";"Ženske";51
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";10
+" ";" ";" ";"Ženske";14
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";38
+" ";" ";" ";"Ženske";58
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";11
+" ";" ";" ";"Ženske";11
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";2
+" ";" ";" ";"Ženske";4
+" ";"Goriška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";449
+" ";" ";" ";"Ženske";329
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";890
+" ";" ";" ";"Ženske";793
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";241
+" ";" ";" ";"Ženske";430
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";238
+" ";" ";" ";"Ženske";494
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";981
+" ";" ";" ";"Ženske";1710
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";6
+" ";" ";" ";"Ženske";9
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";84
+" ";" ";" ";"Ženske";113
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";19
+" ";" ";" ";"Ženske";19
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";100
+" ";" ";" ";"Ženske";135
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";29
+" ";" ";" ";"Ženske";29
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";4
+" ";" ";" ";"Ženske";6
+" ";"Obalno-kraška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";265
+" ";" ";" ";"Ženske";253
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";671
+" ";" ";" ";"Ženske";611
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";243
+" ";" ";" ";"Ženske";402
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";248
+" ";" ";" ";"Ženske";427
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";734
+" ";" ";" ";"Ženske";1188
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";8
+" ";" ";" ";"Ženske";5
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";70
+" ";" ";" ";"Ženske";95
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";46
+" ";" ";" ";"Ženske";26
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";101
+" ";" ";" ";"Ženske";139
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";32
+" ";" ";" ";"Ženske";41
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";5
+" ";" ";" ";"Ženske";8
+" ";"stalno bivališèe neznano ali v tujini"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";23
+" ";" ";" ";"Ženske";16
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";51
+" ";" ";" ";"Ženske";87
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";45
+" ";" ";" ";"Ženske";31
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";80
+" ";" ";" ";"Ženske";107
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";206
+" ";" ";" ";"Ženske";324
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";3
+" ";" ";" ";"Ženske";5
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";34
+" ";" ";" ";"Ženske";28
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";3
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";50
+" ";" ";" ";"Ženske";70
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";38
+" ";" ";" ";"Ženske";56
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";13
+" ";" ";" ";"Ženske";14
+"2008/09"
+" ";"SLOVENIJA"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";8551
+" ";" ";" ";"Ženske";7712
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";9377
+" ";" ";" ";"Ženske";9954
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";6268
+" ";" ";" ";"Ženske";9324
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";5945
+" ";" ";" ";"Ženske";9490
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";13170
+" ";" ";" ";"Ženske";23069
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";277
+" ";" ";" ";"Ženske";482
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";1315
+" ";" ";" ";"Ženske";2076
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";216
+" ";" ";" ";"Ženske";269
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";1993
+" ";" ";" ";"Ženske";2909
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";719
+" ";" ";" ";"Ženske";662
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";256
+" ";" ";" ";"Ženske";357
+" ";"Pomurska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";460
+" ";" ";" ";"Ženske";442
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";464
+" ";" ";" ";"Ženske";555
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";332
+" ";" ";" ";"Ženske";372
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";291
+" ";" ";" ";"Ženske";385
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";626
+" ";" ";" ";"Ženske";1179
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";11
+" ";" ";" ";"Ženske";21
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";42
+" ";" ";" ";"Ženske";69
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";11
+" ";" ";" ";"Ženske";6
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";83
+" ";" ";" ";"Ženske";130
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";22
+" ";" ";" ";"Ženske";23
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";10
+" ";" ";" ";"Ženske";17
+" ";"Podravska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1435
+" ";" ";" ";"Ženske";1371
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";1072
+" ";" ";" ";"Ženske";1341
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";959
+" ";" ";" ";"Ženske";1132
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";926
+" ";" ";" ";"Ženske";1163
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";1695
+" ";" ";" ";"Ženske";3133
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";17
+" ";" ";" ";"Ženske";46
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";151
+" ";" ";" ";"Ženske";281
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";48
+" ";" ";" ";"Ženske";19
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";244
+" ";" ";" ";"Ženske";439
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";105
+" ";" ";" ";"Ženske";86
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";61
+" ";" ";" ";"Ženske";59
+" ";"Koroška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";419
+" ";" ";" ";"Ženske";399
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";289
+" ";" ";" ";"Ženske";352
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";229
+" ";" ";" ";"Ženske";270
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";225
+" ";" ";" ";"Ženske";311
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";488
+" ";" ";" ";"Ženske";886
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";15
+" ";" ";" ";"Ženske";15
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";38
+" ";" ";" ";"Ženske";73
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";7
+" ";" ";" ";"Ženske";4
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";67
+" ";" ";" ";"Ženske";104
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";32
+" ";" ";" ";"Ženske";12
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";10
+" ";" ";" ";"Ženske";11
+" ";"Savinjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1277
+" ";" ";" ";"Ženske";1223
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";1185
+" ";" ";" ";"Ženske";1575
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";892
+" ";" ";" ";"Ženske";1304
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";676
+" ";" ";" ";"Ženske";1076
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";1475
+" ";" ";" ";"Ženske";2773
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";28
+" ";" ";" ";"Ženske";49
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";154
+" ";" ";" ";"Ženske";381
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";32
+" ";" ";" ";"Ženske";36
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";259
+" ";" ";" ";"Ženske";381
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";87
+" ";" ";" ";"Ženske";64
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";32
+" ";" ";" ";"Ženske";28
+" ";"Zasavska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";203
+" ";" ";" ";"Ženske";175
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";211
+" ";" ";" ";"Ženske";222
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";87
+" ";" ";" ";"Ženske";217
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";112
+" ";" ";" ";"Ženske";222
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";226
+" ";" ";" ";"Ženske";462
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";10
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";19
+" ";" ";" ";"Ženske";33
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";6
+" ";" ";" ";"Ženske";3
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";31
+" ";" ";" ";"Ženske";53
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";17
+" ";" ";" ";"Ženske";12
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";2
+" ";" ";" ";"Ženske";6
+" ";"Posavska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";310
+" ";" ";" ";"Ženske";228
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";360
+" ";" ";" ";"Ženske";388
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";291
+" ";" ";" ";"Ženske";377
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";194
+" ";" ";" ";"Ženske";285
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";466
+" ";" ";" ";"Ženske";768
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";6
+" ";" ";" ";"Ženske";12
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";45
+" ";" ";" ";"Ženske";63
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";4
+" ";" ";" ";"Ženske";3
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";46
+" ";" ";" ";"Ženske";76
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";22
+" ";" ";" ";"Ženske";7
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";2
+" ";" ";" ";"Ženske";10
+" ";"Jugovzhodna Slovenija"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";542
+" ";" ";" ";"Ženske";507
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";887
+" ";" ";" ";"Ženske";850
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";473
+" ";" ";" ";"Ženske";753
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";338
+" ";" ";" ";"Ženske";615
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";932
+" ";" ";" ";"Ženske";1674
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";19
+" ";" ";" ";"Ženske";36
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";112
+" ";" ";" ";"Ženske";152
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";10
+" ";" ";" ";"Ženske";17
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";113
+" ";" ";" ";"Ženske";160
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";36
+" ";" ";" ";"Ženske";21
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";11
+" ";" ";" ";"Ženske";12
+" ";"Osrednjeslovenska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1878
+" ";" ";" ";"Ženske";1702
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";2411
+" ";" ";" ";"Ženske";2298
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1494
+" ";" ";" ";"Ženske";2545
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1689
+" ";" ";" ";"Ženske";2740
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";3860
+" ";" ";" ";"Ženske";6252
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";110
+" ";" ";" ";"Ženske";149
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";385
+" ";" ";" ";"Ženske";533
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";38
+" ";" ";" ";"Ženske";98
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";646
+" ";" ";" ";"Ženske";855
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";208
+" ";" ";" ";"Ženske";238
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";68
+" ";" ";" ";"Ženske";124
+" ";"Gorenjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1041
+" ";" ";" ";"Ženske";825
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";919
+" ";" ";" ";"Ženske";959
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";599
+" ";" ";" ";"Ženske";1028
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";582
+" ";" ";" ";"Ženske";1019
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";1351
+" ";" ";" ";"Ženske";2354
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";27
+" ";" ";" ";"Ženske";53
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";105
+" ";" ";" ";"Ženske";151
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";16
+" ";" ";" ";"Ženske";32
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";209
+" ";" ";" ";"Ženske";235
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";65
+" ";" ";" ";"Ženske";59
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";17
+" ";" ";" ";"Ženske";28
+" ";"Primorsko-notranjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";243
+" ";" ";" ";"Ženske";209
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";305
+" ";" ";" ";"Ženske";266
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";112
+" ";" ";" ";"Ženske";277
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";116
+" ";" ";" ";"Ženske";248
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";328
+" ";" ";" ";"Ženske";590
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";3
+" ";" ";" ";"Ženske";11
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";30
+" ";" ";" ";"Ženske";60
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";9
+" ";" ";" ";"Ženske";6
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";38
+" ";" ";" ";"Ženske";76
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";12
+" ";" ";" ";"Ženske";9
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";4
+" ";" ";" ";"Ženske";5
+" ";"Goriška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";433
+" ";" ";" ";"Ženske";314
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";764
+" ";" ";" ";"Ženske";602
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";357
+" ";" ";" ";"Ženske";528
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";357
+" ";" ";" ";"Ženske";684
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";874
+" ";" ";" ";"Ženske";1569
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";16
+" ";" ";" ";"Ženske";29
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";96
+" ";" ";" ";"Ženske";120
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";11
+" ";" ";" ";"Ženske";14
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";97
+" ";" ";" ";"Ženske";159
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";33
+" ";" ";" ";"Ženske";38
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";7
+" ";" ";" ";"Ženske";25
+" ";"Obalno-kraška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";257
+" ";" ";" ";"Ženske";284
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";457
+" ";" ";" ";"Ženske";455
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";382
+" ";" ";" ";"Ženske";460
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";339
+" ";" ";" ";"Ženske";564
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";649
+" ";" ";" ";"Ženske";1060
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";17
+" ";" ";" ";"Ženske";30
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";78
+" ";" ";" ";"Ženske";108
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";21
+" ";" ";" ";"Ženske";23
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";90
+" ";" ";" ";"Ženske";143
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";29
+" ";" ";" ";"Ženske";31
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";10
+" ";" ";" ";"Ženske";12
+" ";"stalno bivališèe neznano ali v tujini"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";53
+" ";" ";" ";"Ženske";33
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";53
+" ";" ";" ";"Ženske";91
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";61
+" ";" ";" ";"Ženske";61
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";100
+" ";" ";" ";"Ženske";178
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";200
+" ";" ";" ";"Ženske";369
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";7
+" ";" ";" ";"Ženske";21
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";60
+" ";" ";" ";"Ženske";52
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";3
+" ";" ";" ";"Ženske";8
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";70
+" ";" ";" ";"Ženske";98
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";51
+" ";" ";" ";"Ženske";62
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";22
+" ";" ";" ";"Ženske";20
+"2009/10"
+" ";"SLOVENIJA"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";8624
+" ";" ";" ";"Ženske";7970
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";5285
+" ";" ";" ";"Ženske";5089
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";9667
+" ";" ";" ";"Ženske";13081
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";9602
+" ";" ";" ";"Ženske";14404
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";8815
+" ";" ";" ";"Ženske";16436
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";570
+" ";" ";" ";"Ženske";1118
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";2471
+" ";" ";" ";"Ženske";4281
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";100
+" ";" ";" ";"Ženske";69
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";1615
+" ";" ";" ";"Ženske";2267
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";723
+" ";" ";" ";"Ženske";575
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";956
+" ";" ";" ";"Ženske";1155
+" ";"Pomurska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";473
+" ";" ";" ";"Ženske";450
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";235
+" ";" ";" ";"Ženske";308
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";533
+" ";" ";" ";"Ženske";587
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";478
+" ";" ";" ";"Ženske";628
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";451
+" ";" ";" ";"Ženske";890
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";24
+" ";" ";" ";"Ženske";52
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";112
+" ";" ";" ";"Ženske";170
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";2
+" ";" ";" ";"Ženske";2
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";74
+" ";" ";" ";"Ženske";101
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";18
+" ";" ";" ";"Ženske";17
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";32
+" ";" ";" ";"Ženske";47
+" ";"Podravska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1289
+" ";" ";" ";"Ženske";1432
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";578
+" ";" ";" ";"Ženske";655
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1373
+" ";" ";" ";"Ženske";1727
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1491
+" ";" ";" ";"Ženske";1866
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";1237
+" ";" ";" ";"Ženske";2302
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";57
+" ";" ";" ";"Ženske";116
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";317
+" ";" ";" ";"Ženske";594
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";22
+" ";" ";" ";"Ženske";3
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";195
+" ";" ";" ";"Ženske";360
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";117
+" ";" ";" ";"Ženske";79
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";156
+" ";" ";" ";"Ženske";189
+" ";"Koroška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";376
+" ";" ";" ";"Ženske";324
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";167
+" ";" ";" ";"Ženske";195
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";336
+" ";" ";" ";"Ženske";412
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";358
+" ";" ";" ";"Ženske";481
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";317
+" ";" ";" ";"Ženske";654
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";20
+" ";" ";" ";"Ženske";43
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";54
+" ";" ";" ";"Ženske";153
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";6
+" ";" ";" ";"Ženske";1
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";49
+" ";" ";" ";"Ženske";79
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";18
+" ";" ";" ";"Ženske";6
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";39
+" ";" ";" ";"Ženske";33
+" ";"Savinjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1258
+" ";" ";" ";"Ženske";1133
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";659
+" ";" ";" ";"Ženske";754
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1352
+" ";" ";" ";"Ženske";2000
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1114
+" ";" ";" ";"Ženske";1669
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";1053
+" ";" ";" ";"Ženske";2008
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";62
+" ";" ";" ";"Ženske";111
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";269
+" ";" ";" ";"Ženske";667
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";14
+" ";" ";" ";"Ženske";9
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";244
+" ";" ";" ";"Ženske";314
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";82
+" ";" ";" ";"Ženske";59
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";86
+" ";" ";" ";"Ženske";102
+" ";"Zasavska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";205
+" ";" ";" ";"Ženske";200
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";109
+" ";" ";" ";"Ženske";118
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";145
+" ";" ";" ";"Ženske";266
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";167
+" ";" ";" ";"Ženske";297
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";141
+" ";" ";" ";"Ženske";322
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";3
+" ";" ";" ";"Ženske";25
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";44
+" ";" ";" ";"Ženske";79
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";4
+" ";" ";" ";"Ženske";1
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";23
+" ";" ";" ";"Ženske";44
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";10
+" ";" ";" ";"Ženske";7
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";16
+" ";" ";" ";"Ženske";15
+" ";"Posavska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";281
+" ";" ";" ";"Ženske";234
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";192
+" ";" ";" ";"Ženske";184
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";421
+" ";" ";" ";"Ženske";515
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";320
+" ";" ";" ";"Ženske";476
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";299
+" ";" ";" ";"Ženske";576
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";8
+" ";" ";" ";"Ženske";36
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";77
+" ";" ";" ";"Ženske";125
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";3
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";30
+" ";" ";" ";"Ženske";44
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";26
+" ";" ";" ";"Ženske";7
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";20
+" ";" ";" ";"Ženske";29
+" ";"Jugovzhodna Slovenija"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";647
+" ";" ";" ";"Ženske";595
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";567
+" ";" ";" ";"Ženske";440
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";772
+" ";" ";" ";"Ženske";1062
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";594
+" ";" ";" ";"Ženske";996
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";613
+" ";" ";" ";"Ženske";1187
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";37
+" ";" ";" ";"Ženske";77
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";175
+" ";" ";" ";"Ženske";259
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";6
+" ";" ";" ";"Ženske";5
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";101
+" ";" ";" ";"Ženske";104
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";44
+" ";" ";" ";"Ženske";20
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";46
+" ";" ";" ";"Ženske";60
+" ";"Osrednjeslovenska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1973
+" ";" ";" ";"Ženske";1868
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";1302
+" ";" ";" ";"Ženske";1159
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";2424
+" ";" ";" ";"Ženske";3375
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";2684
+" ";" ";" ";"Ženske";4058
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";2512
+" ";" ";" ";"Ženske";4337
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";200
+" ";" ";" ";"Ženske";335
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";700
+" ";" ";" ";"Ženske";1056
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";19
+" ";" ";" ";"Ženske";24
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";452
+" ";" ";" ";"Ženske";633
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";219
+" ";" ";" ";"Ženske";208
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";286
+" ";" ";" ";"Ženske";366
+" ";"Gorenjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1022
+" ";" ";" ";"Ženske";895
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";502
+" ";" ";" ";"Ženske";490
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";906
+" ";" ";" ";"Ženske";1329
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";942
+" ";" ";" ";"Ženske";1489
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";872
+" ";" ";" ";"Ženske";1598
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";65
+" ";" ";" ";"Ženske";129
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";241
+" ";" ";" ";"Ženske";374
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";8
+" ";" ";" ";"Ženske";6
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";197
+" ";" ";" ";"Ženske";213
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";61
+" ";" ";" ";"Ženske";57
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";77
+" ";" ";" ";"Ženske";79
+" ";"Primorsko-notranjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";268
+" ";" ";" ";"Ženske";174
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";160
+" ";" ";" ";"Ženske";149
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";218
+" ";" ";" ";"Ženske";364
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";203
+" ";" ";" ";"Ženske";379
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";218
+" ";" ";" ";"Ženske";445
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";13
+" ";" ";" ";"Ženske";25
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";56
+" ";" ";" ";"Ženske";140
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";3
+" ";" ";" ";"Ženske";3
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";36
+" ";" ";" ";"Ženske";57
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";8
+" ";" ";" ";"Ženske";6
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";14
+" ";" ";" ";"Ženske";28
+" ";"Goriška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";523
+" ";" ";" ";"Ženske";361
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";498
+" ";" ";" ";"Ženske";328
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";577
+" ";" ";" ";"Ženske";699
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";561
+" ";" ";" ";"Ženske";975
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";580
+" ";" ";" ";"Ženske";1121
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";37
+" ";" ";" ";"Ženske";56
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";135
+" ";" ";" ";"Ženske";236
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";11
+" ";" ";" ";"Ženske";2
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";80
+" ";" ";" ";"Ženske";117
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";42
+" ";" ";" ";"Ženske";23
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";43
+" ";" ";" ";"Ženske";51
+" ";"Obalno-kraška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";254
+" ";" ";" ";"Ženske";250
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";284
+" ";" ";" ";"Ženske";258
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";524
+" ";" ";" ";"Ženske";626
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";481
+" ";" ";" ";"Ženske";765
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";402
+" ";" ";" ";"Ženske";756
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";22
+" ";" ";" ";"Ženske";66
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";154
+" ";" ";" ";"Ženske";232
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";6
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";85
+" ";" ";" ";"Ženske";135
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";35
+" ";" ";" ";"Ženske";39
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";50
+" ";" ";" ";"Ženske";70
+" ";"stalno bivališèe neznano ali v tujini"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";55
+" ";" ";" ";"Ženske";54
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";32
+" ";" ";" ";"Ženske";51
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";86
+" ";" ";" ";"Ženske";119
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";209
+" ";" ";" ";"Ženske";325
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";120
+" ";" ";" ";"Ženske";240
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";22
+" ";" ";" ";"Ženske";47
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";137
+" ";" ";" ";"Ženske";196
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";7
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";49
+" ";" ";" ";"Ženske";66
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";43
+" ";" ";" ";"Ženske";47
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";91
+" ";" ";" ";"Ženske";86
+"2010/11"
+" ";"SLOVENIJA"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";8490
+" ";" ";" ";"Ženske";7105
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";2539
+" ";" ";" ";"Ženske";3140
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";10337
+" ";" ";" ";"Ženske";14180
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";9742
+" ";" ";" ";"Ženske";17884
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";5358
+" ";" ";" ";"Ženske";12585
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";623
+" ";" ";" ";"Ženske";1851
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";3201
+" ";" ";" ";"Ženske";6035
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";26
+" ";" ";" ";"Ženske";53
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";563
+" ";" ";" ";"Ženske";494
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";1303
+" ";" ";" ";"Ženske";1625
+" ";"Pomurska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";474
+" ";" ";" ";"Ženske";408
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";113
+" ";" ";" ";"Ženske";191
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";581
+" ";" ";" ";"Ženske";691
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";518
+" ";" ";" ";"Ženske";812
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";280
+" ";" ";" ";"Ženske";687
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";26
+" ";" ";" ";"Ženske";88
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";164
+" ";" ";" ";"Ženske";227
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";4
+" ";" ";" ";"Ženske";3
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";21
+" ";" ";" ";"Ženske";22
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";46
+" ";" ";" ";"Ženske";58
+" ";"Podravska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1296
+" ";" ";" ";"Ženske";1250
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";280
+" ";" ";" ";"Ženske";404
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1457
+" ";" ";" ";"Ženske";1950
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1514
+" ";" ";" ";"Ženske";2310
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";680
+" ";" ";" ";"Ženske";1671
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";59
+" ";" ";" ";"Ženske";205
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";485
+" ";" ";" ";"Ženske";776
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";6
+" ";" ";" ";"Ženske";6
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";74
+" ";" ";" ";"Ženske";61
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";209
+" ";" ";" ";"Ženske";231
+" ";"Koroška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";383
+" ";" ";" ";"Ženske";337
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";83
+" ";" ";" ";"Ženske";141
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";427
+" ";" ";" ";"Ženske";482
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";382
+" ";" ";" ";"Ženske";587
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";193
+" ";" ";" ";"Ženske";506
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";23
+" ";" ";" ";"Ženske";67
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";98
+" ";" ";" ";"Ženske";217
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";3
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";18
+" ";" ";" ";"Ženske";11
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";44
+" ";" ";" ";"Ženske";42
+" ";"Savinjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1175
+" ";" ";" ";"Ženske";967
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";339
+" ";" ";" ";"Ženske";459
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1561
+" ";" ";" ";"Ženske";2219
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1171
+" ";" ";" ";"Ženske";2025
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";601
+" ";" ";" ";"Ženske";1550
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";67
+" ";" ";" ";"Ženske";194
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";378
+" ";" ";" ";"Ženske";851
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";8
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";59
+" ";" ";" ";"Ženske";40
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";101
+" ";" ";" ";"Ženske";157
+" ";"Zasavska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";200
+" ";" ";" ";"Ženske";156
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";60
+" ";" ";" ";"Ženske";67
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";192
+" ";" ";" ";"Ženske";270
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";155
+" ";" ";" ";"Ženske";379
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";82
+" ";" ";" ";"Ženske";255
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";2
+" ";" ";" ";"Ženske";36
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";54
+" ";" ";" ";"Ženske";134
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";2
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";9
+" ";" ";" ";"Ženske";6
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";23
+" ";" ";" ";"Ženske";22
+" ";"Posavska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";260
+" ";" ";" ";"Ženske";239
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";86
+" ";" ";" ";"Ženske";112
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";464
+" ";" ";" ";"Ženske";523
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";329
+" ";" ";" ";"Ženske";592
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";200
+" ";" ";" ";"Ženske";449
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";11
+" ";" ";" ";"Ženske";51
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";110
+" ";" ";" ";"Ženske";176
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";22
+" ";" ";" ";"Ženske";9
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";30
+" ";" ";" ";"Ženske";30
+" ";"Jugovzhodna Slovenija"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";708
+" ";" ";" ";"Ženske";541
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";272
+" ";" ";" ";"Ženske";285
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";809
+" ";" ";" ";"Ženske";1105
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";650
+" ";" ";" ";"Ženske";1347
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";382
+" ";" ";" ";"Ženske";937
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";34
+" ";" ";" ";"Ženske";133
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";202
+" ";" ";" ";"Ženske";409
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";2
+" ";" ";" ";"Ženske";1
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";24
+" ";" ";" ";"Ženske";30
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";56
+" ";" ";" ";"Ženske";80
+" ";"Osrednjeslovenska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1993
+" ";" ";" ";"Ženske";1707
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";612
+" ";" ";" ";"Ženske";705
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";2390
+" ";" ";" ";"Ženske";3601
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";2676
+" ";" ";" ";"Ženske";4967
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";1544
+" ";" ";" ";"Ženske";3385
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";226
+" ";" ";" ";"Ženske";534
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";860
+" ";" ";" ";"Ženske";1594
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";6
+" ";" ";" ";"Ženske";20
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";180
+" ";" ";" ";"Ženske";175
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";399
+" ";" ";" ";"Ženske";560
+" ";"Gorenjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1034
+" ";" ";" ";"Ženske";787
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";218
+" ";" ";" ";"Ženske";310
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";960
+" ";" ";" ";"Ženske";1447
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";900
+" ";" ";" ";"Ženske";1846
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";546
+" ";" ";" ";"Ženske";1230
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";61
+" ";" ";" ";"Ženske";213
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";284
+" ";" ";" ";"Ženske";567
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";4
+" ";" ";" ";"Ženske";8
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";54
+" ";" ";" ";"Ženske";40
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";108
+" ";" ";" ";"Ženske";103
+" ";"Primorsko-notranjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";236
+" ";" ";" ";"Ženske";169
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";79
+" ";" ";" ";"Ženske";84
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";221
+" ";" ";" ";"Ženske";364
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";191
+" ";" ";" ";"Ženske";465
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";153
+" ";" ";" ";"Ženske";335
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";8
+" ";" ";" ";"Ženske";46
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";67
+" ";" ";" ";"Ženske";188
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";9
+" ";" ";" ";"Ženske";15
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";19
+" ";" ";" ";"Ženske";36
+" ";"Goriška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";460
+" ";" ";" ";"Ženske";292
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";241
+" ";" ";" ";"Ženske";204
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";670
+" ";" ";" ";"Ženske";772
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";564
+" ";" ";" ";"Ženske";1247
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";371
+" ";" ";" ";"Ženske";813
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";44
+" ";" ";" ";"Ženske";123
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";180
+" ";" ";" ";"Ženske";350
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";1
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";35
+" ";" ";" ";"Ženske";21
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";58
+" ";" ";" ";"Ženske";78
+" ";"Obalno-kraška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";224
+" ";" ";" ";"Ženske";176
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";139
+" ";" ";" ";"Ženske";147
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";524
+" ";" ";" ";"Ženske";614
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";453
+" ";" ";" ";"Ženske";916
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";251
+" ";" ";" ";"Ženske";578
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";27
+" ";" ";" ";"Ženske";88
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";176
+" ";" ";" ";"Ženske";308
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";16
+" ";" ";" ";"Ženske";25
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";61
+" ";" ";" ";"Ženske";87
+" ";"stalno bivališèe neznano ali v tujini"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";47
+" ";" ";" ";"Ženske";76
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";17
+" ";" ";" ";"Ženske";31
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";81
+" ";" ";" ";"Ženske";142
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";239
+" ";" ";" ";"Ženske";391
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";75
+" ";" ";" ";"Ženske";189
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";35
+" ";" ";" ";"Ženske";73
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";143
+" ";" ";" ";"Ženske";238
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";1
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";42
+" ";" ";" ";"Ženske";39
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";149
+" ";" ";" ";"Ženske";141
+"2011/12"
+" ";"SLOVENIJA"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";8000
+" ";" ";" ";"Ženske";6403
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";1375
+" ";" ";" ";"Ženske";1346
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";11123
+" ";" ";" ";"Ženske";14251
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";11765
+" ";" ";" ";"Ženske";18094
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";4403
+" ";" ";" ";"Ženske";8065
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";1062
+" ";" ";" ";"Ženske";2149
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";4333
+" ";" ";" ";"Ženske";7535
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";1
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";318
+" ";" ";" ";"Ženske";327
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";1580
+" ";" ";" ";"Ženske";1873
+" ";"Pomurska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";462
+" ";" ";" ";"Ženske";364
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";62
+" ";" ";" ";"Ženske";84
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";599
+" ";" ";" ";"Ženske";746
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";618
+" ";" ";" ";"Ženske";888
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";236
+" ";" ";" ";"Ženske";443
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";47
+" ";" ";" ";"Ženske";101
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";210
+" ";" ";" ";"Ženske";347
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";14
+" ";" ";" ";"Ženske";17
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";62
+" ";" ";" ";"Ženske";72
+" ";"Podravska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1128
+" ";" ";" ";"Ženske";1031
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";132
+" ";" ";" ";"Ženske";181
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1525
+" ";" ";" ";"Ženske";2028
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1742
+" ";" ";" ";"Ženske";2474
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";485
+" ";" ";" ";"Ženske";1017
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";107
+" ";" ";" ";"Ženske";236
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";675
+" ";" ";" ";"Ženske";1041
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";50
+" ";" ";" ";"Ženske";39
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";239
+" ";" ";" ";"Ženske";235
+" ";"Koroška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";353
+" ";" ";" ";"Ženske";296
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";41
+" ";" ";" ";"Ženske";51
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";459
+" ";" ";" ";"Ženske";501
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";418
+" ";" ";" ";"Ženske";610
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";162
+" ";" ";" ";"Ženske";304
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";34
+" ";" ";" ";"Ženske";69
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";167
+" ";" ";" ";"Ženske";265
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";16
+" ";" ";" ";"Ženske";12
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";43
+" ";" ";" ";"Ženske";49
+" ";"Savinjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1113
+" ";" ";" ";"Ženske";887
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";170
+" ";" ";" ";"Ženske";198
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1675
+" ";" ";" ";"Ženske";2231
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1374
+" ";" ";" ";"Ženske";2048
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";461
+" ";" ";" ";"Ženske";971
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";127
+" ";" ";" ";"Ženske";221
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";528
+" ";" ";" ";"Ženske";973
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";1
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";26
+" ";" ";" ";"Ženske";26
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";141
+" ";" ";" ";"Ženske";187
+" ";"Zasavska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";210
+" ";" ";" ";"Ženske";154
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";34
+" ";" ";" ";"Ženske";26
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";231
+" ";" ";" ";"Ženske";292
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";208
+" ";" ";" ";"Ženske";384
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";79
+" ";" ";" ";"Ženske";170
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";9
+" ";" ";" ";"Ženske";35
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";78
+" ";" ";" ";"Ženske";171
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";6
+" ";" ";" ";"Ženske";3
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";24
+" ";" ";" ";"Ženske";21
+" ";"Posavska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";266
+" ";" ";" ";"Ženske";240
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";44
+" ";" ";" ";"Ženske";51
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";452
+" ";" ";" ";"Ženske";523
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";367
+" ";" ";" ";"Ženske";587
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";170
+" ";" ";" ";"Ženske";298
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";17
+" ";" ";" ";"Ženske";61
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";159
+" ";" ";" ";"Ženske";213
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";8
+" ";" ";" ";"Ženske";6
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";42
+" ";" ";" ";"Ženske";32
+" ";"Jugovzhodna Slovenija"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";700
+" ";" ";" ";"Ženske";501
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";143
+" ";" ";" ";"Ženske";132
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";946
+" ";" ";" ";"Ženske";1058
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";771
+" ";" ";" ";"Ženske";1325
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";326
+" ";" ";" ";"Ženske";607
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";70
+" ";" ";" ";"Ženske";146
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";287
+" ";" ";" ";"Ženske";511
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";18
+" ";" ";" ";"Ženske";21
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";73
+" ";" ";" ";"Ženske";94
+" ";"Osrednjeslovenska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1820
+" ";" ";" ";"Ženske";1518
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";366
+" ";" ";" ";"Ženske";272
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";2557
+" ";" ";" ";"Ženske";3409
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";3349
+" ";" ";" ";"Ženske";4858
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";1333
+" ";" ";" ";"Ženske";2256
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";365
+" ";" ";" ";"Ženske";629
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";1044
+" ";" ";" ";"Ženske";1931
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";95
+" ";" ";" ";"Ženske";104
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";461
+" ";" ";" ";"Ženske";598
+" ";"Gorenjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";999
+" ";" ";" ";"Ženske";735
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";124
+" ";" ";" ";"Ženske";135
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1034
+" ";" ";" ";"Ženske";1474
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1128
+" ";" ";" ";"Ženske";1866
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";484
+" ";" ";" ";"Ženske";786
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";106
+" ";" ";" ";"Ženske";254
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";395
+" ";" ";" ";"Ženske";704
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";28
+" ";" ";" ";"Ženske";31
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";133
+" ";" ";" ";"Ženske";111
+" ";"Primorsko-notranjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";230
+" ";" ";" ";"Ženske";150
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";42
+" ";" ";" ";"Ženske";35
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";264
+" ";" ";" ";"Ženske";394
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";231
+" ";" ";" ";"Ženske";479
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";121
+" ";" ";" ";"Ženske";228
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";23
+" ";" ";" ";"Ženske";55
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";93
+" ";" ";" ";"Ženske";207
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";6
+" ";" ";" ";"Ženske";10
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";28
+" ";" ";" ";"Ženske";50
+" ";"Goriška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";459
+" ";" ";" ";"Ženske";286
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";136
+" ";" ";" ";"Ženske";101
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";709
+" ";" ";" ";"Ženske";813
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";685
+" ";" ";" ";"Ženske";1258
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";299
+" ";" ";" ";"Ženske";505
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";70
+" ";" ";" ";"Ženske";152
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";262
+" ";" ";" ";"Ženske";475
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";14
+" ";" ";" ";"Ženske";11
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";77
+" ";" ";" ";"Ženske";106
+" ";"Obalno-kraška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";196
+" ";" ";" ";"Ženske";152
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";72
+" ";" ";" ";"Ženske";64
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";551
+" ";" ";" ";"Ženske";575
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";531
+" ";" ";" ";"Ženske";868
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";198
+" ";" ";" ";"Ženske";358
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";37
+" ";" ";" ";"Ženske";96
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";218
+" ";" ";" ";"Ženske";415
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";13
+" ";" ";" ";"Ženske";20
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";62
+" ";" ";" ";"Ženske";110
+" ";"stalno bivališèe neznano ali v tujini"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";64
+" ";" ";" ";"Ženske";89
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";9
+" ";" ";" ";"Ženske";16
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";121
+" ";" ";" ";"Ženske";207
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";343
+" ";" ";" ";"Ženske";449
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";49
+" ";" ";" ";"Ženske";122
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";50
+" ";" ";" ";"Ženske";94
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";217
+" ";" ";" ";"Ženske";282
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";24
+" ";" ";" ";"Ženske";27
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";195
+" ";" ";" ";"Ženske";208
+"2012/13"
+" ";"SLOVENIJA"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";7605
+" ";" ";" ";"Ženske";5801
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";241
+" ";" ";" ";"Ženske";221
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";11251
+" ";" ";" ";"Ženske";14547
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";11806
+" ";" ";" ";"Ženske";18759
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";2610
+" ";" ";" ";"Ženske";5010
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";1307
+" ";" ";" ";"Ženske";2547
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";5385
+" ";" ";" ";"Ženske";9181
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";2
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";70
+" ";" ";" ";"Ženske";104
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";1607
+" ";" ";" ";"Ženske";1823
+" ";"Pomurska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";436
+" ";" ";" ";"Ženske";334
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";18
+" ";" ";" ";"Ženske";20
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";562
+" ";" ";" ";"Ženske";792
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";610
+" ";" ";" ";"Ženske";920
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";151
+" ";" ";" ";"Ženske";287
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";66
+" ";" ";" ";"Ženske";129
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";258
+" ";" ";" ";"Ženske";442
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";1
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";4
+" ";" ";" ";"Ženske";7
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";49
+" ";" ";" ";"Ženske";61
+" ";"Podravska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1059
+" ";" ";" ";"Ženske";1001
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";33
+" ";" ";" ";"Ženske";33
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1489
+" ";" ";" ";"Ženske";2104
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1735
+" ";" ";" ";"Ženske";2512
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";307
+" ";" ";" ";"Ženske";647
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";144
+" ";" ";" ";"Ženske";285
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";863
+" ";" ";" ";"Ženske";1309
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";1
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";14
+" ";" ";" ";"Ženske";9
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";228
+" ";" ";" ";"Ženske";232
+" ";"Koroška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";319
+" ";" ";" ";"Ženske";234
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";13
+" ";" ";" ";"Ženske";10
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";445
+" ";" ";" ";"Ženske";499
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";407
+" ";" ";" ";"Ženske";633
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";98
+" ";" ";" ";"Ženske";178
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";42
+" ";" ";" ";"Ženske";83
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";213
+" ";" ";" ";"Ženske";304
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";3
+" ";" ";" ";"Ženske";5
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";36
+" ";" ";" ";"Ženske";46
+" ";"Savinjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1001
+" ";" ";" ";"Ženske";812
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";31
+" ";" ";" ";"Ženske";39
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1636
+" ";" ";" ";"Ženske";2203
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1358
+" ";" ";" ";"Ženske";2160
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";268
+" ";" ";" ";"Ženske";601
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";164
+" ";" ";" ";"Ženske";264
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";702
+" ";" ";" ";"Ženske";1167
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";8
+" ";" ";" ";"Ženske";3
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";147
+" ";" ";" ";"Ženske";167
+" ";"Zasavska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";183
+" ";" ";" ";"Ženske";127
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";4
+" ";" ";" ";"Ženske";4
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";224
+" ";" ";" ";"Ženske";316
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";216
+" ";" ";" ";"Ženske";364
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";58
+" ";" ";" ";"Ženske";97
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";13
+" ";" ";" ";"Ženske";40
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";75
+" ";" ";" ";"Ženske";169
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";1
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";20
+" ";" ";" ";"Ženske";16
+" ";"Posavska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";239
+" ";" ";" ";"Ženske";214
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";8
+" ";" ";" ";"Ženske";9
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";456
+" ";" ";" ";"Ženske";521
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";359
+" ";" ";" ";"Ženske";609
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";99
+" ";" ";" ";"Ženske";179
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";22
+" ";" ";" ";"Ženske";65
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";196
+" ";" ";" ";"Ženske";287
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";2
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";38
+" ";" ";" ";"Ženske";35
+" ";"Jugovzhodna Slovenija"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";686
+" ";" ";" ";"Ženske";445
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";22
+" ";" ";" ";"Ženske";14
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1017
+" ";" ";" ";"Ženske";1137
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";764
+" ";" ";" ";"Ženske";1377
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";189
+" ";" ";" ";"Ženske";380
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";95
+" ";" ";" ";"Ženske";171
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";354
+" ";" ";" ";"Ženske";606
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";3
+" ";" ";" ";"Ženske";5
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";76
+" ";" ";" ";"Ženske";89
+" ";"Osrednjeslovenska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1841
+" ";" ";" ";"Ženske";1365
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";47
+" ";" ";" ";"Ženske";35
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";2668
+" ";" ";" ";"Ženske";3487
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";3401
+" ";" ";" ";"Ženske";5052
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";814
+" ";" ";" ";"Ženske";1456
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";428
+" ";" ";" ";"Ženske";773
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";1286
+" ";" ";" ";"Ženske";2355
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";21
+" ";" ";" ";"Ženske";42
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";553
+" ";" ";" ";"Ženske";662
+" ";"Gorenjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";942
+" ";" ";" ";"Ženske";657
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";18
+" ";" ";" ";"Ženske";26
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1016
+" ";" ";" ";"Ženske";1440
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1153
+" ";" ";" ";"Ženske";1881
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";267
+" ";" ";" ";"Ženske";468
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";128
+" ";" ";" ";"Ženske";283
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";469
+" ";" ";" ";"Ženske";856
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";4
+" ";" ";" ";"Ženske";9
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";144
+" ";" ";" ";"Ženske";110
+" ";"Primorsko-notranjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";191
+" ";" ";" ";"Ženske";138
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";5
+" ";" ";" ";"Ženske";5
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";268
+" ";" ";" ";"Ženske";425
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";215
+" ";" ";" ";"Ženske";467
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";69
+" ";" ";" ";"Ženske";119
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";20
+" ";" ";" ";"Ženske";53
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";123
+" ";" ";" ";"Ženske";248
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";1
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";27
+" ";" ";" ";"Ženske";54
+" ";"Goriška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";442
+" ";" ";" ";"Ženske";241
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";28
+" ";" ";" ";"Ženske";12
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";744
+" ";" ";" ";"Ženske";827
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";683
+" ";" ";" ";"Ženske";1319
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";142
+" ";" ";" ";"Ženske";316
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";75
+" ";" ";" ";"Ženske";175
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";323
+" ";" ";" ";"Ženske";549
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";2
+" ";" ";" ";"Ženske";5
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";98
+" ";" ";" ";"Ženske";102
+" ";"Obalno-kraška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";214
+" ";" ";" ";"Ženske";167
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";12
+" ";" ";" ";"Ženske";11
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";534
+" ";" ";" ";"Ženske";577
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";566
+" ";" ";" ";"Ženske";926
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";119
+" ";" ";" ";"Ženske";208
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";53
+" ";" ";" ";"Ženske";114
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";249
+" ";" ";" ";"Ženske";509
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";7
+" ";" ";" ";"Ženske";9
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";62
+" ";" ";" ";"Ženske";113
+" ";"stalno bivališèe neznano ali v tujini"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";52
+" ";" ";" ";"Ženske";66
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";2
+" ";" ";" ";"Ženske";3
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";192
+" ";" ";" ";"Ženske";219
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";339
+" ";" ";" ";"Ženske";539
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";29
+" ";" ";" ";"Ženske";74
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";57
+" ";" ";" ";"Ženske";112
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";274
+" ";" ";" ";"Ženske";380
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";3
+" ";" ";" ";"Ženske";6
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";129
+" ";" ";" ";"Ženske";136
+"2013/14"
+" ";"SLOVENIJA"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";7306
+" ";" ";" ";"Ženske";5945
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";31
+" ";" ";" ";"Ženske";14
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";10424
+" ";" ";" ";"Ženske";13490
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";11201
+" ";" ";" ";"Ženske";17859
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";890
+" ";" ";" ";"Ženske";1796
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";1440
+" ";" ";" ";"Ženske";2959
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";5948
+" ";" ";" ";"Ženske";10450
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";3
+" ";" ";" ";"Ženske";4
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";1419
+" ";" ";" ";"Ženske";1589
+" ";"Pomurska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";387
+" ";" ";" ";"Ženske";310
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";3
+" ";" ";" ";"Ženske";2
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";487
+" ";" ";" ";"Ženske";701
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";557
+" ";" ";" ";"Ženske";902
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";55
+" ";" ";" ";"Ženske";99
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";80
+" ";" ";" ";"Ženske";153
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";278
+" ";" ";" ";"Ženske";512
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";62
+" ";" ";" ";"Ženske";52
+" ";"Podravska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1006
+" ";" ";" ";"Ženske";1026
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";3
+" ";" ";" ";"Ženske";2
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1399
+" ";" ";" ";"Ženske";1954
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1677
+" ";" ";" ";"Ženske";2369
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";130
+" ";" ";" ";"Ženske";244
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";165
+" ";" ";" ";"Ženske";322
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";884
+" ";" ";" ";"Ženske";1512
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";1
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";186
+" ";" ";" ";"Ženske";186
+" ";"Koroška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";295
+" ";" ";" ";"Ženske";265
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";419
+" ";" ";" ";"Ženske";443
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";404
+" ";" ";" ";"Ženske";598
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";34
+" ";" ";" ";"Ženske";67
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";49
+" ";" ";" ";"Ženske";100
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";237
+" ";" ";" ";"Ženske";373
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";26
+" ";" ";" ";"Ženske";41
+" ";"Savinjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";983
+" ";" ";" ";"Ženske";877
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";2
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1550
+" ";" ";" ";"Ženske";2007
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1279
+" ";" ";" ";"Ženske";2055
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";88
+" ";" ";" ";"Ženske";244
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";184
+" ";" ";" ";"Ženske";325
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";740
+" ";" ";" ";"Ženske";1363
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";130
+" ";" ";" ";"Ženske";132
+" ";"Zasavska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";146
+" ";" ";" ";"Ženske";104
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";2
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";221
+" ";" ";" ";"Ženske";281
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";201
+" ";" ";" ";"Ženske";334
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";24
+" ";" ";" ";"Ženske";31
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";12
+" ";" ";" ";"Ženske";43
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";87
+" ";" ";" ";"Ženske";214
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";17
+" ";" ";" ";"Ženske";14
+" ";"Posavska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";224
+" ";" ";" ";"Ženske";210
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";401
+" ";" ";" ";"Ženske";476
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";345
+" ";" ";" ";"Ženske";583
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";33
+" ";" ";" ";"Ženske";58
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";25
+" ";" ";" ";"Ženske";75
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";232
+" ";" ";" ";"Ženske";336
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";36
+" ";" ";" ";"Ženske";33
+" ";"Jugovzhodna Slovenija"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";655
+" ";" ";" ";"Ženske";439
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";6
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";927
+" ";" ";" ";"Ženske";1054
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";697
+" ";" ";" ";"Ženske";1307
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";66
+" ";" ";" ";"Ženske";134
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";97
+" ";" ";" ";"Ženske";202
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";390
+" ";" ";" ";"Ženske";731
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";68
+" ";" ";" ";"Ženske";79
+" ";"Osrednjeslovenska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1735
+" ";" ";" ";"Ženske";1337
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";7
+" ";" ";" ";"Ženske";3
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";2476
+" ";" ";" ";"Ženske";3321
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";3274
+" ";" ";" ";"Ženske";4903
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";275
+" ";" ";" ";"Ženske";543
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";473
+" ";" ";" ";"Ženske";898
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";1479
+" ";" ";" ";"Ženske";2614
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";3
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";484
+" ";" ";" ";"Ženske";584
+" ";"Gorenjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";967
+" ";" ";" ";"Ženske";755
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";3
+" ";" ";" ";"Ženske";4
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";935
+" ";" ";" ";"Ženske";1350
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1048
+" ";" ";" ";"Ženske";1764
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";81
+" ";" ";" ";"Ženske";148
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";141
+" ";" ";" ";"Ženske";325
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";525
+" ";" ";" ";"Ženske";899
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";126
+" ";" ";" ";"Ženske";101
+" ";"Primorsko-notranjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";201
+" ";" ";" ";"Ženske";146
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";1
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";282
+" ";" ";" ";"Ženske";369
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";207
+" ";" ";" ";"Ženske";435
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";19
+" ";" ";" ";"Ženske";39
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";22
+" ";" ";" ";"Ženske";68
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";121
+" ";" ";" ";"Ženske";260
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";24
+" ";" ";" ";"Ženske";42
+" ";"Goriška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";459
+" ";" ";" ";"Ženske";267
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";676
+" ";" ";" ";"Ženske";798
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";639
+" ";" ";" ";"Ženske";1273
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";46
+" ";" ";" ";"Ženske";93
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";76
+" ";" ";" ";"Ženske";201
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";380
+" ";" ";" ";"Ženske";645
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";84
+" ";" ";" ";"Ženske";101
+" ";"Obalno-kraška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";178
+" ";" ";" ";"Ženske";158
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";3
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";486
+" ";" ";" ";"Ženske";533
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";532
+" ";" ";" ";"Ženske";832
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";35
+" ";" ";" ";"Ženske";68
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";52
+" ";" ";" ";"Ženske";126
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";286
+" ";" ";" ";"Ženske";566
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";56
+" ";" ";" ";"Ženske";97
+" ";"stalno bivališèe neznano ali v tujini"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";70
+" ";" ";" ";"Ženske";51
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";165
+" ";" ";" ";"Ženske";203
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";341
+" ";" ";" ";"Ženske";504
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";4
+" ";" ";" ";"Ženske";28
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";64
+" ";" ";" ";"Ženske";121
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";309
+" ";" ";" ";"Ženske";425
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";120
+" ";" ";" ";"Ženske";127
+"2014/15"
+" ";"SLOVENIJA"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";6565
+" ";" ";" ";"Ženske";4920
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";1
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";9564
+" ";" ";" ";"Ženske";12184
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";10474
+" ";" ";" ";"Ženske";16670
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";180
+" ";" ";" ";"Ženske";318
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";1511
+" ";" ";" ";"Ženske";3193
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";6301
+" ";" ";" ";"Ženske";11091
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";1215
+" ";" ";" ";"Ženske";1429
+" ";"Pomurska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";314
+" ";" ";" ";"Ženske";284
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";424
+" ";" ";" ";"Ženske";637
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";534
+" ";" ";" ";"Ženske";839
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";12
+" ";" ";" ";"Ženske";18
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";81
+" ";" ";" ";"Ženske";172
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";303
+" ";" ";" ";"Ženske";521
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";50
+" ";" ";" ";"Ženske";41
+" ";"Podravska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";933
+" ";" ";" ";"Ženske";906
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1358
+" ";" ";" ";"Ženske";1744
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1497
+" ";" ";" ";"Ženske";2172
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";24
+" ";" ";" ";"Ženske";37
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";180
+" ";" ";" ";"Ženske";355
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";935
+" ";" ";" ";"Ženske";1550
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";160
+" ";" ";" ";"Ženske";171
+" ";"Koroška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";284
+" ";" ";" ";"Ženske";206
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";363
+" ";" ";" ";"Ženske";402
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";333
+" ";" ";" ";"Ženske";585
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";4
+" ";" ";" ";"Ženske";16
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";60
+" ";" ";" ";"Ženske";110
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";239
+" ";" ";" ";"Ženske";376
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";28
+" ";" ";" ";"Ženske";31
+" ";"Savinjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";874
+" ";" ";" ";"Ženske";690
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1376
+" ";" ";" ";"Ženske";1767
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1168
+" ";" ";" ";"Ženske";1878
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";20
+" ";" ";" ";"Ženske";33
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";189
+" ";" ";" ";"Ženske";353
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";732
+" ";" ";" ";"Ženske";1411
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";101
+" ";" ";" ";"Ženske";108
+" ";"Zasavska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";192
+" ";" ";" ";"Ženske";129
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";280
+" ";" ";" ";"Ženske";329
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";242
+" ";" ";" ";"Ženske";419
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";6
+" ";" ";" ";"Ženske";6
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";23
+" ";" ";" ";"Ženske";66
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";140
+" ";" ";" ";"Ženske";300
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";24
+" ";" ";" ";"Ženske";19
+" ";"Posavska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";265
+" ";" ";" ";"Ženske";182
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";408
+" ";" ";" ";"Ženske";454
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";334
+" ";" ";" ";"Ženske";606
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";5
+" ";" ";" ";"Ženske";9
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";29
+" ";" ";" ";"Ženske";91
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";238
+" ";" ";" ";"Ženske";394
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";33
+" ";" ";" ";"Ženske";36
+" ";"Jugovzhodna Slovenija"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";563
+" ";" ";" ";"Ženske";379
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";804
+" ";" ";" ";"Ženske";953
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";643
+" ";" ";" ";"Ženske";1197
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";11
+" ";" ";" ";"Ženske";23
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";104
+" ";" ";" ";"Ženske";207
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";441
+" ";" ";" ";"Ženske";769
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";52
+" ";" ";" ";"Ženske";60
+" ";"Osrednjeslovenska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1511
+" ";" ";" ";"Ženske";1048
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";1
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";2216
+" ";" ";" ";"Ženske";2953
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";3042
+" ";" ";" ";"Ženske";4510
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";66
+" ";" ";" ";"Ženske";107
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";474
+" ";" ";" ";"Ženske";940
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";1605
+" ";" ";" ";"Ženske";2799
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";404
+" ";" ";" ";"Ženske";546
+" ";"Gorenjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";861
+" ";" ";" ";"Ženske";656
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";889
+" ";" ";" ";"Ženske";1218
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";978
+" ";" ";" ";"Ženske";1651
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";11
+" ";" ";" ";"Ženske";26
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";143
+" ";" ";" ";"Ženske";346
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";566
+" ";" ";" ";"Ženske";991
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";103
+" ";" ";" ";"Ženske";91
+" ";"Primorsko-notranjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";165
+" ";" ";" ";"Ženske";95
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";251
+" ";" ";" ";"Ženske";343
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";185
+" ";" ";" ";"Ženske";419
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";2
+" ";" ";" ";"Ženske";6
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";24
+" ";" ";" ";"Ženske";64
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";125
+" ";" ";" ";"Ženske";295
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";22
+" ";" ";" ";"Ženske";47
+" ";"Goriška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";379
+" ";" ";" ";"Ženske";182
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";613
+" ";" ";" ";"Ženske";713
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";645
+" ";" ";" ";"Ženske";1151
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";11
+" ";" ";" ";"Ženske";16
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";82
+" ";" ";" ";"Ženske";209
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";384
+" ";" ";" ";"Ženske";719
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";72
+" ";" ";" ";"Ženske";85
+" ";"Obalno-kraška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";161
+" ";" ";" ";"Ženske";124
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";467
+" ";" ";" ";"Ženske";508
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";531
+" ";" ";" ";"Ženske";762
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";6
+" ";" ";" ";"Ženske";15
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";52
+" ";" ";" ";"Ženske";130
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";297
+" ";" ";" ";"Ženske";564
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";44
+" ";" ";" ";"Ženske";91
+" ";"stalno bivališèe neznano ali v tujini"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";63
+" ";" ";" ";"Ženske";39
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";115
+" ";" ";" ";"Ženske";163
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";342
+" ";" ";" ";"Ženske";481
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";2
+" ";" ";" ";"Ženske";6
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";70
+" ";" ";" ";"Ženske";150
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";296
+" ";" ";" ";"Ženske";402
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";122
+" ";" ";" ";"Ženske";103
+"2015/16"
+" ";"SLOVENIJA"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";6556
+" ";" ";" ";"Ženske";4606
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";1
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";8973
+" ";" ";" ";"Ženske";11405
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";9713
+" ";" ";" ";"Ženske";15200
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";10
+" ";" ";" ";"Ženske";28
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";1510
+" ";" ";" ";"Ženske";3284
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";6379
+" ";" ";" ";"Ženske";10802
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";1095
+" ";" ";" ";"Ženske";1236
+" ";"Pomurska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";325
+" ";" ";" ";"Ženske";257
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";372
+" ";" ";" ";"Ženske";572
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";448
+" ";" ";" ";"Ženske";741
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";80
+" ";" ";" ";"Ženske";176
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";305
+" ";" ";" ";"Ženske";531
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";47
+" ";" ";" ";"Ženske";34
+" ";"Podravska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";980
+" ";" ";" ";"Ženske";869
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1213
+" ";" ";" ";"Ženske";1596
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1399
+" ";" ";" ";"Ženske";1951
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";3
+" ";" ";" ";"Ženske";5
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";182
+" ";" ";" ";"Ženske";372
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";894
+" ";" ";" ";"Ženske";1442
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";126
+" ";" ";" ";"Ženske";146
+" ";"Koroška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";269
+" ";" ";" ";"Ženske";185
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";314
+" ";" ";" ";"Ženske";364
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";339
+" ";" ";" ";"Ženske";501
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";38
+" ";" ";" ";"Ženske";102
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";244
+" ";" ";" ";"Ženske";362
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";26
+" ";" ";" ";"Ženske";20
+" ";"Savinjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";838
+" ";" ";" ";"Ženske";638
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1272
+" ";" ";" ";"Ženske";1695
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1043
+" ";" ";" ";"Ženske";1707
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";3
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";187
+" ";" ";" ";"Ženske";367
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";752
+" ";" ";" ";"Ženske";1310
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";79
+" ";" ";" ";"Ženske";111
+" ";"Zasavska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";203
+" ";" ";" ";"Ženske";115
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";245
+" ";" ";" ";"Ženske";322
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";228
+" ";" ";" ";"Ženske";367
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";28
+" ";" ";" ";"Ženske";65
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";152
+" ";" ";" ";"Ženske";298
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";16
+" ";" ";" ";"Ženske";21
+" ";"Posavska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";235
+" ";" ";" ";"Ženske";179
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";372
+" ";" ";" ";"Ženske";431
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";310
+" ";" ";" ";"Ženske";532
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";3
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";32
+" ";" ";" ";"Ženske";87
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";244
+" ";" ";" ";"Ženske";414
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";29
+" ";" ";" ";"Ženske";32
+" ";"Jugovzhodna Slovenija"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";567
+" ";" ";" ";"Ženske";342
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";735
+" ";" ";" ";"Ženske";848
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";585
+" ";" ";" ";"Ženske";1064
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";2
+" ";" ";" ";"Ženske";3
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";109
+" ";" ";" ";"Ženske";217
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";446
+" ";" ";" ";"Ženske";765
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";54
+" ";" ";" ";"Ženske";61
+" ";"Osrednjeslovenska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1548
+" ";" ";" ";"Ženske";1002
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";1
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";2103
+" ";" ";" ";"Ženske";2742
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";2780
+" ";" ";" ";"Ženske";4127
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";8
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";493
+" ";" ";" ";"Ženske";974
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";1663
+" ";" ";" ";"Ženske";2768
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";373
+" ";" ";" ";"Ženske";471
+" ";"Gorenjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";822
+" ";" ";" ";"Ženske";592
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";875
+" ";" ";" ";"Ženske";1144
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";927
+" ";" ";" ";"Ženske";1504
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";3
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";132
+" ";" ";" ";"Ženske";351
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";532
+" ";" ";" ";"Ženske";968
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";94
+" ";" ";" ";"Ženske";93
+" ";"Primorsko-notranjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";157
+" ";" ";" ";"Ženske";80
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";283
+" ";" ";" ";"Ženske";322
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";173
+" ";" ";" ";"Ženske";379
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";18
+" ";" ";" ";"Ženske";67
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";126
+" ";" ";" ";"Ženske";257
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";20
+" ";" ";" ";"Ženske";36
+" ";"Goriška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";351
+" ";" ";" ";"Ženske";174
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";566
+" ";" ";" ";"Ženske";683
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";601
+" ";" ";" ";"Ženske";1059
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";1
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";75
+" ";" ";" ";"Ženske";214
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";397
+" ";" ";" ";"Ženske";715
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";63
+" ";" ";" ";"Ženske";56
+" ";"Obalno-kraška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";168
+" ";" ";" ";"Ženske";110
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";452
+" ";" ";" ";"Ženske";505
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";490
+" ";" ";" ";"Ženske";744
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";1
+" ";" ";" ";"Ženske";1
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";60
+" ";" ";" ";"Ženske";132
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";289
+" ";" ";" ";"Ženske";518
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";39
+" ";" ";" ";"Ženske";57
+" ";"stalno bivališèe neznano ali v tujini"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";93
+" ";" ";" ";"Ženske";63
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";171
+" ";" ";" ";"Ženske";181
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";390
+" ";" ";" ";"Ženske";524
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";1
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";76
+" ";" ";" ";"Ženske";160
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";335
+" ";" ";" ";"Ženske";454
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";129
+" ";" ";" ";"Ženske";98
+"2016/17"
+" ";"SLOVENIJA"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";6536
+" ";" ";" ";"Ženske";4465
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";8735
+" ";" ";" ";"Ženske";11227
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";9412
+" ";" ";" ";"Ženske";14750
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";1521
+" ";" ";" ";"Ženske";3249
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";6403
+" ";" ";" ";"Ženske";10691
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";1191
+" ";" ";" ";"Ženske";1367
+" ";"Pomurska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";317
+" ";" ";" ";"Ženske";247
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";387
+" ";" ";" ";"Ženske";595
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";415
+" ";" ";" ";"Ženske";723
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";76
+" ";" ";" ";"Ženske";174
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";271
+" ";" ";" ";"Ženske";509
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";41
+" ";" ";" ";"Ženske";40
+" ";"Podravska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";920
+" ";" ";" ";"Ženske";843
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1195
+" ";" ";" ";"Ženske";1602
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1355
+" ";" ";" ";"Ženske";1847
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";184
+" ";" ";" ";"Ženske";366
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";839
+" ";" ";" ";"Ženske";1406
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";157
+" ";" ";" ";"Ženske";175
+" ";"Koroška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";262
+" ";" ";" ";"Ženske";156
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";314
+" ";" ";" ";"Ženske";359
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";311
+" ";" ";" ";"Ženske";466
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";48
+" ";" ";" ";"Ženske";107
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";239
+" ";" ";" ";"Ženske";347
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";30
+" ";" ";" ";"Ženske";20
+" ";"Savinjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";857
+" ";" ";" ";"Ženske";572
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1241
+" ";" ";" ";"Ženske";1566
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";964
+" ";" ";" ";"Ženske";1699
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";188
+" ";" ";" ";"Ženske";368
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";727
+" ";" ";" ";"Ženske";1284
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";92
+" ";" ";" ";"Ženske";115
+" ";"Zasavska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";224
+" ";" ";" ";"Ženske";120
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";243
+" ";" ";" ";"Ženske";344
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";210
+" ";" ";" ";"Ženske";350
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";35
+" ";" ";" ";"Ženske";56
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";162
+" ";" ";" ";"Ženske";278
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";21
+" ";" ";" ";"Ženske";26
+" ";"Posavska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";242
+" ";" ";" ";"Ženske";166
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";340
+" ";" ";" ";"Ženske";463
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";293
+" ";" ";" ";"Ženske";501
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";34
+" ";" ";" ";"Ženske";81
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";244
+" ";" ";" ";"Ženske";402
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";34
+" ";" ";" ";"Ženske";31
+" ";"Jugovzhodna Slovenija"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";510
+" ";" ";" ";"Ženske";322
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";673
+" ";" ";" ";"Ženske";748
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";553
+" ";" ";" ";"Ženske";998
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";104
+" ";" ";" ";"Ženske";230
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";439
+" ";" ";" ";"Ženske";775
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";59
+" ";" ";" ";"Ženske";67
+" ";"Osrednjeslovenska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1549
+" ";" ";" ";"Ženske";1020
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";2105
+" ";" ";" ";"Ženske";2741
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";2736
+" ";" ";" ";"Ženske";4016
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";486
+" ";" ";" ";"Ženske";957
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";1740
+" ";" ";" ";"Ženske";2773
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";385
+" ";" ";" ";"Ženske";543
+" ";"Gorenjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";825
+" ";" ";" ";"Ženske";570
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";799
+" ";" ";" ";"Ženske";1073
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";904
+" ";" ";" ";"Ženske";1484
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";128
+" ";" ";" ";"Ženske";346
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";548
+" ";" ";" ";"Ženske";951
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";115
+" ";" ";" ";"Ženske";96
+" ";"Primorsko-notranjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";164
+" ";" ";" ";"Ženske";93
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";235
+" ";" ";" ";"Ženske";299
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";187
+" ";" ";" ";"Ženske";361
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";25
+" ";" ";" ";"Ženske";67
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";136
+" ";" ";" ";"Ženske";250
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";22
+" ";" ";" ";"Ženske";30
+" ";"Goriška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";333
+" ";" ";" ";"Ženske";163
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";545
+" ";" ";" ";"Ženske";691
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";602
+" ";" ";" ";"Ženske";1016
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";70
+" ";" ";" ";"Ženske";199
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";371
+" ";" ";" ";"Ženske";700
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";59
+" ";" ";" ";"Ženske";61
+" ";"Obalno-kraška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";181
+" ";" ";" ";"Ženske";106
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";435
+" ";" ";" ";"Ženske";534
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";435
+" ";" ";" ";"Ženske";695
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";61
+" ";" ";" ";"Ženske";119
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";311
+" ";" ";" ";"Ženske";506
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";50
+" ";" ";" ";"Ženske";61
+" ";"stalno bivališèe neznano ali v tujini"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";152
+" ";" ";" ";"Ženske";87
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";223
+" ";" ";" ";"Ženske";212
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";447
+" ";" ";" ";"Ženske";594
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";82
+" ";" ";" ";"Ženske";179
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";376
+" ";" ";" ";"Ženske";510
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";126
+" ";" ";" ";"Ženske";102
+"2017/18"
+" ";"SLOVENIJA"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";6219
+" ";" ";" ";"Ženske";4134
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";8409
+" ";" ";" ";"Ženske";10922
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";8803
+" ";" ";" ";"Ženske";13706
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";1440
+" ";" ";" ";"Ženske";3247
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";6315
+" ";" ";" ";"Ženske";10515
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";1304
+" ";" ";" ";"Ženske";1520
+" ";"Pomurska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";318
+" ";" ";" ";"Ženske";212
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";383
+" ";" ";" ";"Ženske";594
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";375
+" ";" ";" ";"Ženske";633
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";69
+" ";" ";" ";"Ženske";173
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";267
+" ";" ";" ";"Ženske";477
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";52
+" ";" ";" ";"Ženske";50
+" ";"Podravska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";909
+" ";" ";" ";"Ženske";770
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1094
+" ";" ";" ";"Ženske";1539
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1226
+" ";" ";" ";"Ženske";1716
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";195
+" ";" ";" ";"Ženske";364
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";840
+" ";" ";" ";"Ženske";1372
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";179
+" ";" ";" ";"Ženske";176
+" ";"Koroška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";255
+" ";" ";" ";"Ženske";140
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";287
+" ";" ";" ";"Ženske";399
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";301
+" ";" ";" ";"Ženske";441
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";46
+" ";" ";" ";"Ženske";104
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";214
+" ";" ";" ";"Ženske";335
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";32
+" ";" ";" ";"Ženske";29
+" ";"Savinjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";810
+" ";" ";" ";"Ženske";510
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";1152
+" ";" ";" ";"Ženske";1518
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";921
+" ";" ";" ";"Ženske";1546
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";164
+" ";" ";" ";"Ženske";374
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";719
+" ";" ";" ";"Ženske";1251
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";101
+" ";" ";" ";"Ženske";127
+" ";"Zasavska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";201
+" ";" ";" ";"Ženske";102
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";255
+" ";" ";" ";"Ženske";335
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";184
+" ";" ";" ";"Ženske";345
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";32
+" ";" ";" ";"Ženske";58
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";145
+" ";" ";" ";"Ženske";271
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";24
+" ";" ";" ";"Ženske";28
+" ";"Posavska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";234
+" ";" ";" ";"Ženske";153
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";312
+" ";" ";" ";"Ženske";409
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";279
+" ";" ";" ";"Ženske";452
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";32
+" ";" ";" ";"Ženske";83
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";217
+" ";" ";" ";"Ženske";349
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";33
+" ";" ";" ";"Ženske";37
+" ";"Jugovzhodna Slovenija"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";492
+" ";" ";" ";"Ženske";323
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";584
+" ";" ";" ";"Ženske";711
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";514
+" ";" ";" ";"Ženske";925
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";93
+" ";" ";" ";"Ženske";245
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";416
+" ";" ";" ";"Ženske";756
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";69
+" ";" ";" ";"Ženske";57
+" ";"Osrednjeslovenska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";1416
+" ";" ";" ";"Ženske";988
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";2108
+" ";" ";" ";"Ženske";2676
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";2528
+" ";" ";" ";"Ženske";3733
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";450
+" ";" ";" ";"Ženske";965
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";1762
+" ";" ";" ";"Ženske";2782
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";416
+" ";" ";" ";"Ženske";622
+" ";"Gorenjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";745
+" ";" ";" ";"Ženske";491
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";810
+" ";" ";" ";"Ženske";1038
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";842
+" ";" ";" ";"Ženske";1379
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";127
+" ";" ";" ";"Ženske";322
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";524
+" ";" ";" ";"Ženske";901
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";119
+" ";" ";" ";"Ženske";115
+" ";"Primorsko-notranjska"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";153
+" ";" ";" ";"Ženske";97
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";244
+" ";" ";" ";"Ženske";302
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";172
+" ";" ";" ";"Ženske";312
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";21
+" ";" ";" ";"Ženske";60
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";129
+" ";" ";" ";"Ženske";254
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";15
+" ";" ";" ";"Ženske";20
+" ";"Goriška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";344
+" ";" ";" ";"Ženske";141
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";543
+" ";" ";" ";"Ženske";646
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";548
+" ";" ";" ";"Ženske";935
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";69
+" ";" ";" ";"Ženske";205
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";368
+" ";" ";" ";"Ženske";693
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";69
+" ";" ";" ";"Ženske";73
+" ";"Obalno-kraška"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";198
+" ";" ";" ";"Ženske";99
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";412
+" ";" ";" ";"Ženske";521
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";406
+" ";" ";" ";"Ženske";642
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";61
+" ";" ";" ";"Ženske";109
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";297
+" ";" ";" ";"Ženske";478
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";50
+" ";" ";" ";"Ženske";54
+" ";"stalno bivališèe neznano ali v tujini"
+" ";" ";"Višje strokovno"
+" ";" ";" ";"Moški";144
+" ";" ";" ";"Ženske";108
+" ";" ";"Visokošolsko strokovno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Visokošolsko strokovno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";225
+" ";" ";" ";"Ženske";234
+" ";" ";"Visokošolsko univerzitetno (1. bolonjska stopnja)"
+" ";" ";" ";"Moški";507
+" ";" ";" ";"Ženske";647
+" ";" ";"Visokošolsko univerzitetno (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (2. bolonjska stopnja) - enovito magistrsko"
+" ";" ";" ";"Moški";81
+" ";" ";" ";"Ženske";185
+" ";" ";"Magistrsko (2. bolonjska stopnja) - po konèani 1. bolonjski stopnji"
+" ";" ";" ";"Moški";417
+" ";" ";" ";"Ženske";596
+" ";" ";"Specialistièno"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Magistrsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (prejšnje)"
+" ";" ";" ";"Moški";-
+" ";" ";" ";"Ženske";-
+" ";" ";"Doktorsko (3. bolonjska stopnja)"
+" ";" ";" ";"Moški";145
+" ";" ";" ";"Ženske";132
+
+"Vir: Statistièni urad Republike Slovenije. "
+"Podatki o vpisu študentov se zajemajo po stanju 15.10. in se za "
+"doloèeno izkazano leto (npr. 2009) nanašajo na tekoèe študijsko leto "
+"(npr. 2009/10)."
+
+"Povezane vsebine: "
+"- (seznam "
+"HREF=http://www.stat.si/StatWeb/Common/PrikaziDokument.ashx?IdDatotek-"
+"e=7784 target=_blank) Metodološka pojasnila "
+" "
+
+"Podatki so teritorialno razvršèeni po Klasifikaciji statistiènih "
+"teritorialnih enot v Evropski uniji (The Classification  of "
+"Territorial Units for Statistics) – NUTS ((seznam "
+"HREF=../database/Meta/Klas/NUTS.htm TARGET=_blank) opis in "
+"pojasnila), raven NUTS 3. "
+"Opombe o spremembah posameznih regij so zapisane k vsaki spremenjeni "
+"regiji in so ob izpisu tabele na zaslon dostopne s klikom na ikono za "
+"opombe (zvezdica). V opombah je na zaèetku naveden datum, s katerim "
+"je opisana teritorialna sprememba upoštevana pri teritorialnem "
+"razvršèanju enot za statistiène namene.  "
+" "
+
+"Podatki vkljuèujejo specialistièni povisokošolski študij in "
+"specialistièni pouniverzitetni študij."
+

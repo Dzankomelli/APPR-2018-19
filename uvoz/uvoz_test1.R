@@ -62,8 +62,7 @@ terciarno <- read.csv2(file = 'podatki/terciarno.csv', skip = 2, header = FALSE,
                        col.names = c('Leto', 'Regija', 'Vrsta', 'Spol', 'Stevilo'))
 
 terciarno <- terciarno %>% fill(1:3)%>% filter(complete.cases(.))
-#terciarno <- terciarno %>% spread(Vrsta, Stevilo)
-#Ce bom hotel narediti pregledno uporabim zgornji ukaz
+
 
 #7. tabela
 bruto <- read.csv2(file = 'podatki/bruto_proizvod.csv', skip = 0, header = FALSE,

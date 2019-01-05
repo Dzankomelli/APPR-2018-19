@@ -43,6 +43,7 @@ vrtec <- read.csv2(file = 'podatki/vrtec.csv', skip = 1, header = FALSE,
                    col.names = c('Leto', 'Regija', 'Spol', 'Stevilo'))
 
 vrtec <- vrtec %>% fill(1:2)%>% filter(complete.cases(.))
+vrtec <- vrtec %>% filter(Spol != 'Spol - SKUPAJ')
 
 
 

@@ -13,5 +13,5 @@ library(dplyr)
 library(rgdal)
 library(mosaic)
 library(maptools)
-
-
+library(sp)
+library(httpuv)

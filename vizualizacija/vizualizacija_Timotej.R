@@ -12,3 +12,5 @@ graf_bruto_proizvod <- graf_bruto_proizvod + theme(axis.text.x = element_text(co
   
 
 plot(graf_bruto_proizvod)
+
+

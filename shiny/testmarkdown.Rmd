@@ -36,49 +36,49 @@ Analiziral bom kako brezposelnost vpliva na vključenost otrok v predšolske pro
 ###Grob opis podatkov v tabelah:
 
 1. TABELA: (Osnovne šole)
-- 1. stoplec: Leto
+- 1.  Leto - spremenljivka: leto v katerem so bile opravljene meritve
 - 2.
-- 3. stoplec: Regija
-- 4. stoplec: Spol
-- 5. stoplec: Število
+- 3.  Regija - spremenljivka: regija v kateri so opravljali meritve
+- 4.  Spol - spremenljivka: spol osebe
+- 5.  Število - meritev: število oseb.
 
 2. TABELA: (Brezposelni)
-- 1. stoplec: Leto
-- 1. stoplec: Regija
-- 1. stoplec: Aktivnost
-- 1. stoplec: Število
+- 1.  Leto - spremenljivka: leto v katerem so bile opravljene meritve
+- 1.  Regija - spremenljivka: regija v kateri so opravljali meritve
+- 1.  Aktivnost - spremenljivka:
+- 1.  Število - meritev: število oseb.
 
 3. TABELA: (Diplomanti)
-- 1. stoplec: Leto
-- 2. stoplec: Regija
-- 3. stoplec: Meritev
-- 4. stoplec: Število
+- 1.  Leto - spremenljivka: leto v katerem so bile opravljene meritve
+- 2.  Regija - spremenljivka: regija v kateri so opravljali meritve
+- 3.  Meritev - spremenljivka:
+- 4.  Število - meritev: število oseb na 1000 prebivalcev.
 
 4. TABELA: (Predšolska vzgoja)
-- 1. stoplec: Leto
-- 2. stoplec: Regija
-- 3. stoplec: Spol
-- 4. stoplec: Število
+- 1.  Leto - spremenljivka: leto v katerem so bile opravljene meritve
+- 2.  Regija - spremenljivka: regija v kateri so opravljali meritve
+- 3.  Spol - spremenljivka: spol osebe
+- 4.  Število - meritev: število oseb.
 
 5. TABELA: (Dijaki)
-- 1. stoplec: Leto
-- 2. stoplec: Regija
+- 1.  Leto - spremenljivka: leto v katerem so bile opravljene meritve
+- 2.  Regija - spremenljivka: regija v kateri so opravljali meritve
 - 3.
-- 4. stoplec: Število
+- 4.  Število - meritev: število oseb.
 
 
 6. TABELA: (Terciarno izobraževanje)
-- 1. stoplec: Leto
-- 2. stoplec: Regija
-- 3. stoplec: Vrsta izobraževanja
-- 4. stolpec: Spol
-- 5. stoplec: Število
+- 1.  Leto - spremenljivka: leto v katerem so bile opravljene meritve
+- 2.  Regija - spremenljivka:
+- 3.  Vrsta izobraževanja - spremenljivka: program v katerega je posameznik vključen
+- 4.  Spol - spremenljivka: spol osebe
+- 5.  Število - meritev: število oseb.
 
 7. TABELA: (Bruto proizvod na prebivalca)
-- 1. stoplec: Leto
-- 2. stoplec: Regija
+- 1.  Leto - spremenljivka: leto v katerem so bile opravljene meritve
+- 2.  Regija - spremenljivka: regija v kateri so opravljali meritve
 - 3.
-- 4. stoplec: BDP
+- 4.  BDP - meritev: BDP per capita.
 
 
 

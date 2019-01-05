@@ -7,6 +7,11 @@ library(readr)
 library(dplyr)
 library(rmarkdown)
 library(tidyr)
+library(ggplot2)
+library(ggvis)
+library(dplyr)
+library(rgdal)
+library(mosaic)
+library(maptools)
 
-# Uvozimo funkcije za pobiranje in uvoz zemljevida.
-source("lib/uvozi.zemljevid.r", encoding="UTF-8")
+

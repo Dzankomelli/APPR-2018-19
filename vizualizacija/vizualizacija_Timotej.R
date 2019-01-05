@@ -11,7 +11,4 @@ graf_bruto_proizvod <- graf_bruto_proizvod + geom_bar(stat = 'identity', positio
 graf_bruto_proizvod <- graf_bruto_proizvod + theme(axis.text.x = element_text(colour = 'blue', angle = 90, size = 8))
   
 
-#bruto1 <- ggplot(data = bruto, mapping = aes(x=Regija)) + 
-#  geom_bar(cut, data = bruto, mapping = aes(Regija, BDP), stat = 'identity', position = 'stack') +
-#  theme(axis.text.x = element_text(colour = 'blue', angle = 90, size = 8))
 plot(graf_bruto_proizvod)

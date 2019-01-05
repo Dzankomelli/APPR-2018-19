@@ -5,7 +5,13 @@ source("lib/uvozi.zemljevid.r", encoding="UTF-8")
 
 
 # Prikaz BDP per capita glede na regijo in leto
-#bruto1 <- qplot(cut, data = bruto, geom = "bar") + facet_grid(. ~ color)  +
- # + opts(axis.text.x = theme_text(angle = 90, hjust = 1, size = 8, colour = "grey50"))
- 
 
+graf_bruto_proizvod <- ggplot(data = bruto, mapping = aes(x=Leto, y=BDP, fill=Regija)) 
+graf_bruto_proizvod <- graf_bruto_proizvod + geom_bar(stat = 'identity', position = 'dodge')
+graf_bruto_proizvod <- graf_bruto_proizvod + theme(axis.text.x = element_text(colour = 'blue', angle = 90, size = 8))
+  
+
+#bruto1 <- ggplot(data = bruto, mapping = aes(x=Regija)) + 
+#  geom_bar(cut, data = bruto, mapping = aes(Regija, BDP), stat = 'identity', position = 'stack') +
+#  theme(axis.text.x = element_text(colour = 'blue', angle = 90, size = 8))
+plot(graf_bruto_proizvod)

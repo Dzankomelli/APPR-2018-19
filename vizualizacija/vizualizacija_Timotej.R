@@ -1,20 +1,25 @@
 # Uvozimo funkcije za pobiranje in uvoz zemljevida.
 source("lib/uvozi.zemljevid.r", encoding="UTF-8")
 
-#ZEMLJEVID
-library(sp)
-library(maptools)
-library(digest)
-gpclibPermit()
 
-zemljevid <- uvozi.zemljevid("http://biogeo.ucdavis.edu/data/gadm2.8/shp/SVN_adm_shp.zip",
-                             "SVN_adm1", encoding = "UTF-8") %>% pretvori.zemljevid()
+# Uvozimo zemljevid Sveta
+# source("https://raw.githubusercontent.com/jaanos/APPR-2018-19/master/lib/uvozi.zemljevid.r")
+source("lib/uvozi.zemljevid.r") #Nastavi pravo datoteko
+
+zemljevid <- uvozi.zemljevid("https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/50m/cultural/ne_50m_admin_0_countries.zip",
+                             "ne_50m_admin_0_countries") %>%
+  fortify()
 
 
-levels(zemljevid$NAME_1)[levels(zemljevid$NAME_1) %in%
-                           c("Notranjsko-kraška",
-                             "Spodnjeposavska", "Koroška", "Goriška", "Obalno-kraška")] <- c("Primorsko-notranjska",
-                                                                                             "Posavska", "Koroska", "Goriska", "Obalno-kraska")
+# Zemljevid sveta skrčimo na zemljevid Evrope
+Evropa <- filter(zemljevid, CONTINENT == "Europe" |NAME == "Turkey")
+Evropa <- filter(Evropa, long < 55 & long > -45 & lat > 30 & lat < 85)
+
+ggplot(Evropa, aes(x=long, y=lat, group=group, fill=NAME)) + 
+  geom_polygon() + 
+  labs(title="Evropa - osnovna slika") +
+  theme(legend.position="none")
+
 
 
 
@@ -27,6 +32,6 @@ graf_bruto_proizvod <- graf_bruto_proizvod + theme(axis.text.x = element_text(co
 
 # Prikaz števila otrok v vrtcih
 
-graf_vrtci <- 
+
 
 

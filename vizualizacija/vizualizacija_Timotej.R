@@ -28,4 +28,6 @@ otroci_vrtci <- otroci_vrtci + theme(axis.text.x = element_text(colour = 'red', 
 
 # Stevilo Studentov v terciarnih dejavnostih
 
-
+terciarno_solanje <- ggplot(data = terciarno, mapping = aes(x=Regija, y=Stevilo, fill=Vrsta, Group=Leto))
+terciarno_solanje <- terciarno_solanje + geom_bar(stat = 'identity', position = 'dodge')
+terciarno_solanje <- terciarno_solanje + theme(axis.text.x = element_text(colour = 'red', angle = 90, size = 8))

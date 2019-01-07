@@ -32,6 +32,7 @@ diplomanti <- read.csv2(file = 'podatki/diplomanti.csv', skip = 2, header = FALS
                         col.names = c('Leto', 'Regija', 'Meritev', 'Stevilo'))
 
 diplomanti <- diplomanti %>% fill(1:2)%>% filter(complete.cases(.))
+diplomanti <- diplomanti %>% filter(Meritev != 'Število diplomantk na 100 diplomantov (moški)')
 
 
 

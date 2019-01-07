@@ -2,7 +2,7 @@
 source("lib/uvozi.zemljevid.r", encoding="UTF-8")
 
 
-# # Uvozimo zemljevid.
+# Uvozimo zemljevid.
 # zemljevid <- uvozi.zemljevid('https://gadm.org/maps/SVN_1.html', "Zemljevid",
 #                              pot.zemljevida="", encoding="Windows-1250")
 # levels(zemljevid$OB_UIME) <- levels(zemljevid$OB_UIME) %>%

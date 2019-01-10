@@ -48,6 +48,10 @@ vrtec <- vrtec %>% fill(1:2)%>% filter(complete.cases(.))
 vrtec <- vrtec %>% filter(Spol != 'Spol - SKUPAJ')
 
 
+grp <- group_by(vrtec, Leto, Regija)
+vrtec_sum <- summarise(grp, vsote=sum(Stevilo))
+
+
 
 #5. tabela
 dijaki <- read.csv2(file = 'podatki/dijaki.csv', skip = 3, header = FALSE, 

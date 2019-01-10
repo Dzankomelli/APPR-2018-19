@@ -3,6 +3,7 @@ library(dplyr)
 library(tidyr)
 
 
+
 #1. tabela
 osnovne_sole <- read.csv2(file = 'podatki/osnovnesole.csv', skip = 3, na = c(' ','-'),
                           header = FALSE, encoding = 'Windows-1250', sep = ';', dec = '.',

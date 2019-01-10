@@ -10,6 +10,8 @@ graf_bruto_proizvod <- graf_bruto_proizvod + geom_bar(stat = 'identity', positio
 graf_bruto_proizvod <- graf_bruto_proizvod + theme(axis.text.x = element_text(colour = 'black', angle = 90, size = 8))
   
 
+
+
 # Graf: prikaz števila otrok v vrtcih
 
 graf_otroci_vrtci <- ggplot(data = vrtec, mapping = aes(x=Regija, y=Stevilo, Group = Leto, fill=Spol))
@@ -17,11 +19,15 @@ graf_otroci_vrtci <- graf_otroci_vrtci + geom_bar(stat = 'identity', position = 
 graf_otroci_vrtci <- graf_otroci_vrtci + theme(axis.text.x = element_text(colour = 'black', angle = 90, size = 8))
 
 
+
+
 # Graf: stevilo Studentov v terciarnih dejavnostih
 
-graf_terciarno_solanje <- ggplot(data = terciarno_sum, mapping = aes(x=Regija, y=Stevilo, fill=Leto))
+graf_terciarno_solanje <- ggplot(data = terciarno_sum, mapping = aes(x=Regija, y=Stevilo, fill = Leto))
 graf_terciarno_solanje <- graf_terciarno_solanje + geom_bar(stat = 'identity', position = 'dodge')
 graf_terciarno_solanje <- graf_terciarno_solanje + theme(axis.text.x = element_text(colour = 'black', angle = 90, size = 8))
+
+
 
 
 # Graf: tevilo diplomantov
@@ -29,6 +35,8 @@ graf_terciarno_solanje <- graf_terciarno_solanje + theme(axis.text.x = element_t
 graf_st_diplomantov <- ggplot(data = diplomanti, mapping = aes(x=Regija, y=Stevilo, fill=Leto))
 graf_st_diplomantov <- graf_st_diplomantov + geom_bar(stat = 'identity', position = 'dodge')
 graf_st_diplomantov <- graf_st_diplomantov + theme(axis.text.x = element_text(colour = 'black', angle = 90, size = 8))
+
+
 
 
 

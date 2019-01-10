@@ -49,7 +49,7 @@ vrtec <- vrtec %>% filter(Spol != 'Spol - SKUPAJ')
 
 
 grp <- group_by(vrtec, Leto, Regija)
-vrtec_sum <- summarise(grp, vsote=sum(Stevilo))
+vrtec_sum <- summarise(grp, Stevilo=sum(Stevilo))
 
 
 
@@ -70,6 +70,8 @@ terciarno <- read.csv2(file = 'podatki/terciarno.csv', skip = 2, header = FALSE,
 
 terciarno <- terciarno %>% fill(1:3)%>% filter(complete.cases(.))
 
+grp <- group_by(terciarno, Leto, Regija)
+terciarno_sum <- summarise(grp, Stevilo=sum(Stevilo))
 
 #7. tabela
 bruto <- read.csv2(file = 'podatki/bruto_proizvod.csv', skip = 0, header = FALSE,

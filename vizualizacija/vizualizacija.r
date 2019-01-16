@@ -46,7 +46,7 @@ Slovenija <- uvozi.zemljevid("http://biogeo.ucdavis.edu/data/gadm2.8/shp/SVN_adm
                              "SVN_adm1") %>% fortify()
 
 
-ggplot(Slovenija, aes(x=long, y=lat, group=group, fill=NAME_1)) +
+graf_slovenija <- ggplot(Slovenija, aes(x=long, y=lat, group=group, fill=NAME_1)) +
   geom_polygon() +
   labs(title="Slovenija - brez podatkov") +
   theme(legend.position="none")

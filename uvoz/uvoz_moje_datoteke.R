@@ -15,19 +15,7 @@ osnovne_sole <- osnovne_sole %>% fill(1:2) %>% filter(complete.cases(.))
 
 
 
-
 #2. tabela
-brezposelni <- read.csv2(file = 'podatki/brezposelni.csv', skip = 2, header = FALSE,
-                         encoding = 'Windows-1250', sep = ';', dec = '.', na = c(' ','-'),
-                         col.names = c('Leto', 'Regija', 'Aktivnost', 'Stevilo'))
-
-brezposelni <- brezposelni %>% fill(1:2)%>% filter(complete.cases(.))
-
-
-
-
-
-#3. tabela
 diplomanti <- read.csv2(file = 'podatki/diplomanti.csv', skip = 2, header = FALSE,
                         encoding = 'Windows-1250', sep = ';', dec = '.', na = c(' ','-'),
                         col.names = c('Leto', 'Regija', 'Meritev', 'Stevilo'))
@@ -39,7 +27,7 @@ diplomanti <- diplomanti %>% filter(Meritev != 'Število diplomantk na 100 diplo
 
 
 
-#4. tabela
+#3. tabela
 vrtec <- read.csv2(file = 'podatki/vrtec.csv', skip = 1, header = FALSE, 
                    encoding = 'Windows-1250', sep = ';', na = c(' ','-'),
                    col.names = c('Leto', 'Regija', 'Spol', 'Stevilo'))
@@ -53,7 +41,7 @@ vrtec_sum <- summarise(grp, Stevilo=sum(Stevilo))
 
 
 
-#5. tabela
+#4. tabela
 dijaki <- read.csv2(file = 'podatki/dijaki.csv', skip = 3, header = FALSE, 
                     encoding = 'Windows-1250', sep = ';', na = c(' ','-'),
                     col.names = c('Leto', 'Regija', 'krneki', 'Stevilo'))
@@ -63,7 +51,7 @@ dijaki <- dijaki %>% fill(1:2)%>% filter(complete.cases(.))
 
 
 
-#6. tabela
+#5. tabela
 terciarno <- read.csv2(file = 'podatki/terciarno.csv', skip = 2, header = FALSE,
                        encoding = 'Windows-1250', sep = ';', na = c(' ','-'),
                        col.names = c('Leto', 'Regija', 'Vrsta', 'Spol', 'Stevilo'))
@@ -73,7 +61,7 @@ terciarno <- terciarno %>% fill(1:3)%>% filter(complete.cases(.))
 grp <- group_by(terciarno, Leto, Regija)
 terciarno_sum <- summarise(grp, Stevilo=sum(Stevilo))
 
-#7. tabela
+#6. tabela
 bruto <- read.csv2(file = 'podatki/bruto_proizvod.csv', skip = 0, header = FALSE,
                    encoding = 'Windows-1250', sep = ';', na = c(' ','-'),
                    col.names = c('Leto', 'Regija', 'Krneki', 'BDP'))
@@ -85,7 +73,7 @@ bruto <- bruto[,-3]
 
 #shranjene tabele (tidy data):
 
-write.csv(brezposelni, file = 'podatki/tidy_data/tidy_brezposelni.csv')
+
 write.csv(bruto, file = 'podatki/tidy_data/tidy_bruto.csv')
 write.csv(dijaki, file = 'podatki/tidy_data/tidy_dijaki.csv')
 write.csv(diplomanti, file = 'podatki/tidy_data/tidy_diplomanti.csv')

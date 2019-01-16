@@ -12,7 +12,7 @@ V svojem projektu bom analiziral vključenost ljudi v posamezni izobraževalni p
 
 V dobljenih tabelah imam podatke o številu ljudi, ki so vključeni v določeno vrsto izobraževanja, ki jih ločim po spolu, letu šolanja in regiji v kateri se šolajo. Prav tako sem pridobil podatke o diplomantih na 1000 ljudi v posameznih regijah. Podatke imam od leta 2007 naprej.
 
-Analiziral bom kako brezposelnost vpliva na vključenost otrok v predšolske programe, kako sta povezana BDP in terciarno šolanje, vpliv števila diplomantov na delež aktivnega prebivalsta.
+Analiziral bom kako BDP vpliva na vključenost otrok v predšolske programe in kako sta povezana Število diplomantov ter terciarno šolanje.
 
 ## Podatki
 

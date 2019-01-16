@@ -12,7 +12,7 @@ graf_bruto_proizvod <- graf_bruto_proizvod + theme(axis.text.x = element_text(co
 
 
 
-# Graf: prikaz števila otrok v vrtcih
+# Graf: prikaz števila otrok vključenih v vrtec
 
 graf_otroci_vrtci <- ggplot(data = vrtec, mapping = aes(x=Regija, y=Stevilo, Group = Leto, fill=Spol))
 graf_otroci_vrtci <- graf_otroci_vrtci + geom_bar(stat = 'identity', position = 'dodge')

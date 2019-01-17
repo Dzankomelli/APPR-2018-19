@@ -21,7 +21,7 @@ graf_otroci_vrtci <- graf_otroci_vrtci + theme(axis.text.x = element_text(colour
 
 
 
-# Graf: stevilo Studentov v terciarnih dejavnostih
+# Graf: število študentov v terciarnih dejavnostih
 
 graf_terciarno_solanje <- ggplot(data = terciarno_sum, mapping = aes(x=Regija, y=Stevilo, fill = Leto))
 graf_terciarno_solanje <- graf_terciarno_solanje + geom_bar(stat = 'identity', position = 'dodge')
@@ -30,7 +30,7 @@ graf_terciarno_solanje <- graf_terciarno_solanje + theme(axis.text.x = element_t
 
 
 
-# Graf: tevilo diplomantov
+# Graf: število diplomantov
 
 graf_st_diplomantov <- ggplot(data = diplomanti, mapping = aes(x=Regija, y=Stevilo, fill=Leto))
 graf_st_diplomantov <- graf_st_diplomantov + geom_bar(stat = 'identity', position = 'dodge')

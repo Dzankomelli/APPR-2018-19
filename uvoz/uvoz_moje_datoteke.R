@@ -16,10 +16,11 @@ osnovne_sole <- osnovne_sole %>% fill(1:2) %>% filter(complete.cases(.))
 
 
 #2. tabela
-diplomanti <- read.csv2(file = 'podatki/diplomanti.csv', skip = 2, header = FALSE,
-                        encoding = 'Windows-1250', sep = ';', dec = '.', na = c(' ','-'),
-                        col.names = c('Leto', 'Regija', 'Meritev', 'Stevilo'))
-
+diplomanti <- read_delim('podatki/diplomanti.csv', ';', skip=3, na=c(' ', '-'),
+                         
+                         locale=locale(encoding='Windows-1250', decimal_mark='.'),
+                         
+                         col_names=c('Leto', 'Regija', 'Meritev', 'Stevilo'))
 diplomanti <- diplomanti %>% fill(1:2)%>% filter(complete.cases(.))
 diplomanti <- diplomanti %>% filter(Meritev != 'Število diplomantk na 100 diplomantov (moški)')
 

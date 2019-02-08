@@ -46,10 +46,20 @@ Slovenija <- uvozi.zemljevid("http://biogeo.ucdavis.edu/data/gadm2.8/shp/SVN_adm
                              "SVN_adm1") %>% fortify()
 
 
+Slovenija$NAME_1 <- gsub('GoriĹˇka', 'Goriška', Slovenija$NAME_1)
+
+Slovenija$NAME_1 <- gsub('KoroĹˇka', 'Koroška', Slovenija$NAME_1)
+
+Slovenija$NAME_1 <- gsub('Notranjsko-kraĹˇka', 'Notranjsko-kraška', Slovenija$NAME_1)
+
+Slovenija$NAME_1 <- gsub('Obalno-kraĹˇka', 'Obalno-kraška', Slovenija$NAME_1)
+
+
 graf_slovenija <- ggplot(Slovenija, aes(x=long, y=lat, group=group, fill=NAME_1)) +
   geom_polygon() +
-  labs(title="Slovenija - brez podatkov") +
-  theme(legend.position="none")
+  labs(title="Slovenija") +
+  theme_classic()
+
 
 
 

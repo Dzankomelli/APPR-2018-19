@@ -1,0 +1,239 @@
+"Prebivalstvo po: STATISTIÈNA REGIJA, LETO, STAROST , SPOL"
+
+" ";" ";"Starost - SKUPAJ"
+" ";" ";"Spol - SKUPAJ"
+"SLOVENIJA"
+" ";"2007";2010377
+" ";"2008";2025866
+" ";"2009";2032362
+" ";"2010";2046976
+" ";"2011";2050189
+" ";"2012";2055496
+" ";"2013";2058821
+" ";"2014";2061085
+" ";"2015";2062874
+" ";"2016";2064188
+" ";"2017";2065895
+" ";"2018";2066880
+"Pomurska"
+" ";"2007";122068
+" ";"2008";121824
+" ";"2009";119537
+" ";"2010";119548
+" ";"2011";119145
+" ";"2012";118988
+" ";"2013";118022
+" ";"2014";117133
+" ";"2015";116670
+" ";"2016";116078
+" ";"2017";115477
+" ";"2018";114776
+"Podravska"
+" ";"2007";319706
+" ";"2008";321781
+" ";"2009";322900
+" ";"2010";323343
+" ";"2011";323119
+" ";"2012";323534
+" ";"2013";323238
+" ";"2014";323328
+" ";"2015";323356
+" ";"2016";322553
+" ";"2017";322043
+" ";"2018";322058
+"Koroška"
+" ";"2007";73619
+" ";"2008";73714
+" ";"2009";72481
+" ";"2010";72812
+" ";"2011";72494
+" ";"2012";72364
+" ";"2013";72100
+" ";"2014";71546
+" ";"2015";71303
+" ";"2016";71040
+" ";"2017";70761
+" ";"2018";70550
+"Savinjska"
+" ";"2007";258480
+" ";"2008";261243
+" ";"2009";258845
+" ";"2010";260025
+" ";"2011";259726
+" ";"2012";260253
+" ";"2013";260217
+" ";"2014";259853
+" ";"2015";253975
+" ";"2016";254318
+" ";"2017";254761
+" ";"2018";254760
+"Zasavska"
+" ";"2007";45229
+" ";"2008";45226
+" ";"2009";44750
+" ";"2010";44706
+" ";"2011";44222
+" ";"2012";43926
+" ";"2013";43502
+" ";"2014";42983
+" ";"2015";57711
+" ";"2016";57404
+" ";"2017";57280
+" ";"2018";57061
+"Posavska"
+" ";"2007";70058
+" ";"2008";70353
+" ";"2009";69900
+" ";"2010";70192
+" ";"2011";70167
+" ";"2012";70164
+" ";"2013";70211
+" ";"2014";69958
+" ";"2015";75619
+" ";"2016";75711
+" ";"2017";75544
+" ";"2018";75359
+"Jugovzhodna Slovenija"
+" ";"2007";140258
+" ";"2008";141547
+" ";"2009";141166
+" ";"2010";142092
+" ";"2011";142483
+" ";"2012";142680
+" ";"2013";142509
+" ";"2014";142405
+" ";"2015";142373
+" ";"2016";142566
+" ";"2017";142711
+" ";"2018";142819
+"Osrednjeslovenska"
+" ";"2007";503935
+" ";"2008";508607
+" ";"2009";521965
+" ";"2010";529646
+" ";"2011";533213
+" ";"2012";536484
+" ";"2013";541718
+" ";"2014";546314
+" ";"2015";534518
+" ";"2016";537023
+" ";"2017";539672
+" ";"2018";542306
+"Gorenjska"
+" ";"2007";199902
+" ";"2008";201254
+" ";"2009";201779
+" ";"2010";202903
+" ";"2011";203427
+" ";"2012";204057
+" ";"2013";203984
+" ";"2014";203894
+" ";"2015";203850
+" ";"2016";203838
+" ";"2017";203800
+" ";"2018";203636
+"Primorsko-notranjska"
+" ";"2007";51483
+" ";"2008";52083
+" ";"2009";51728
+" ";"2010";52217
+" ";"2011";52287
+" ";"2012";52387
+" ";"2013";52382
+" ";"2014";52449
+" ";"2015";52538
+" ";"2016";52523
+" ";"2017";52582
+" ";"2018";52334
+"Goriška"
+" ";"2007";119477
+" ";"2008";120329
+" ";"2009";118533
+" ";"2010";119080
+" ";"2011";119146
+" ";"2012";119236
+" ";"2013";119002
+" ";"2014";118374
+" ";"2015";118188
+" ";"2016";118064
+" ";"2017";117747
+" ";"2018";117260
+"Obalno-kraška"
+" ";"2007";106162
+" ";"2008";107905
+" ";"2009";108778
+" ";"2010";110412
+" ";"2011";110760
+" ";"2012";111423
+" ";"2013";111936
+" ";"2014";112848
+" ";"2015";112773
+" ";"2016";113070
+" ";"2017";113517
+" ";"2018";113961
+
+"Od objave podatkov o prebivalstvu Slovenije po 1. 1. 2008 uporabljamo "
+"na Statistiènem uradu Republike Slovenije (seznam "
+"HREF=http://www.stat.si/StatWeb/glavnanavigacija/podatki/prikazistaro-"
+"novico?IdNovice=2319 TARGET=_blank) spremenjeno statistièno "
+"definicijo prebivalstva. To pomeni prelom v èasovni vrsti podatkov, "
+"zato podatki po tej definiciji, torej podatki od leta 2009 dalje, "
+"niso neposredno primerljivi s podatki za predhodna leta. "
+" "
+"Viri: Statistièni urad Republike Slovenije, Ministrstvo za notranje "
+"zadeve - Centralni register prebivalstva, Ministrstvo za notranje "
+"zadeve - Direktorat za upravne notranje zadeve."
+
+"Povezane vsebine: "
+"- (seznam HREF=http://www.stat.si/StatWeb/File/DocSysFile/7808 "
+"target=_blank) Metodološka pojasnila "
+
+"Podatki so teritorialno razvršèeni po uredbi o Standardni "
+"klasifikaciji teritorialnih enot ((seznam "
+"HREF=../database/Meta/Klas/SKTE.htm TARGET=_blank) opis in "
+"pojasnila), raven SKTE 3. "
+"Opombe o spremembah posameznih regij so zapisane k vsaki spremenjeni "
+"regiji in so ob izpisu tabele na zaslon dostopne s klikom na ikono za "
+"opombe (zvezdica). V opombah je na zaèetku naveden datum, s katerim "
+"je opisana teritorialna sprememba upoštevana pri teritorialnem "
+"razvršèanju enot za statistiène namene.  "
+" "
+
+"15.01.2005: Zaradi sprememb meja naselij (Marija Reka in Knezdol) in "
+"obèin (Prebold in Trbovlje) sta se posledièno spremenili meji med "
+"savinjsko in zasavsko statistièno regijo. Savinjska statistièna "
+"regija se je zmanjšala za 0,2 km2; za prav toliko se je poveèala "
+"zasavska statistièna regija.  "
+" "
+
+"15.01.2005: Zaradi sprememb meja naselij (Marija Reka in Knezdol) in "
+"obèin (Prebold in Trbovlje) sta se posledièno spremenili meji med "
+"savinjsko in zasavsko statistièno regijo. Savinjska statistièna "
+"regija se je zmanjšala za 0,2 km2; za prav toliko se je poveèala "
+"zasavska statistièna regija.  "
+" "
+
+"30. 3. 2000 je bil po Uredbi o SKTE iz dotedanje osrednjeslovenske "
+"statistiène regije izloèen njen južni del (obèine Koèevje, Kostel, "
+"Loški Potok, Osilnica, Ribnica, Sodražica) in pripojen k dotedanji "
+"dolenjski statistièni regiji; ta se je zato poveèala (za  985 km2 ) "
+"in je dobila novo ime – jugovzhodna Slovenija "
+" Uradni list št. 28/00. "
+
+"30. 3. 2000 je bil po Uredbi o SKTE iz dotedanje osrednjeslovenske "
+"statistiène regije izloèen njen južni del (obèine Koèevje, Kostel, "
+"Loški Potok, Osilnica, Ribnica, Sodražica) in pripojen k dotedanji "
+"dolenjski statistièni regiji; ta se je zato poveèala (za  985 km2 ) "
+"in je dobila novo ime – jugovzhodna Slovenija "
+" Uradni list št. 28/00. "
+
+"Stanje na 1.1. "
+
+"Podatke o prebivalstvu za stanje 1. 1. 2011 smo v Sloveniji "
+"pripravili tudi v skladu z Uredbo (ES) št. 763/2008 Evropskega "
+"parlamenta in Sveta z dne 9. julija 2008 o popisih prebivalstva in "
+"stanovanj (Uradni list Evropske unije L 218/14, 13. avgust 2008)."
+
+"Starost je èas, ki ga je oseba preživela od rojstva do trenutka "
+"statistiènega opazovanja. Izražena je v dopolnjenih letih starosti."
+

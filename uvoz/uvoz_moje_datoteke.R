@@ -121,8 +121,8 @@ write.csv(vrtec, file = 'podatki/tidy_data/tidy_vrtec.csv', fileEncoding = 'UTF-
 
 razmerje <- left_join(prebivalstvo, vrtec_sum, by=c('Regija','Leto'))
 colnames(razmerje) <- c('Regija', 'Leto', 'Vsi', 'Otroci')
-razmerje$Vsi <- as.numeric(razmerje$Vsi)   ## <- TUKAJ JE TEZAVA
-razmerje$Otroci <- as.numeric(razmerje$Otroci)
+#razmerje$Vsi <- as.numeric(razmerje$Vsi)   ## <- TUKAJ JE TEZAVA
+#razmerje$Otroci <- as.numeric(razmerje$Otroci)
 razmerje <- transform(razmerje, Indeks=(Otroci/Vsi))
 
 

@@ -126,6 +126,7 @@ graf_st_diplomantov
 
 ```
 
+Iz grafa lahko lepo vidimo, da je spremeba študijskih programov močno vplivala na število ljudi, ki so tisto leto diplopirali.
 
 ***
 

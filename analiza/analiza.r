@@ -1,11 +1,21 @@
-# 4. faza: Analiza podatkov
+source('lib/libraries.r', encoding = 'UTF-8')
 
-podatki <- obcine %>% transmute(obcina, povrsina, gostota,
-                                gostota.naselij=naselja/povrsina) %>%
-  left_join(povprecja, by="obcina")
-row.names(podatki) <- podatki$obcina
-podatki$obcina <- NULL
+# 
+# bruto_slovenija1$Leto <- factor(paste(bruto_slovenija1$Leto))
+# bruto_slovenija1$BDP <- factor(paste(bruto_slovenija1$BDP))
 
-# Število skupin
-n <- 5
-skupine <- hclust(dist(scale(podatki))) %>% cutree(n)
+
+prileganje <- lm(BDP ~ Leto, data = bruto_slovenija1)
+leta <- factor(data.frame(Leto=seq(2018,2020,1)))
+predict(prileganje, data.frame(Leto=leta))
+napoved <- mutate(leta, bruto_slovenija1 = predict(prileganje,leta))
+
+
+
+# graf.napoved <- ggplot(bruto_slovenija1, aes(x=Leto, y=BDP))+
+#   geom_point() + geom_smooth(method=lm, fullrange=TRUE, color='red') + geom_point(data=napoved, inherit.aes = TRUE)+
+#   labs(title='Krneki') +
+#   scale_x_continuous('Leto', breaks = seq(2007, 2020, 1), limits = c(2007,2019))
+# 
+
+

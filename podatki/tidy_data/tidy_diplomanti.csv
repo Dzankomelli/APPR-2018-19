@@ -1,144 +1,133 @@
-"","Leto","Regija","Meritev","Stevilo"
-"1","2007","SLOVENIJA","Število diplomantov na 1.000 prebivalcev",8.2
-"2","2007","Pomurska","Število diplomantov na 1.000 prebivalcev",6
-"3","2007","Podravska","Število diplomantov na 1.000 prebivalcev",7.1
-"4","2007","Koroška","Število diplomantov na 1.000 prebivalcev",7.3
-"5","2007","Savinjska","Število diplomantov na 1.000 prebivalcev",8.1
-"6","2007","Zasavska","Število diplomantov na 1.000 prebivalcev",7.1
-"7","2007","Posavska","Število diplomantov na 1.000 prebivalcev",7.9
-"8","2007","Jugovzhodna Slovenija","Število diplomantov na 1.000 prebivalcev",8
-"9","2007","Osrednjeslovenska","Število diplomantov na 1.000 prebivalcev",9.6
-"10","2007","Gorenjska","Število diplomantov na 1.000 prebivalcev",8.4
-"11","2007","Primorsko-notranjska","Število diplomantov na 1.000 prebivalcev",8.8
-"12","2007","Goriška","Število diplomantov na 1.000 prebivalcev",8.3
-"13","2007","Obalno-kraška","Število diplomantov na 1.000 prebivalcev",7.6
-"14","2008","SLOVENIJA","Število diplomantov na 1.000 prebivalcev",8.5
-"15","2008","Pomurska","Število diplomantov na 1.000 prebivalcev",7
-"16","2008","Podravska","Število diplomantov na 1.000 prebivalcev",7.4
-"17","2008","Koroška","Število diplomantov na 1.000 prebivalcev",9.3
-"18","2008","Savinjska","Število diplomantov na 1.000 prebivalcev",8.5
-"19","2008","Zasavska","Število diplomantov na 1.000 prebivalcev",8
-"20","2008","Posavska","Število diplomantov na 1.000 prebivalcev",8.2
-"21","2008","Jugovzhodna Slovenija","Število diplomantov na 1.000 prebivalcev",8.8
-"22","2008","Osrednjeslovenska","Število diplomantov na 1.000 prebivalcev",9
-"23","2008","Gorenjska","Število diplomantov na 1.000 prebivalcev",8.4
-"24","2008","Primorsko-notranjska","Število diplomantov na 1.000 prebivalcev",10.2
-"25","2008","Goriška","Število diplomantov na 1.000 prebivalcev",8.8
-"26","2008","Obalno-kraška","Število diplomantov na 1.000 prebivalcev",7.3
-"27","2009","SLOVENIJA","Število diplomantov na 1.000 prebivalcev",8.8
-"28","2009","Pomurska","Število diplomantov na 1.000 prebivalcev",7.1
-"29","2009","Podravska","Število diplomantov na 1.000 prebivalcev",7.8
-"30","2009","Koroška","Število diplomantov na 1.000 prebivalcev",8.8
-"31","2009","Savinjska","Število diplomantov na 1.000 prebivalcev",9.2
-"32","2009","Zasavska","Število diplomantov na 1.000 prebivalcev",8.3
-"33","2009","Posavska","Število diplomantov na 1.000 prebivalcev",8.1
-"34","2009","Jugovzhodna Slovenija","Število diplomantov na 1.000 prebivalcev",9.1
-"35","2009","Osrednjeslovenska","Število diplomantov na 1.000 prebivalcev",9.3
-"36","2009","Gorenjska","Število diplomantov na 1.000 prebivalcev",9.2
-"37","2009","Primorsko-notranjska","Število diplomantov na 1.000 prebivalcev",8.9
-"38","2009","Goriška","Število diplomantov na 1.000 prebivalcev",9.3
-"39","2009","Obalno-kraška","Število diplomantov na 1.000 prebivalcev",8.2
-"40","2010","SLOVENIJA","Število diplomantov na 1.000 prebivalcev",9.6
-"41","2010","Pomurska","Število diplomantov na 1.000 prebivalcev",8.2
-"42","2010","Podravska","Število diplomantov na 1.000 prebivalcev",9
-"43","2010","Koroška","Število diplomantov na 1.000 prebivalcev",9.9
-"44","2010","Savinjska","Število diplomantov na 1.000 prebivalcev",10.3
-"45","2010","Zasavska","Število diplomantov na 1.000 prebivalcev",9.7
-"46","2010","Posavska","Število diplomantov na 1.000 prebivalcev",8.7
-"47","2010","Jugovzhodna Slovenija","Število diplomantov na 1.000 prebivalcev",9.7
-"48","2010","Osrednjeslovenska","Število diplomantov na 1.000 prebivalcev",9.9
-"49","2010","Gorenjska","Število diplomantov na 1.000 prebivalcev",9.2
-"50","2010","Primorsko-notranjska","Število diplomantov na 1.000 prebivalcev",10.2
-"51","2010","Goriška","Število diplomantov na 1.000 prebivalcev",10.3
-"52","2010","Obalno-kraška","Število diplomantov na 1.000 prebivalcev",7.8
-"53","2011","SLOVENIJA","Število diplomantov na 1.000 prebivalcev",10
-"54","2011","Pomurska","Število diplomantov na 1.000 prebivalcev",9.6
-"55","2011","Podravska","Število diplomantov na 1.000 prebivalcev",9.1
-"56","2011","Koroška","Število diplomantov na 1.000 prebivalcev",10.8
-"57","2011","Savinjska","Število diplomantov na 1.000 prebivalcev",10.7
-"58","2011","Zasavska","Število diplomantov na 1.000 prebivalcev",9.2
-"59","2011","Posavska","Število diplomantov na 1.000 prebivalcev",9.8
-"60","2011","Jugovzhodna Slovenija","Število diplomantov na 1.000 prebivalcev",10
-"61","2011","Osrednjeslovenska","Število diplomantov na 1.000 prebivalcev",9.6
-"62","2011","Gorenjska","Število diplomantov na 1.000 prebivalcev",10.3
-"63","2011","Primorsko-notranjska","Število diplomantov na 1.000 prebivalcev",9.7
-"64","2011","Goriška","Število diplomantov na 1.000 prebivalcev",10.6
-"65","2011","Obalno-kraška","Število diplomantov na 1.000 prebivalcev",8.3
-"66","2012","SLOVENIJA","Število diplomantov na 1.000 prebivalcev",10.2
-"67","2012","Pomurska","Število diplomantov na 1.000 prebivalcev",9
-"68","2012","Podravska","Število diplomantov na 1.000 prebivalcev",10
-"69","2012","Koroška","Število diplomantov na 1.000 prebivalcev",11.4
-"70","2012","Savinjska","Število diplomantov na 1.000 prebivalcev",10.6
-"71","2012","Zasavska","Število diplomantov na 1.000 prebivalcev",9.5
-"72","2012","Posavska","Število diplomantov na 1.000 prebivalcev",10.2
-"73","2012","Jugovzhodna Slovenija","Število diplomantov na 1.000 prebivalcev",9.7
-"74","2012","Osrednjeslovenska","Število diplomantov na 1.000 prebivalcev",10.2
-"75","2012","Gorenjska","Število diplomantov na 1.000 prebivalcev",10.2
-"76","2012","Primorsko-notranjska","Število diplomantov na 1.000 prebivalcev",10.4
-"77","2012","Goriška","Število diplomantov na 1.000 prebivalcev",10.1
-"78","2012","Obalno-kraška","Število diplomantov na 1.000 prebivalcev",8.4
-"79","2013","SLOVENIJA","Število diplomantov na 1.000 prebivalcev",9.3
-"80","2013","Pomurska","Število diplomantov na 1.000 prebivalcev",7.8
-"81","2013","Podravska","Število diplomantov na 1.000 prebivalcev",8.6
-"82","2013","Koroška","Število diplomantov na 1.000 prebivalcev",10.2
-"83","2013","Savinjska","Število diplomantov na 1.000 prebivalcev",9.4
-"84","2013","Zasavska","Število diplomantov na 1.000 prebivalcev",8.7
-"85","2013","Posavska","Število diplomantov na 1.000 prebivalcev",9.6
-"86","2013","Jugovzhodna Slovenija","Število diplomantov na 1.000 prebivalcev",10.1
-"87","2013","Osrednjeslovenska","Število diplomantov na 1.000 prebivalcev",9.3
-"88","2013","Gorenjska","Število diplomantov na 1.000 prebivalcev",9.2
-"89","2013","Primorsko-notranjska","Število diplomantov na 1.000 prebivalcev",8.4
-"90","2013","Goriška","Število diplomantov na 1.000 prebivalcev",10
-"91","2013","Obalno-kraška","Število diplomantov na 1.000 prebivalcev",7.6
-"92","2014","SLOVENIJA","Število diplomantov na 1.000 prebivalcev",9.1
-"93","2014","Pomurska","Število diplomantov na 1.000 prebivalcev",7.5
-"94","2014","Podravska","Število diplomantov na 1.000 prebivalcev",7.9
-"95","2014","Koroška","Število diplomantov na 1.000 prebivalcev",9.5
-"96","2014","Savinjska","Število diplomantov na 1.000 prebivalcev",9.1
-"97","2014","Zasavska","Število diplomantov na 1.000 prebivalcev",8.9
-"98","2014","Posavska","Število diplomantov na 1.000 prebivalcev",9.2
-"99","2014","Jugovzhodna Slovenija","Število diplomantov na 1.000 prebivalcev",9.8
-"100","2014","Osrednjeslovenska","Število diplomantov na 1.000 prebivalcev",9.5
-"101","2014","Gorenjska","Število diplomantov na 1.000 prebivalcev",9
-"102","2014","Primorsko-notranjska","Število diplomantov na 1.000 prebivalcev",8.5
-"103","2014","Goriška","Število diplomantov na 1.000 prebivalcev",9.8
-"104","2014","Obalno-kraška","Število diplomantov na 1.000 prebivalcev",7.7
-"105","2015","SLOVENIJA","Število diplomantov na 1.000 prebivalcev",9
-"106","2015","Pomurska","Število diplomantov na 1.000 prebivalcev",8.8
-"107","2015","Podravska","Število diplomantov na 1.000 prebivalcev",8.1
-"108","2015","Koroška","Število diplomantov na 1.000 prebivalcev",9.6
-"109","2015","Savinjska","Število diplomantov na 1.000 prebivalcev",9.2
-"110","2015","Zasavska","Število diplomantov na 1.000 prebivalcev",8.3
-"111","2015","Posavska","Število diplomantov na 1.000 prebivalcev",8.6
-"112","2015","Jugovzhodna Slovenija","Število diplomantov na 1.000 prebivalcev",9.4
-"113","2015","Osrednjeslovenska","Število diplomantov na 1.000 prebivalcev",9.2
-"114","2015","Gorenjska","Število diplomantov na 1.000 prebivalcev",8.7
-"115","2015","Primorsko-notranjska","Število diplomantov na 1.000 prebivalcev",9
-"116","2015","Goriška","Število diplomantov na 1.000 prebivalcev",9.6
-"117","2015","Obalno-kraška","Število diplomantov na 1.000 prebivalcev",6.2
-"118","2016","SLOVENIJA","Število diplomantov na 1.000 prebivalcev",15
-"119","2016","Pomurska","Število diplomantov na 1.000 prebivalcev",12.9
-"120","2016","Podravska","Število diplomantov na 1.000 prebivalcev",13.6
-"121","2016","Koroška","Število diplomantov na 1.000 prebivalcev",14.6
-"122","2016","Savinjska","Število diplomantov na 1.000 prebivalcev",14.9
-"123","2016","Zasavska","Število diplomantov na 1.000 prebivalcev",13.4
-"124","2016","Posavska","Število diplomantov na 1.000 prebivalcev",13.1
-"125","2016","Jugovzhodna Slovenija","Število diplomantov na 1.000 prebivalcev",14.2
-"126","2016","Osrednjeslovenska","Število diplomantov na 1.000 prebivalcev",16.5
-"127","2016","Gorenjska","Število diplomantov na 1.000 prebivalcev",14.6
-"128","2016","Primorsko-notranjska","Število diplomantov na 1.000 prebivalcev",14.1
-"129","2016","Goriška","Število diplomantov na 1.000 prebivalcev",14.9
-"130","2016","Obalno-kraška","Število diplomantov na 1.000 prebivalcev",12.4
-"131","2017","SLOVENIJA","Število diplomantov na 1.000 prebivalcev",8
-"132","2017","Pomurska","Število diplomantov na 1.000 prebivalcev",7
-"133","2017","Podravska","Število diplomantov na 1.000 prebivalcev",7.1
-"134","2017","Koroška","Število diplomantov na 1.000 prebivalcev",7.9
-"135","2017","Savinjska","Število diplomantov na 1.000 prebivalcev",8.2
-"136","2017","Zasavska","Število diplomantov na 1.000 prebivalcev",7.2
-"137","2017","Posavska","Število diplomantov na 1.000 prebivalcev",7.7
-"138","2017","Jugovzhodna Slovenija","Število diplomantov na 1.000 prebivalcev",8.1
-"139","2017","Osrednjeslovenska","Število diplomantov na 1.000 prebivalcev",8
-"140","2017","Gorenjska","Število diplomantov na 1.000 prebivalcev",7.5
-"141","2017","Primorsko-notranjska","Število diplomantov na 1.000 prebivalcev",7.7
-"142","2017","Goriška","Število diplomantov na 1.000 prebivalcev",8.6
-"143","2017","Obalno-kraška","Število diplomantov na 1.000 prebivalcev",6.3
+"","Leto","Regija","Stevilo"
+"1",2007,"Pomurska",6
+"2",2007,"Podravska",7.1
+"3",2007,"Koroška",7.3
+"4",2007,"Savinjska",8.1
+"5",2007,"Zasavska",7.1
+"6",2007,"Posavska",7.9
+"7",2007,"Jugovzhodna Slovenija",8
+"8",2007,"Osrednjeslovenska",9.6
+"9",2007,"Gorenjska",8.4
+"10",2007,"Primorsko-notranjska",8.8
+"11",2007,"Goriška",8.3
+"12",2007,"Obalno-kraška",7.6
+"13",2008,"Pomurska",7
+"14",2008,"Podravska",7.4
+"15",2008,"Koroška",9.3
+"16",2008,"Savinjska",8.5
+"17",2008,"Zasavska",8
+"18",2008,"Posavska",8.2
+"19",2008,"Jugovzhodna Slovenija",8.8
+"20",2008,"Osrednjeslovenska",9
+"21",2008,"Gorenjska",8.4
+"22",2008,"Primorsko-notranjska",10.2
+"23",2008,"Goriška",8.8
+"24",2008,"Obalno-kraška",7.3
+"25",2009,"Pomurska",7.1
+"26",2009,"Podravska",7.8
+"27",2009,"Koroška",8.8
+"28",2009,"Savinjska",9.2
+"29",2009,"Zasavska",8.3
+"30",2009,"Posavska",8.1
+"31",2009,"Jugovzhodna Slovenija",9.1
+"32",2009,"Osrednjeslovenska",9.3
+"33",2009,"Gorenjska",9.2
+"34",2009,"Primorsko-notranjska",8.9
+"35",2009,"Goriška",9.3
+"36",2009,"Obalno-kraška",8.2
+"37",2010,"Pomurska",8.2
+"38",2010,"Podravska",9
+"39",2010,"Koroška",9.9
+"40",2010,"Savinjska",10.3
+"41",2010,"Zasavska",9.7
+"42",2010,"Posavska",8.7
+"43",2010,"Jugovzhodna Slovenija",9.7
+"44",2010,"Osrednjeslovenska",9.9
+"45",2010,"Gorenjska",9.2
+"46",2010,"Primorsko-notranjska",10.2
+"47",2010,"Goriška",10.3
+"48",2010,"Obalno-kraška",7.8
+"49",2011,"Pomurska",9.6
+"50",2011,"Podravska",9.1
+"51",2011,"Koroška",10.8
+"52",2011,"Savinjska",10.7
+"53",2011,"Zasavska",9.2
+"54",2011,"Posavska",9.8
+"55",2011,"Jugovzhodna Slovenija",10
+"56",2011,"Osrednjeslovenska",9.6
+"57",2011,"Gorenjska",10.3
+"58",2011,"Primorsko-notranjska",9.7
+"59",2011,"Goriška",10.6
+"60",2011,"Obalno-kraška",8.3
+"61",2012,"Pomurska",9
+"62",2012,"Podravska",10
+"63",2012,"Koroška",11.4
+"64",2012,"Savinjska",10.6
+"65",2012,"Zasavska",9.5
+"66",2012,"Posavska",10.2
+"67",2012,"Jugovzhodna Slovenija",9.7
+"68",2012,"Osrednjeslovenska",10.2
+"69",2012,"Gorenjska",10.2
+"70",2012,"Primorsko-notranjska",10.4
+"71",2012,"Goriška",10.1
+"72",2012,"Obalno-kraška",8.4
+"73",2013,"Pomurska",7.8
+"74",2013,"Podravska",8.6
+"75",2013,"Koroška",10.2
+"76",2013,"Savinjska",9.4
+"77",2013,"Zasavska",8.7
+"78",2013,"Posavska",9.6
+"79",2013,"Jugovzhodna Slovenija",10.1
+"80",2013,"Osrednjeslovenska",9.3
+"81",2013,"Gorenjska",9.2
+"82",2013,"Primorsko-notranjska",8.4
+"83",2013,"Goriška",10
+"84",2013,"Obalno-kraška",7.6
+"85",2014,"Pomurska",7.5
+"86",2014,"Podravska",7.9
+"87",2014,"Koroška",9.5
+"88",2014,"Savinjska",9.1
+"89",2014,"Zasavska",8.9
+"90",2014,"Posavska",9.2
+"91",2014,"Jugovzhodna Slovenija",9.8
+"92",2014,"Osrednjeslovenska",9.5
+"93",2014,"Gorenjska",9
+"94",2014,"Primorsko-notranjska",8.5
+"95",2014,"Goriška",9.8
+"96",2014,"Obalno-kraška",7.7
+"97",2015,"Pomurska",8.8
+"98",2015,"Podravska",8.1
+"99",2015,"Koroška",9.6
+"100",2015,"Savinjska",9.2
+"101",2015,"Zasavska",8.3
+"102",2015,"Posavska",8.6
+"103",2015,"Jugovzhodna Slovenija",9.4
+"104",2015,"Osrednjeslovenska",9.2
+"105",2015,"Gorenjska",8.7
+"106",2015,"Primorsko-notranjska",9
+"107",2015,"Goriška",9.6
+"108",2015,"Obalno-kraška",6.2
+"109",2016,"Pomurska",12.9
+"110",2016,"Podravska",13.6
+"111",2016,"Koroška",14.6
+"112",2016,"Savinjska",14.9
+"113",2016,"Zasavska",13.4
+"114",2016,"Posavska",13.1
+"115",2016,"Jugovzhodna Slovenija",14.2
+"116",2016,"Osrednjeslovenska",16.5
+"117",2016,"Gorenjska",14.6
+"118",2016,"Primorsko-notranjska",14.1
+"119",2016,"Goriška",14.9
+"120",2016,"Obalno-kraška",12.4
+"121",2017,"Pomurska",7
+"122",2017,"Podravska",7.1
+"123",2017,"Koroška",7.9
+"124",2017,"Savinjska",8.2
+"125",2017,"Zasavska",7.2
+"126",2017,"Posavska",7.7
+"127",2017,"Jugovzhodna Slovenija",8.1
+"128",2017,"Osrednjeslovenska",8
+"129",2017,"Gorenjska",7.5
+"130",2017,"Primorsko-notranjska",7.7
+"131",2017,"Goriška",8.6
+"132",2017,"Obalno-kraška",6.3

@@ -16,25 +16,25 @@ Analiziral bom kako BDP vpliva na vključenost otrok v predšolske programe in k
 
 ## Podatki
 
-1. TABELA: (Osnovne šole)
+1. racka: (Osnovne šole)
 - 1. stoplec: Leto
 - 2. stoplec: Regija
 - 3. stoplec: Spol
 - 4. stoplec: Število
 
-2. TABELA: (Brezposelni)
+2. racka: (Brezposelni)
 - 1. stoplec: Leto
 - 1. stoplec: Regija
 - 1. stoplec: Aktivnost
 - 1. stoplec: Število
 
-3. TABELA: (Diplomanti)
+3. racka: (Diplomanti)
 - 1. stoplec: Leto
 - 2. stoplec: Regija
 - 3. stoplec: Meritev
 - 4. stoplec: Število
 
-4. TABELA: (Predšolska vzgoja)
+4. racka: (Predšolska vzgoja)
 - 1. stoplec: Leto
 - 2. stoplec: Regija
 - 3. stoplec: Spol

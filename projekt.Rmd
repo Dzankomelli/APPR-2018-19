@@ -24,7 +24,7 @@ source("lib/libraries.r", encoding="UTF-8")
 source("lib/rstudio.r", encoding="UTF-8")
 ```
 
-# Izbira teme
+# Uvod
 
 V svojem projektu bom analiziral vključenost ljudi v posamezni izobraževalni program v Sloveniji, od vrtcev pa vse do doktorskega študija. Podatke o številu ljudi, ki obiskujejo posamezni izobraževalni program sem dobil na spletni strani SURS-a.
 
@@ -36,19 +36,19 @@ Analiziral bom kako BDP vpliva na vključenost otrok v predšolske programe ter 
 
 #Spletne povezane do tabel:
 
-<https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0309250S&ti=&path=../Database/Ekonomsko/03_nacionalni_racuni/30_03092_regionalni_rac/&lang=2>
+[Bruto domači proizvod na prebivalca](<https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0309250S&ti=&path=../Database/Ekonomsko/03_nacionalni_racuni/30_03092_regionalni_rac/&lang=2>)
 
-<https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0955072S&ti=&path=../Database/Dem_soc/09_izobrazevanje/08_terciarno_izobraz/01_09550_vpisani_splosno/&lang=2>
+[Terciarno izobraževanje](<https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0955072S&ti=&path=../Database/Dem_soc/09_izobrazevanje/08_terciarno_izobraz/01_09550_vpisani_splosno/&lang=2>)
 
-<https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0953237S&ti=&path=../Database/Dem_soc/09_izobrazevanje/07_srednjesol_izobraz/01_09532_zac_sol_leta/&lang=2>
+[Srednješolsko šolanje](<https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0953237S&ti=&path=../Database/Dem_soc/09_izobrazevanje/07_srednjesol_izobraz/01_09532_zac_sol_leta/&lang=2>)
 
-<https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0952751S&ti=&path=../Database/Dem_soc/09_izobrazevanje/04_osnovnosol_izobraz/01_09527_zac_sol_leta/&lang=2>
+[Osnovno šolanje](<https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0952751S&ti=&path=../Database/Dem_soc/09_izobrazevanje/04_osnovnosol_izobraz/01_09527_zac_sol_leta/&lang=2>)
 
-<https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0952532S&ti=&path=../Database/Dem_soc/09_izobrazevanje/03_predsol_vzgoja/01_09525_otroci_vrtci/&lang=2>
+[Predšolska vzgoja](<https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0952532S&ti=&path=../Database/Dem_soc/09_izobrazevanje/03_predsol_vzgoja/01_09525_otroci_vrtci/&lang=2>)
 
-<https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0955481S&ti=&path=../Database/Dem_soc/09_izobrazevanje/08_terciarno_izobraz/02_09554_diplomanti_splosno/&lang=2>
+[Diplomanti](<https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0955481S&ti=&path=../Database/Dem_soc/09_izobrazevanje/08_terciarno_izobraz/02_09554_diplomanti_splosno/&lang=2>)
 
-<https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0775370S&ti=&path=../Database/Dem_soc/07_trg_dela/90_arhivski_podatki/03_akt_preb_let_arhiv/&lang=2>
+[Prebivalstvo](<https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0775370S&ti=&path=../Database/Dem_soc/07_trg_dela/90_arhivski_podatki/03_akt_preb_let_arhiv/&lang=2>)
 
 
 ***
@@ -108,41 +108,63 @@ source("vizualizacija/vizualizacija.r", encoding="UTF-8")
 ```
 
 
-Tukaj je prikazano, kako se je spreminjalo število ljudi vključenih v terciarno šolanje.
+Na grafu je prikazano, kako se je spreminjal bruto domači proizvod na prebivalca v Sloveniji. Vidimo, kako se je BDP per capita od 2007 do 2008 povečal zaradi nepremičninskega balona, potem pa ostro padel leta 2009, ko je nastopila gospodarska kriza. Po krizi se je BDP zaradi dobre gospodarske rasti skoraj vsako leto povečeval.
 
 ```{r line, echo=FALSE, message=FALSE, fig.align='left'}
 
-graf_terciarno_solanje
+graf_bdp_slo
 
 ```
 
 ***
 
-Tukaj je prikaz spreminjanja števila diplomantov glede na 1000 ljudi čez leta.
+Za primerjavo sem naredil graf, ki prikazuje razmerje med celotnim prebivalstvom v regiji in otroci, ki so vključeni v predšolsko vzgojo. Vidimo, da se procent otrok skozi skoraj vsa leta povečju, k čemur pripomore rudi dvig BDP v Sloveniji, saj si lahko vedno več ljudi privošči, da v vrtec vpiše svoje otroke.
 
 ```{r bar, echo=FALSE, message=FALSE, fig.align='left'}
 
-graf_st_diplomantov
+graf_otroci_indeks
 
 ```
 
-Iz grafa lahko lepo vidimo, da je spremeba študijskih programov močno vplivala na število ljudi, ki so tisto leto diplopirali.
+
 
 ***
 
-Zemljevid Slovenije po regijah.
+Na grafih Slovenije, sem prikazal število diplomantov na 1000 ljudi v posamezni regiji. Lahko opazimo, da vedno več ljudi posamezno leto diplomira. To je  bilo še posebej izrazito leta 2016, ko so spremenili šolski sistem in je veliko ljudi moralo končati svojo študijsko smer. 
 
 ```{r zemljevid, echo=FALSE, fig.align='left'}
 
-graf_slovenija
+zemljevid.2007.diplomanti
+
+zemljevid.2011.diplomanti
+
+zemljevid.2016.diplomanti
+
 ```
 
 
+***
+
+Prikazal sem razmerje med ljudmi, ki so vključeni v terciarno šolanje in diplomanti na 1000 prebivalcev po regijah. Presenetljivo je, da se vedno manj ljudi odloči za terciarno šolanje, kljub temu pa je razmerje skozi leta zelo podobno, z izjemo leta 2016. Razloga, da se vedno manj ljudi odloča za terciarno šolanje, sta verjetno tudi manjšanje rodnosti v državi ter višanje BDP-ja, saj je ljudem omogočeno lagodnejše življenje in zaradi tega ne stremijo k višji izobrazbi.
 
 
+```{r, echo=FALSE, fig.align='left'}
 
 
+graf_indeks
 
+```
+
+
+***
+
+Iz grafa razberemo, katere regije so si po številu dijakov in osnovnošolcev podobne.
+
+```{r, echo=FALSE, fig.align='left'}
+
+zemljevid_cluster
+
+```
 
 
 

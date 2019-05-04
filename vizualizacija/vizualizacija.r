@@ -4,47 +4,20 @@ source('lib/uvozi.zemljevid.r')
 
 #========================================================================================================
 
-# graf: prikaz BDP per capita glede na regijo in leto
+# graf: prikaz BDP per capita glede na Slovenijo in leto
 
-graf_bruto_proizvod <- ggplot(data = bruto, mapping = aes(x=Regija, y=BDP, fill=Leto)) 
-graf_bruto_proizvod <- graf_bruto_proizvod + geom_bar(stat = 'identity', position = 'dodge')
-graf_bruto_proizvod <- graf_bruto_proizvod + theme(axis.text.x = element_text(colour = 'black', angle = 90, size = 8))
-  
+graf_bdp_slo <- ggplot((data = bruto_slovenija), aes(x=Leto, y=BDP)) + geom_point() + geom_line(group = 1)
 
 
 #========================================================================================================
 
-# Graf: prikaz števila otrok vključenih v vrtec
+# Graf: Razmerje med otroci vkljucenimi v vrtec in ljudmi, ki zivijo v doloceni reg
 
-graf_otroci_vrtci <- ggplot(data = vrtec, mapping = aes(x=Regija, y=Stevilo, Group = Leto, fill=Spol))
-graf_otroci_vrtci <- graf_otroci_vrtci + geom_bar(stat = 'identity', position = 'dodge')
-graf_otroci_vrtci <- graf_otroci_vrtci + theme(axis.text.x = element_text(colour = 'black', angle = 90, size = 8))
-
+graf_otroci_indeks <- ggplot((data = razmerje), aes(x=Leto, y=Indeks, col=Regija)) + geom_point() + geom_line() +
+  scale_x_continuous('Leto', breaks = seq(2007, 2017, 1), limits = c(2007,2017))
 
 
 #========================================================================================================
-
-# Graf: število študentov v terciarnih dejavnostih
-
-graf_terciarno_solanje <- ggplot(data = terciarno_sum, mapping = aes(x=Regija, y=Stevilo, fill = Leto))
-graf_terciarno_solanje <- graf_terciarno_solanje + geom_bar(stat = 'identity', position = 'dodge')
-graf_terciarno_solanje <- graf_terciarno_solanje + theme(axis.text.x = element_text(colour = 'black', angle = 90, size = 8))
-
-
-
-#========================================================================================================
-
-# Graf: število diplomantov
-
-graf_st_diplomantov <- ggplot(data = diplomanti, mapping = aes(x=Regija, y=Stevilo, fill=Leto))
-graf_st_diplomantov <- graf_st_diplomantov + geom_bar(stat = 'identity', position = 'dodge')
-graf_st_diplomantov <- graf_st_diplomantov + theme(axis.text.x = element_text(colour = 'black', angle = 90, size = 8))
-
-
-
-
-#========================================================================================================
-
 # Graf: Zemljevid
 
 Slovenija <- uvozi.zemljevid("http://biogeo.ucdavis.edu/data/gadm2.8/shp/SVN_adm_shp.zip",
@@ -65,51 +38,73 @@ graf_slovenija <- ggplot(Slovenija, aes(x=long, y=lat, group=group, fill=Regija)
 #========================================================================================================
 #Tabele za zemljevide
 
-bruto.2007 <- filter(bruto, Leto == '2007')
-bruto.2010 <- filter(bruto, Leto == '2010')
-bruto.2013 <- filter(bruto, Leto == '2013')
-bruto.2017 <- filter(bruto, Leto == '2017')
-
-
-
-
-
+diplomanti.2007 <- filter(diplomanti, Leto == '2007')
+diplomanti.2011 <- filter(diplomanti, Leto == '2011')
+diplomanti.2016 <- filter(diplomanti, Leto == '2016')
 
 
 #========================================================================================================
-#BRUTO PROIZVOD 
-zemljevid.bruto.2007 <- ggplot() +
-  geom_polygon(data = right_join(bruto.2007,Slovenija, by = c("Regija")),
-               aes(x = long, y = lat, group = group, fill = BDP)) + xlab("") + ylab("") + theme(axis.title=element_blank(), axis.text=element_blank(),
-                axis.ticks=element_blank()) + ggtitle("BDP na prebivalca po regijah (2007)") + scale_fill_gradient(low = '#ffb3b3', high='#660000') 
+#Zemljevidi diplomantov na 1000 ljudi
 
 
-zemljevid.bruto.2010 <- ggplot() +
-  geom_polygon(data = right_join(bruto.2010,Slovenija, by = c("Regija")),
-               aes(x = long, y = lat, group = group, fill = BDP)) + xlab("") + ylab("") + theme(axis.title=element_blank(), axis.text=element_blank(),
-                axis.ticks=element_blank()) + ggtitle("BDP na prebivalca po regijah (2010)") + scale_fill_gradient(low = '#ffb3b3', high='#660000') 
-
-zemljevid.bruto.2013 <- ggplot() +
-  geom_polygon(data = right_join(bruto.2013,Slovenija, by = c("Regija")),
-               aes(x = long, y = lat, group = group, fill = BDP)) + xlab("") + ylab("") + theme(axis.title=element_blank(), axis.text=element_blank(),
-                axis.ticks=element_blank()) + ggtitle("BDP na prebivalca po regijah (2013)") + scale_fill_gradient(low = '#ffb3b3', high='#660000') 
-
-zemljevid.bruto.2017 <- ggplot() +
-  geom_polygon(data = right_join(bruto.2017,Slovenija, by = c("Regija")),
-               aes(x = long, y = lat, group = group, fill = BDP)) + xlab("") + ylab("") + theme(axis.title=element_blank(), axis.text=element_blank(),
-               axis.ticks=element_blank()) + ggtitle("BDP na prebivalca po regijah (2017)") + scale_fill_gradient(low = '#ffb3b3', high='#660000') 
+zemljevid.2007.diplomanti <- ggplot() +
+  geom_polygon(data = right_join(diplomanti.2007,Slovenija, by = c('Regija')),
+               aes(x = long, y = lat, group = group, fill = Stevilo))+
+  xlab("") + ylab("") + ggtitle('Diplomanti v letu 2007 na 1000 prebivalcev') + 
+  theme(axis.title=element_blank(), axis.text=element_blank(), axis.ticks=element_blank(), panel.background = element_blank()) + 
+  scale_fill_gradient(low = '#25511C', high='#2BFF00', limits = c(6,17))
+zemljevid.2007.diplomanti$labels$fill <- 'Diplomanti na 1000 prebivalcev'
 
 
+
+zemljevid.2011.diplomanti <- ggplot() +
+  geom_polygon(data = right_join(diplomanti.2011,Slovenija, by = c('Regija')),
+               aes(x = long, y = lat, group = group, fill = Stevilo))+
+  xlab("") + ylab("") + ggtitle('Diplomanti v letu 2011 na 1000 prebivalcev') + 
+  theme(axis.title=element_blank(), axis.text=element_blank(), axis.ticks=element_blank(), panel.background = element_blank()) + 
+  scale_fill_gradient(low = '#25511C', high='#2BFF00', limits = c(6,17))
+zemljevid.2011.diplomanti$labels$fill <- 'Diplomanti na 1000 prebivalcev'
+
+
+
+zemljevid.2016.diplomanti <- ggplot() +
+  geom_polygon(data = right_join(diplomanti.2016,Slovenija, by = c('Regija')),
+               aes(x = long, y = lat, group = group, fill = Stevilo))+
+  xlab("") + ylab("") + ggtitle('Diplomanti v letu 2016 na 1000 prebivalcev') + 
+  theme(axis.title=element_blank(), axis.text=element_blank(), axis.ticks=element_blank(), panel.background = element_blank()) + 
+  scale_fill_gradient(low = '#25511C', high='#2BFF00', limits = c(6,17))
+zemljevid.2016.diplomanti$labels$fill <- 'Diplomanti na 1000 prebivalcev'
 
 
 #========================================================================================================
-#OTROCI VKLJUČENI V VRTEC
+#plotly
 
-zemljevid.vrtec <- ggplot() +
-  geom_polygon(data = vrtec %>% right_join(Slovenija, by = c("Regija")),
-               aes(x = long, y = lat, group = group, fill = Stevilo)) + theme(axis.title=element_blank(), axis.text=element_blank(),
-                              axis.ticks=element_blank()) + ggtitle("Število otrok vključenih v vrtec") + scale_fill_gradient(low = '#ffb3b3', high='#660000')
+graf_indeks <- ggplot(data = indeks, aes(x=Studenti, y=Diplomanti, color=Regija)) + geom_point(aes(frame=Leto, ids=Indeks)) + scale_x_log10()
+graf_indeks <- graf_indeks + xlab('Terciarno šolanje') + ylab('Število diplomantov na 1000 ljudi')
+graf_indeks <- ggplotly(graf_indeks)
 
+
+#========================================================================================================
+#Cluster
+
+osnovne_sole1 <- dcast(osnovne_sole, Regija ~ Leto)
+dijaki1 <- dcast(dijaki, Regija ~ Leto)
+
+sole <- left_join(osnovne_sole1, dijaki1, by=c('Regija'))
+
+sole1 <- sole[,-1]
+fit<-hclust(dist(scale(sole1)))
+skupine <- cutree(fit, 4)
+
+cluster <- mutate(sole, skupine)
+
+zemljevid_cluster <- ggplot() +
+  geom_polygon(data = right_join(cluster[c(-2:-23)], Slovenija, by=c('Regija')), aes(x=long, y=lat, group = group, fill=factor(skupine))) +
+  geom_line() +
+  theme(axis.title=element_blank(), axis.text=element_blank(), axis.ticks=element_blank(), panel.background = element_blank(), legend.position = 'none') +
+  ggtitle('Osnovno šolci in dijaki med letoma 2007 in 2017')
+
+#Lahko deliš z številom prebivalcev, da bo imelo več smisla
 
 
 

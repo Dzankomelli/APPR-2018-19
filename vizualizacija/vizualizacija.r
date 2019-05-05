@@ -1,5 +1,6 @@
 # Uvozimo funkcije za pobiranje in uvoz zemljevida.
 source('lib/uvozi.zemljevid.r')
+source('lib/libraries.r', encoding = 'UTF-8')
 
 
 #========================================================================================================
@@ -100,9 +101,9 @@ cluster <- mutate(sole, skupine)
 
 zemljevid_cluster <- ggplot() +
   geom_polygon(data = right_join(cluster[c(-2:-23)], Slovenija, by=c('Regija')), aes(x=long, y=lat, group = group, fill=factor(skupine))) +
-  geom_line() +
-  theme(axis.title=element_blank(), axis.text=element_blank(), axis.ticks=element_blank(), panel.background = element_blank(), legend.position = 'none') +
-  ggtitle('Osnovnošolci in dijaki med letoma 2007 in 2017')
+  geom_line() + 
+  theme(axis.title=element_blank(), axis.text=element_blank(), axis.ticks=element_blank(), panel.background = element_blank(), legend.position = 'None') +
+  ggtitle('Osnovnošolci in dijaki med letoma 2007 in 2017') 
 
 
 

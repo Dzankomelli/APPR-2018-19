@@ -1,6 +1,4 @@
-library(readr)
-library(dplyr)
-library(tidyr)
+source('lib/libraries.r', encoding = 'UTF-8')
 
 #=======================================================================================================
 

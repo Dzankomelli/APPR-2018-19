@@ -122,7 +122,7 @@ graf_bdp_slo
 
 ***
 
-Z polinomom druge stopnje sem prikazal, kako lahko na podlagi vrednosti BDP-ja iz prejšnjih let napovemo vrednost BDP-ja v prihodnosti do leta 2020. Sicer pa napoved ni zelo dobra, saj gledamo kot da je BDP odvisen samo od svojega gibanja v prejšnjih letih, v resnici pa nanj vpliva zelo veliko dejavnikov.
+S polinomom druge stopnje sem prikazal, kako lahko na podlagi vrednosti BDP-ja iz prejšnjih let napovemo vrednost BDP-ja v prihodnosti do leta 2020. Sicer pa napoved ni zelo dobra, saj gledamo kot da je BDP odvisen samo od svojega gibanja v prejšnjih letih, v resnici pa nanj vpliva zelo veliko dejavnikov.
 
 ```{r graf_napoved, echo=FALSE, message=FALSE, fig.align='left'}
 

@@ -42,7 +42,7 @@ Analiziral bom, kako se BDP per capita spreminja skozi leta, kako BDP vpliva na 
 
 [Srednješolsko šolanje](<https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0953237S&ti=&path=../Database/Dem_soc/09_izobrazevanje/07_srednjesol_izobraz/01_09532_zac_sol_leta/&lang=2>)
 
-[Osnovno šolanje](<https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0952751S&ti=&path=../Database/Dem_soc/09_izobrazevanje/04_osnovnosol_izobraz/01_09527_zac_sol_leta/&lang=2>)
+[Osnovnošolsko šolanje](<https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0952751S&ti=&path=../Database/Dem_soc/09_izobrazevanje/04_osnovnosol_izobraz/01_09527_zac_sol_leta/&lang=2>)
 
 [Predšolska vzgoja](<https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=0952532S&ti=&path=../Database/Dem_soc/09_izobrazevanje/03_predsol_vzgoja/01_09525_otroci_vrtci/&lang=2>)
 

@@ -145,7 +145,7 @@ graf_otroci_indeks
 
 ***
 
-Na grafih Slovenije, sem prikazal število diplomantov na 1000 ljudi v posamezni regiji. Opazimo, da vedno več ljudi posamezno leto diplomira. To je  bilo še posebej izrazito leta 2016, ko so spremenili šolski sistem in je veliko ljudi moralo končati svojo študijsko smer. Verjetno ima tudi na število diplomantov vpliv dvig BDP-ja, saj imajo študentje manj težav z denarjem in se lahko bolj posvetiju študiju.
+Na grafih Slovenije, sem prikazal število diplomantov na 1000 ljudi v posamezni regiji. Opazimo, da se število diplomantov iz leta v leto povečuje. To je  bilo še posebej izrazito leta 2016, ko so spremenili šolski sistem in je veliko ljudi moralo končati svojo študijsko smer. Verjetno ima  na število diplomantov vpliv tudi dvig BDP-ja, saj imajo študentje manj težav z denarjem in se lahko bolj posvetijo študiju.
 
 ```{r zemljevid, echo=FALSE, fig.align='left'}
 

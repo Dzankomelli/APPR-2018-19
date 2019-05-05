@@ -57,7 +57,7 @@ Analiziral bom, kako se BDP per capita spreminja skozi leta, kako BDP vpliva na 
 #Grob opis podatkov v tabelah:
 
 ```{r uvoz, echo=FALSE, message=FALSE, warning=FALSE }
-source("uvoz/uvoz_moje_datoteke.r", encoding="UTF-8")
+source("uvoz/uvoz_moje_datoteke.R", encoding="UTF-8")
 ```
 
 1. TABELA: (Osnovne šole)

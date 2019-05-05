@@ -133,7 +133,7 @@ plot(graf_napoved)
 
 ***
 
-Ker me je zanimalo, v kakšnem odnosu sta BDP in vključenost otrok v vrtec, sem za primerjavo naredil graf, ki prikazuje razmerje med celotnim prebivalstvom v regiji in otroci, ki so vključeni v predšolsko vzgojo. Vidimo, da se delež otrok vključenih v predšolsko vzgojo skoraj vsa leta povečuje, k čemur najverjetneje pripomore tudi dvig BDP v Sloveniji, saj si lahko vedno več ljudi privošči, da v vrtec vpiše svoje otroke.
+Ker me je zanimalo, v kakšnem odnosu sta BDP in vključenost otrok v vrtec, sem za primerjavo naredil graf, ki prikazuje razmerje med celotnim prebivalstvom v regiji in otroci, ki so vključeni v predšolsko vzgojo. Vidimo, da se delež otrok vključenih v predšolsko vzgojo skoraj vsa leta povečuje, k čemur najverjetneje pripomore tudi dvig BDP v Sloveniji, saj si lahko vedno več ljudi privošči vpis svojih otrok v vrtec.
 
 ```{r graf_otroci_indeks, echo=FALSE, message=FALSE, fig.align='left'}
 

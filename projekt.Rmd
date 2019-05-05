@@ -171,7 +171,7 @@ zemljevid_cluster
 
 ***
 
-Prikazal sem razmerje med ljudmi, ki so vključeni v terciarno šolanje in diplomanti na 1000 prebivalcev po regijah. Presenetljivo je, da se vedno manj ljudi odloči za terciarno šolanje, kljub temu pa je razmerje skozi leta zelo podobno, z izjemo leta 2016. Razloga, da se vedno manj ljudi odloča za terciarno šolanje, sta verjetno tudi manjšanje rodnosti v državi ter višanje BDP-ja, saj je ljudem omogočeno lagodnejše življenje in zaradi tega ne stremijo k višji izobrazbi.
+Prikazal sem razmerje med ljudmi, vključenih v terciarno šolanje, in diplomanti na 1000 prebivalcev po regijah. Presenetljivo je, da se vedno manj ljudi odloči za terciarno šolanje, kljub temu pa je razmerje skozi leta zelo podobno, z izjemo leta 2016. Razloga, da se vedno manj ljudi odloča za terciarno šolanje, sta verjetno tudi manjšanje rodnosti v državi ter višanje BDP-ja, saj je ljudem omogočeno lagodnejše življenje in zaradi tega ne stremijo k višji izobrazbi.
 
 
 ```{r graf_indeks, echo=FALSE, fig.align='left'}

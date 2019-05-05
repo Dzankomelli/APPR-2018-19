@@ -1,7 +1,7 @@
 ---
 title: "Analiza izobraževanja v Sloveniji po regijah"
 author: "Timotej Giacomelli"
-date: "27 december 2018"
+date: '5 maj 2019'
 output:
   html_document: default
   pdf_document:
@@ -30,7 +30,7 @@ V svojem projektu bom analiziral vključenost ljudi v posamezni izobraževalni p
 
 V dobljenih tabelah imam podatke o številu ljudi, ki so vključeni v določeno vrsto izobraževanja, ki jih ločim po spolu, letu šolanja in regiji v kateri se šolajo. Prav tako sem pridobil podatke o diplomantih na 1000 ljudi v posameznih regijah. Podatke imam od leta 2007 naprej.
 
-Analiziral bom kako BDP vpliva na vključenost otrok v predšolske programe ter kako sta povezana vključenost ljudi v terciarno šolanje ter število diplomantov glede na 1000 ljudi.
+Analiziral bom kako se BDP per capita spreminja skozi leta, kako BDP vpliva na vključenost otrok v predšolske programe ter kako sta povezana vključenost ljudi v terciarno šolanje ter število diplomantov glede na 1000 ljudi.
 
 ***
 
@@ -108,9 +108,13 @@ source("vizualizacija/vizualizacija.r", encoding="UTF-8")
 ```
 
 
-Na grafu je prikazano, kako se je spreminjal bruto domači proizvod na prebivalca v Sloveniji. Vidimo, kako se je BDP per capita od 2007 do 2008 povečal zaradi nepremičninskega balona, potem pa ostro padel leta 2009, ko je nastopila gospodarska kriza. Po krizi se je BDP zaradi dobre gospodarske rasti skoraj vsako leto povečeval.
+```{r analiza, echo=FALSE, message=FALSE, warning=FALSE, results='hide'}
+source('analiza/analiza.r', encoding='UTF-8')
+```
 
-```{r line, echo=FALSE, message=FALSE, fig.align='left'}
+Na grafu je prikazano, kako se je spreminjal bruto domači proizvod na prebivalca v Sloveniji od leta 2007 pa do leta 2017. Vidimo, da se je BDP per capita od 2007 do 2008 povečal zaradi nepremičninskega balona, potem pa ostro padel leta 2009, ko je nastopila gospodarska kriza. Po začetku gospodarkse krize je BDP nekaj časa ostal na približno enakem nivoju, po krizi pa se je zaradi dobre gospodarske rasti vsako leto povečeval.
+
+```{r graf_bdp_slo, echo=FALSE, message=FALSE, fig.align='left'}
 
 graf_bdp_slo
 
@@ -118,9 +122,20 @@ graf_bdp_slo
 
 ***
 
-Za primerjavo sem naredil graf, ki prikazuje razmerje med celotnim prebivalstvom v regiji in otroci, ki so vključeni v predšolsko vzgojo. Vidimo, da se procent otrok skozi skoraj vsa leta povečju, k čemur pripomore rudi dvig BDP v Sloveniji, saj si lahko vedno več ljudi privošči, da v vrtec vpiše svoje otroke.
+Z regresijsko premico sem prikazal, kako lahko na podlagi vrednosti BDP-ja iz prejšnjih let napovemo vrednost BDP-ja v prihodnosti do leta 2020. Sicer pa napoved ni zelo dobra, saj gledamo kot da je BDP odvisen samo od svojega gibanja v prejšnjih letih, v resnici pa nanj vpliva zelo veliko dejavnikov.
 
-```{r bar, echo=FALSE, message=FALSE, fig.align='left'}
+```{r graf_napoved, echo=FALSE, message=FALSE, fig.align='left'}
+
+plot(graf_napoved)
+
+```
+
+
+***
+
+Ker me je zanimalo, v kakšnem odnosu sta BDP in vključenost otrok v vrtec, sem za primerjavo naredil graf, ki prikazuje razmerje med celotnim prebivalstvom v regiji in otroci, ki so vključeni v predšolsko vzgojo. Vidimo, da se delež otrok vključenih v predšolsko vzgojo skoraj vsa leta povečuje, k čemur najverjetneje pripomore tudi dvig BDP v Sloveniji, saj si lahko vedno več ljudi privošči, da v vrtec vpiše svoje otroke.
+
+```{r graf_otroci_indeks, echo=FALSE, message=FALSE, fig.align='left'}
 
 graf_otroci_indeks
 
@@ -130,7 +145,7 @@ graf_otroci_indeks
 
 ***
 
-Na grafih Slovenije, sem prikazal število diplomantov na 1000 ljudi v posamezni regiji. Lahko opazimo, da vedno več ljudi posamezno leto diplomira. To je  bilo še posebej izrazito leta 2016, ko so spremenili šolski sistem in je veliko ljudi moralo končati svojo študijsko smer. 
+Na grafih Slovenije, sem prikazal število diplomantov na 1000 ljudi v posamezni regiji. Opazimo, da vedno več ljudi posamezno leto diplomira. To je  bilo še posebej izrazito leta 2016, ko so spremenili šolski sistem in je veliko ljudi moralo končati svojo študijsko smer. Verjetno ima tudi na število diplomantov vpliv dvig BDP-ja, saj imajo študentje manj težav z denarjem in se lahko bolj posvetiju študiju.
 
 ```{r zemljevid, echo=FALSE, fig.align='left'}
 
@@ -143,12 +158,23 @@ zemljevid.2016.diplomanti
 ```
 
 
+
+***
+Na grafu sem prikazal, katere regije so si med seboj podobne, po številu dijakov in osnovnošolcev.
+
+```{r zemljevid_cluster, echo=FALSE, fig.align='left'}
+
+zemljevid_cluster
+
+```
+
+
 ***
 
 Prikazal sem razmerje med ljudmi, ki so vključeni v terciarno šolanje in diplomanti na 1000 prebivalcev po regijah. Presenetljivo je, da se vedno manj ljudi odloči za terciarno šolanje, kljub temu pa je razmerje skozi leta zelo podobno, z izjemo leta 2016. Razloga, da se vedno manj ljudi odloča za terciarno šolanje, sta verjetno tudi manjšanje rodnosti v državi ter višanje BDP-ja, saj je ljudem omogočeno lagodnejše življenje in zaradi tega ne stremijo k višji izobrazbi.
 
 
-```{r, echo=FALSE, fig.align='left'}
+```{r graf_indeks, echo=FALSE, fig.align='left'}
 
 
 graf_indeks
@@ -157,14 +183,9 @@ graf_indeks
 
 
 ***
+#Zaključek
 
-Iz grafa razberemo, katere regije so si po številu dijakov in osnovnošolcev podobne.
-
-```{r, echo=FALSE, fig.align='left'}
-
-zemljevid_cluster
-
-```
+Iz analize podatkov vidimo, da je dvig BDP-ja povezan z vključenostjo ljudi v izobraževalne programe. Prav tako opazimo, kako lahko pritisk na ljudi vpliva na njihovo delavnost in voljo, kot se je zgodilo leta 2016, ko so se zaključili starejši študijski programi. Kar nisem pričakoval je, da se kljub večanju BDP-ja vedno manj ljudi odloča za terciarno šolanje, na kar pa verjetno vpliva manjšanje rodnosti v državi.
 
 
 

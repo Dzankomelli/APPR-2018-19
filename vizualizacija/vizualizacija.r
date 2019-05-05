@@ -79,8 +79,8 @@ zemljevid.2016.diplomanti$labels$fill <- 'Diplomanti na 1000 prebivalcev'
 #========================================================================================================
 #plotly
 
-graf_indeks <- ggplot(data = indeks, aes(x=Studenti, y=Diplomanti, color=Regija)) + geom_point(aes(frame=Leto, ids=Indeks)) + scale_x_log10()
-graf_indeks <- graf_indeks + xlab('Terciarno šolanje') + ylab('Število diplomantov na 1000 ljudi')
+graf_indeks <- ggplot(data = indeks, aes(x=Studenti, y=Diplomanti, color=Regija)) + geom_point(aes(frame=Leto, ids=Regija)) + scale_x_log10()
+graf_indeks <- graf_indeks + xlab('Terciarno šolanje') + ylab('Diplomanti')
 graf_indeks <- ggplotly(graf_indeks)
 
 
@@ -102,9 +102,8 @@ zemljevid_cluster <- ggplot() +
   geom_polygon(data = right_join(cluster[c(-2:-23)], Slovenija, by=c('Regija')), aes(x=long, y=lat, group = group, fill=factor(skupine))) +
   geom_line() +
   theme(axis.title=element_blank(), axis.text=element_blank(), axis.ticks=element_blank(), panel.background = element_blank(), legend.position = 'none') +
-  ggtitle('Osnovno šolci in dijaki med letoma 2007 in 2017')
+  ggtitle('Osnovnošolci in dijaki med letoma 2007 in 2017')
 
-#Lahko deliš z številom prebivalcev, da bo imelo več smisla
 
 
 

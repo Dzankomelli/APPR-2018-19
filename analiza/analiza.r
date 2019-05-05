@@ -1,21 +1,17 @@
 source('lib/libraries.r', encoding = 'UTF-8')
 
-# 
-# bruto_slovenija1$Leto <- factor(paste(bruto_slovenija1$Leto))
-# bruto_slovenija1$BDP <- factor(paste(bruto_slovenija1$BDP))
+
+bruto_slovenija1$Leto <- as.character(bruto_slovenija1$Leto)
+bruto_slovenija1$BDP <- as.character(bruto_slovenija1$BDP)
 
 
+bruto_slovenija1 <- bruto_slovenija1 %>% mutate(Leto = parse_integer(Leto), BDP = parse_number(BDP))
 prileganje <- lm(BDP ~ Leto, data = bruto_slovenija1)
-leta <- factor(data.frame(Leto=seq(2018,2020,1)))
-predict(prileganje, data.frame(Leto=leta))
-napoved <- mutate(leta, bruto_slovenija1 = predict(prileganje,leta))
+predict(prileganje, data.frame(Leto=seq(2017,2020,1)))
+napoved <- mutate(data.frame(Leto=seq(2017,2020,1)), bruto_slovenija1 = predict(prileganje,newdata=data.frame(Leto=seq(2017,2020,1))))
 
 
-
-# graf.napoved <- ggplot(bruto_slovenija1, aes(x=Leto, y=BDP))+
-#   geom_point() + geom_smooth(method=lm, fullrange=TRUE, color='red') + geom_point(data=napoved, inherit.aes = TRUE)+
-#   labs(title='Krneki') +
-#   scale_x_continuous('Leto', breaks = seq(2007, 2020, 1), limits = c(2007,2019))
-# 
-
+graf_napoved <- ggplot(bruto_slovenija1, aes(x=Leto, y=BDP)) + geom_point() + 
+  geom_smooth(method="lm", formula=y ~ x, fullrange=TRUE, color='green') + scale_x_continuous('Leto', breaks = seq(2007, 2020, 1), limits = c(2007,2020))
+ 
 

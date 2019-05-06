@@ -24,10 +24,7 @@ graf_otroci_indeks <- ggplot((data = razmerje), aes(x=Leto, y=Indeks, col=Regija
 Slovenija <- uvozi.zemljevid("http://biogeo.ucdavis.edu/data/gadm2.8/shp/SVN_adm_shp.zip",
                              "SVN_adm1") %>% fortify()
 colnames(Slovenija)[12] <- 'Regija'
-Slovenija$Regija <- gsub('GoriĹˇka', 'Goriška', Slovenija$Regija)
-Slovenija$Regija <- gsub('KoroĹˇka', 'Koroška', Slovenija$Regija)
-Slovenija$Regija <- gsub('Notranjsko-kraĹˇka', 'Primorsko-notranjska', Slovenija$Regija)
-Slovenija$Regija <- gsub('Obalno-kraĹˇka', 'Obalno-kraška', Slovenija$Regija)
+Slovenija$Regija <- gsub('Notranjsko-kraška', 'Primorsko-notranjska', Slovenija$Regija)
 Slovenija$Regija <- gsub('Spodnjeposavska', 'Posavska', Slovenija$Regija)
 
 

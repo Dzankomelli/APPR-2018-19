@@ -44,8 +44,8 @@ vrtec <- vrtec %>% filter(Spol != 'Spol - SKUPAJ')
 vrtec <- vrtec %>% filter(Regija!= 'SLOVENIJA')
 
 
-grp <- group_by(vrtec, Leto, Regija)
-vrtec_sum <- summarise(grp, Stevilo=sum(Stevilo))
+grp1 <- group_by(vrtec, Leto, Regija)
+vrtec_sum <- summarise(grp1, Stevilo=sum(Stevilo))
 
 vrtec_sum$Leto <- gsub('2007/08', '2007', vrtec_sum$Leto)
 vrtec_sum$Leto <- gsub('2008/09', '2008', vrtec_sum$Leto)
@@ -83,9 +83,9 @@ terciarno <- read.csv2(file = 'podatki/terciarno.csv', skip = 2, header = FALSE,
 
 terciarno <- terciarno %>% fill(1:3)%>% filter(complete.cases(.))
 
-grp <- group_by(terciarno, Leto, Regija)
+grp2 <- group_by(terciarno, Leto, Regija)
 
-terciarno_sum <- summarise(grp, Stevilo=sum(Stevilo))
+terciarno_sum <- summarise(grp2, Stevilo=sum(Stevilo))
 terciarno_sum <- terciarno_sum %>% filter(Regija !='SLOVENIJA')
 terciarno_sum <- terciarno_sum %>% filter(Regija !='stalno bivališče neznano ali v tujini')
 

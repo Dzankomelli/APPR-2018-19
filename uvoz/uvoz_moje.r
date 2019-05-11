@@ -143,7 +143,7 @@ prebivalstvo$Stevilo <- as.numeric(paste(prebivalstvo$Stevilo))
 #========================================================================================================
 
 
-#shranjene tabele (tidy data):
+#shranjene tabele (skoraj tidy data):
 
 write.csv(prebivalstvo, file = 'podatki/tidy_data/tidy_prebivalstvo.csv', fileEncoding = 'UTF-8')
 write.csv(bruto, file = 'podatki/tidy_data/tidy_bruto.csv', fileEncoding = 'UTF-8')
